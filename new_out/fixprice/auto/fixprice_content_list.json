@@ -1,0 +1,2864 @@
+[
+    {
+        "type": "text",
+        "text": "ЭрганИЗациЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\" ",
+        "text_level": 1,
+        "bbox": [
+            50,
+            240,
+            689,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "по ОКПО ИHH по ОКОПФ по ОКФС ",
+        "bbox": [
+            700,
+            239,
+            794,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/6036f8e787c067e076727413404babb7e5d6791f1842749b334e3f84483342c5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>80273858</td></tr><tr><td>7743462664</td></tr><tr><td>12247</td></tr><tr><td>23</td></tr></table>",
+        "bbox": [
+            825,
+            239,
+            964,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Бухгалтерская отчетность подлежит обязательному аудиту ",
+        "bbox": [
+            43,
+            395,
+            490,
+            410
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Наименование аудиторской организации,проводившей обязательный аудiт ",
+        "bbox": [
+            45,
+            420,
+            578,
+            450
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Идентификационный номер налогоплательщика   \nаудиторской организации   \nОсновной государственный регистрационный номер   \nаудиторской организации ",
+        "bbox": [
+            43,
+            485,
+            447,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Бухгалтерская отчетность подлежит утверждению ",
+        "bbox": [
+            45,
+            579,
+            431,
+            593
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Наименование органа, утверждающего бухгалтерскую отчетность Совет директоров ",
+        "bbox": [
+            43,
+            602,
+            462,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/91f7bce979325f6e8cb9c9dd8c6ea004264ff9d9c1c09a383a0ded17be4cc929.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            700,
+            481,
+            964,
+            545
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Бухгалтерская отчетность 3a 9 месяцев 20 25 г. ",
+        "bbox": [
+            373,
+            190,
+            630,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 2 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации OT 04.10.2023 № 157H ",
+        "bbox": [
+            613,
+            34,
+            942,
+            156
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "X ДА HET ",
+        "bbox": [
+            731,
+            573,
+            949,
+            594
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Идентификационный номер налогоплательщика 7743462664 Организационно-правовая форма Публичные акционерные общества (ПАО) Форма собственности Собственность иностранных юридических лиц ",
+        "bbox": [
+            45,
+            258,
+            690,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Адрес в пределах места нахождения 125212, Москва г, вн.тер.г. муниципальный округ Войковский, ш Ленинградское, д. 31, помещение 2Т, ",
+        "bbox": [
+            43,
+            324,
+            647,
+            361
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ДA X] HET ",
+        "bbox": [
+            729,
+            390,
+            947,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ОрганИЗациЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\" ",
+        "bbox": [
+            43,
+            242,
+            642,
+            259
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Единица измерения: тыс. руб. ",
+        "bbox": [
+            45,
+            277,
+            275,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/80793bfacd763702010e5cf33556eb39682f0ec3914ebd9e568357475f0a8442.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>на 30 сентября2025 r.2</td><td rowspan=1 colspan=1>на 31 декабря2024г.3</td><td rowspan=1 colspan=1>на 31 декабря2023 r:4</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>АКТИВI. Внеоборотные активыНематериальные активы</td><td rowspan=1 colspan=1>1110</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Основные средства</td><td rowspan=1 colspan=1>1150</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Инвестиционная недвижимость</td><td rowspan=1 colspan=1>1160</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>4,15</td><td rowspan=1 colspan=1>Финансовые вложения</td><td rowspan=1 colspan=1>1170</td><td rowspan=1 colspan=1>172214114</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Отложенные налоговые активы</td><td rowspan=1 colspan=1>1180</td><td rowspan=1 colspan=1>8286</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие внеоборотные активы</td><td rowspan=1 colspan=1>1190</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу I</td><td rowspan=1 colspan=1>1100</td><td rowspan=1 colspan=1>172222400</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>II. Оборотные активыЗапасы</td><td rowspan=1 colspan=1>1210</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Долгосрочные активы к продаже</td><td rowspan=1 colspan=1>1215</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на добавленную стоимость поприобретенным ценностям</td><td rowspan=1 colspan=1>1220</td><td rowspan=1 colspan=1>5051</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Дебиторская задолженность</td><td rowspan=1 colspan=1>1230</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Финансовые вложения (заисключением денежныхэквивалентов)</td><td rowspan=1 colspan=1>1240</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Денежные средства и денежныеэквиваленты</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>2140</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Прочие оборотные активы</td><td rowspan=1 colspan=1>1260</td><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу II</td><td rowspan=1 colspan=1>1200</td><td rowspan=1 colspan=1>7996</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>____</td><td rowspan=1 colspan=1>БАЛАHC</td><td rowspan=1 colspan=1>1600</td><td rowspan=1 colspan=1>172230396</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            45,
+            313,
+            968,
+            714
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 3 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации OT 04.10.2023 № 157H ",
+        "bbox": [
+            611,
+            33,
+            941,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Бухгалтерский баланс на 30сентября 2025 г. ",
+        "bbox": [
+            386,
+            189,
+            615,
+            228
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/48306fc0208c129097788c61adc1e300eb5bba6613834452dc88a9d0aeb3cb80.jpg",
+        "table_caption": [
+            "Форма 0710001 с. 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>на 30 сентября2025 r.2</td><td rowspan=1 colspan=1>на 31 декабря2024г.3</td><td rowspan=1 colspan=1>на 31 декабря2023 .4</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>ПАССИВШ. КапиталУставный капитал</td><td rowspan=1 colspan=1>1310</td><td rowspan=1 colspan=1>100000</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Собственные акции, принадлежащиеобществу, задолженность акционеровпо оплате акций</td><td rowspan=1 colspan=1>1320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Накопленная дооценка внеоборотныхактивов</td><td rowspan=1 colspan=1>1340</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Добавочный капитал (безнакопленной дооценки)</td><td rowspan=1 colspan=1>1350</td><td rowspan=1 colspan=1>172114214</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Резервный капитал</td><td rowspan=1 colspan=1>1360</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Нераспределенная прибыль(непокрытый убыток)</td><td rowspan=1 colspan=1>1370</td><td rowspan=1 colspan=1>(24868)</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td></td><td rowspan=2 colspan=1>Итого по разделу III</td><td rowspan=2 colspan=1>1300</td><td rowspan=2 colspan=1>172189346</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IV. Долгосрочные обязательстваЗаемные средства</td><td rowspan=1 colspan=1>1410</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td></td><td rowspan=2 colspan=1>Отложенные налоговые обязательства</td><td rowspan=2 colspan=1>1420</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Оценочные обязательства</td><td rowspan=2 colspan=1>1430</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Прочие долгосрочные обязательства</td><td rowspan=2 colspan=1>1450</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Итого по разделу IV</td><td rowspan=2 colspan=1>1400</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>V. Краткосрочные обязательстваЗаемные средства</td><td rowspan=1 colspan=1>1510</td><td rowspan=1 colspan=1>40542</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td></td><td rowspan=2 colspan=1>Кредиторская задолженность</td><td rowspan=2 colspan=1>1520</td><td rowspan=2 colspan=1>508</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>12</td></tr><tr><td></td><td></td><td rowspan=2 colspan=1>1540</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Оценочные обязательства</td></tr><tr><td></td><td rowspan=2 colspan=1>Прочие краткосрочные обязательства</td><td rowspan=2 colspan=1>1550</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Итого по разделу</td><td rowspan=2 colspan=1>1500</td><td rowspan=2 colspan=1>41050</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>БАЛАНС</td><td rowspan=1 colspan=1>1700</td><td rowspan=1 colspan=1>172230396</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            40,
+            47,
+            964,
+            520
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "POCCИЙCKАЯ Тен дурехто (найменование должности) (подниев «17» октября Фикс Прайс ",
+        "bbox": [
+            47,
+            523,
+            435,
+            644
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "В. П. Погонин ",
+        "text_level": 1,
+        "bbox": [
+            551,
+            543,
+            667,
+            557
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(расшифровка подписи) ",
+        "bbox": [
+            514,
+            560,
+            685,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            258,
+            790,
+            443,
+            802
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "1. Указывается номер соответствуюошсвапояснения. 2. Указывается отчетная дата. 3. Указывается предыдущий год. 4.Указывается год, предшествующий предыдущему. ",
+        "bbox": [
+            94,
+            642,
+            423,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Единица измерения: тыс. руб. ",
+        "bbox": [
+            43,
+            278,
+            273,
+            294
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/852849c06613c557b90451036f700312488f55feab24f5d41e49455df6ca7737.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За 9 месяцев 2025 г.2</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г.3</td></tr><tr><td></td><td rowspan=2 colspan=1>Выручка</td><td rowspan=2 colspan=1>2110</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>16</td></tr><tr><td></td><td rowspan=2 colspan=1>Себестоимость продаж</td><td rowspan=2 colspan=1>2120</td><td rowspan=2 colspan=1>(0)</td><td rowspan=2 colspan=1>(0)</td></tr><tr><td rowspan=1 colspan=1>17</td></tr><tr><td></td><td rowspan=2 colspan=1>Валовая прибыль (убыток)</td><td rowspan=2 colspan=1>2100</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Коммерческие расходы</td><td rowspan=2 colspan=1>2210</td><td rowspan=2 colspan=1>(0)</td><td rowspan=2 colspan=1>(0)</td></tr><tr><td rowspan=1 colspan=1>18</td></tr><tr><td></td><td rowspan=2 colspan=1>Управленческие расходы</td><td rowspan=2 colspan=1>2220</td><td rowspan=2 colspan=1>(29841)</td><td rowspan=2 colspan=1>(0)</td></tr><tr><td rowspan=1 colspan=1>19</td></tr><tr><td></td><td rowspan=2 colspan=1>Прибыль (убыток) от продаж</td><td rowspan=2 colspan=1>2200</td><td rowspan=2 colspan=1>(29841)</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Доходы от участия в других организациях</td><td rowspan=2 colspan=1>2310</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Проценты к получению</td><td rowspan=2 colspan=1>2320</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>20</td></tr><tr><td></td><td rowspan=2 colspan=1>Проценты к уплате</td><td rowspan=2 colspan=1>2330</td><td rowspan=2 colspan=1>(2242)</td><td rowspan=2 colspan=1>(0)</td></tr><tr><td rowspan=1 colspan=1>21</td></tr><tr><td></td><td rowspan=2 colspan=1>Прочие доходы</td><td rowspan=2 colspan=1>2340</td><td rowspan=2 colspan=1>о</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>22</td></tr><tr><td></td><td rowspan=2 colspan=1>Прочие расходы</td><td rowspan=2 colspan=1>2350</td><td rowspan=2 colspan=1>(1071)</td><td rowspan=2 colspan=1>(0)</td></tr><tr><td rowspan=1 colspan=1>23</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от продолжающейсядеятельности до налогообложения</td><td rowspan=1 colspan=1>2300</td><td rowspan=1 colspan=1>(33154)</td><td rowspan=1 colspan=1>0</td></tr><tr><td></td><td rowspan=2 colspan=1>Налог на прибыль организаций</td><td rowspan=2 colspan=1>2410</td><td rowspan=2 colspan=1>8286</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>11</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:текущий налог на прибыль организаций</td><td rowspan=1 colspan=1>2411</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>отложенный налог на прибыльорганизаций</td><td rowspan=1 colspan=1>2412</td><td rowspan=1 colspan=1>8286</td><td rowspan=1 colspan=1>0</td></tr><tr><td></td><td rowspan=2 colspan=1>Прочее</td><td rowspan=2 colspan=1>2460</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от прекращаемойдеятельности (за вычетом относящегося к нейналога на прибыль организаций)</td><td rowspan=1 colspan=1>2420</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Чистая прибыль (убыток)</td><td rowspan=1 colspan=1>2400</td><td rowspan=1 colspan=1>(24868)</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            45,
+            316,
+            969,
+            699
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 4 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации OT 04.10.2023 № 157H ",
+        "bbox": [
+            610,
+            32,
+            939,
+            155
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "Отчет о финансовых результатах за 9 месяцев 2025 г. ",
+        "bbox": [
+            339,
+            190,
+            662,
+            227
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "ОрганИЗацИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\" ",
+        "bbox": [
+            42,
+            241,
+            640,
+            259
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/dced467def4098df9fd5d87cbbba57331790d6353daa1f15e1c0dfa343863f3c.jpg",
+        "table_caption": [
+            "Форма 0710002 с. 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За 9 месяцев 2025 г.2</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г.3</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат переоценки внеоборотных активов,не включаемый в чистую прибыль (убыток)</td><td rowspan=1 colspan=1>2510</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат прочих операций, не включаемый вчистую прибыль (убыток)</td><td rowspan=1 colspan=1>2520</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль организаций, относящийся крезультатам переоценки внеоборотных активови прочих операций, не включаемых в чистуюприбыль (убыток)</td><td rowspan=1 colspan=1>2530</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Совокупный финансовый результат</td><td rowspan=1 colspan=1>2500</td><td rowspan=1 colspan=1>(24868)</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Базовая прибыль (убыток) на акцию, руб. коп.</td><td rowspan=1 colspan=1>2900</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Разводненная прибыль (убыток) на акцию, руб,КОП.                    ИЙСКАЯ ФЕЛ</td><td rowspan=1 colspan=1>2910</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            42,
+            51,
+            964,
+            263
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "B. П. Погонин ",
+        "text_level": 1,
+        "bbox": [
+            549,
+            288,
+            665,
+            303
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Тен директор (найменование доджности) \"Фикс(Прайоь)   \n«_17» октября 20 MOCKBA ",
+        "bbox": [
+            45,
+            265,
+            455,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(распифровка подписи) ",
+        "bbox": [
+            510,
+            306,
+            682,
+            319
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Указывается номер соответствующего пояснения.   \n2. Указывается отчетный период.   \n3. Указывается период предыдущего года, аналогичный отчетному периоду. ",
+        "bbox": [
+            90,
+            388,
+            564,
+            426
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Единица измерения: тыс. руб. ",
+        "bbox": [
+            33,
+            376,
+            195,
+            398
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/9d599f0d42132e2d843fa4bfc2fe632f27a7c1aa93b45e3a3bef65f501759821.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td><td colspan=\"1\" rowspan=\"1\">Код</td><td colspan=\"1\" rowspan=\"1\">Уставный</td><td colspan=\"1\" rowspan=\"1\">Собственные акции,принадлежащиеобществу,задолженностьакционеров пооплате акций</td><td colspan=\"1\" rowspan=\"1\">Накопленнаядооценкавнеоборотныхактивов</td><td colspan=\"1\" rowspan=\"1\">Добавочныйкапитал (безнакопленнойдооценки)</td><td colspan=\"1\" rowspan=\"1\">Резервныйкапитал</td><td colspan=\"1\" rowspan=\"1\">Нерaспределеннaяприбыль(непокрытыйубыток)</td><td colspan=\"1\" rowspan=\"1\">Итого</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">На 31 декабря 2023 г.3</td><td colspan=\"1\" rowspan=\"1\">3100</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3110</td><td colspan=\"1\" rowspan=\"2\">о</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">Корректировка в связи с:изменением учетной политики</td></tr><tr><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">_____</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\">исправлением ошибок</td><td colspan=\"1\" rowspan=\"1\">3120</td><td colspan=\"1\" rowspan=\"1\">о</td><td colspan=\"1\" rowspan=\"1\">_______</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3130</td><td colspan=\"1\" rowspan=\"2\">о</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"3\">_</td><td colspan=\"1\" rowspan=\"3\"></td><td colspan=\"1\" rowspan=\"3\"></td><td colspan=\"1\" rowspan=\"3\"></td><td colspan=\"1\" rowspan=\"3\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"2\">На 31 декабря 2023 г.3после корректировки</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td><td colspan=\"1\" rowspan=\"1\">Код</td><td colspan=\"1\" rowspan=\"1\">Уставныйкапитал²</td><td colspan=\"1\" rowspan=\"1\">Собственные акции,принадлежащиеобществу,задолженностьакционеров пооплате акций</td><td colspan=\"1\" rowspan=\"1\">Накопленнаядооценкавнеоборотныхактивов</td><td colspan=\"1\" rowspan=\"1\">Добавочныйкапитал (безнакопленнойдооценки)</td><td colspan=\"1\" rowspan=\"1\">Резервныйкапитал</td><td colspan=\"1\" rowspan=\"1\">Нераспределеннаяприбыль(непокрытыйубыток)</td><td colspan=\"1\" rowspan=\"1\">Итого</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">За 9 месяцев 2024 г.4Чистая прибыль (убыток)</td><td colspan=\"1\" rowspan=\"1\">3211</td><td colspan=\"1\" rowspan=\"1\">0</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Переоценка внеоборотных активов</td><td colspan=\"1\" rowspan=\"1\">3212</td></tr><tr><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Дивиденды</td><td colspan=\"1\" rowspan=\"1\">3227</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Иные изменения за счет операцийс собственниками (за исключениемдивидендов) - всего</td><td colspan=\"1\" rowspan=\"1\">3230</td><td colspan=\"1\" rowspan=\"1\">0</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">в том числе:Реорганизация юридического лица</td><td colspan=\"1\" rowspan=\"1\">3216</td><td colspan=\"1\" rowspan=\"1\">0</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Иные изменения - всего</td><td colspan=\"1\" rowspan=\"1\">3240</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">_________</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">в том числе:</td></tr><tr><td></td><td colspan=\"1\" rowspan=\"2\">На 30 сентября 2024 г.5</td><td colspan=\"1\" rowspan=\"2\">3250</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td></td><td colspan=\"1\" rowspan=\"2\">На 31 декабря 20246</td><td colspan=\"1\" rowspan=\"2\">3200</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\">о</td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\">о</td><td colspan=\"1\" rowspan=\"2\">о</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Корректировка в связи с: изменениемучетной политики</td><td colspan=\"1\" rowspan=\"1\">3210</td><td colspan=\"1\" rowspan=\"1\">0</td><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\">____</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3220</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">______</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\">____</td><td colspan=\"1\" rowspan=\"1\">исправлением ошибок</td></tr><tr><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">На 31 декабря 20246после корректировки</td><td colspan=\"1\" rowspan=\"2\">3230</td><td colspan=\"1\" rowspan=\"2\">о</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">Код</td><td colspan=\"1\" rowspan=\"2\">Уставныйкапитал</td><td colspan=\"1\" rowspan=\"2\">Собственные акции,принадлежащиеобществу,задолженностьакционеров пооплате акций</td><td colspan=\"1\" rowspan=\"2\">Накопленнаядооценкавнеоборотныхактивов</td><td colspan=\"1\" rowspan=\"2\">Добавочныйкапитал(безнакопленнойдооценки)</td><td colspan=\"1\" rowspan=\"2\">Резервныйкапитал</td><td colspan=\"1\" rowspan=\"2\">Нераспределеннаяприбыль(непокрытыйубыток)</td><td colspan=\"1\" rowspan=\"2\">Итого</td></tr><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3311</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">(24868)</td><td colspan=\"1\" rowspan=\"2\">(24868)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">За 9 месяцев 2025 г.7Чистая прибыль (убыток)</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Переоценка внеоборотных активов</td><td colspan=\"1\" rowspan=\"1\">3312</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">________</td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Дивиденды</td><td colspan=\"1\" rowspan=\"1\">3327</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td colspan=\"1\" rowspan=\"2\">Иные изменения за счет операцийс собственниками (за исключениемдивидендов) - всего</td><td colspan=\"1\" rowspan=\"2\">3330</td><td colspan=\"1\" rowspan=\"2\">1000000</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">172114214</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">172214214</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3331</td><td colspan=\"1\" rowspan=\"2\">10000</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">100000</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">в том числе:Дополнительный выпуск акций</td></tr><tr><td></td><td></td><td colspan=\"1\" rowspan=\"2\">3332</td><td colspan=\"1\" rowspan=\"2\">0</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">172114214</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">172114214</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Доходы, относящиесянепосредственно на увеличениекапитала</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">______</td><td colspan=\"1\" rowspan=\"2\">_____</td><td colspan=\"1\" rowspan=\"2\">_</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">_____</td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Реорганизация юридического лица</td><td colspan=\"1\" rowspan=\"1\">3316</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">__________</td><td colspan=\"1\" rowspan=\"2\">_______</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">0</td></tr><tr><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">Иные изменения - всего</td><td colspan=\"1\" rowspan=\"1\">3340</td><td colspan=\"1\" rowspan=\"1\">0</td></tr><tr><td></td><td></td><td></td><td colspan=\"1\" rowspan=\"2\">__</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"2\">___</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">____</td><td colspan=\"1\" rowspan=\"2\">____</td></tr><tr><td colspan=\"1\" rowspan=\"2\"></td><td colspan=\"1\" rowspan=\"1\">в том числе:</td><td colspan=\"1\" rowspan=\"1\">__</td></tr><tr><td colspan=\"1\" rowspan=\"1\">На 30 сентября 2025 скАя ФедЕ!</td><td colspan=\"1\" rowspan=\"1\">3300</td><td colspan=\"1\" rowspan=\"1\">10000</td><td colspan=\"1\" rowspan=\"1\">0</td><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"2\">172114214</td><td colspan=\"1\" rowspan=\"2\">______</td><td colspan=\"1\" rowspan=\"2\">(24868)</td><td colspan=\"1\" rowspan=\"2\">172189346</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            33,
+            423,
+            970,
+            685
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 6 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации OT 04.10.2023 N 157H ",
+        "bbox": [
+            724,
+            42,
+            936,
+            198
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "Отчет об изменениях капитала за 9 месяцев 2025 г. ",
+        "bbox": [
+            388,
+            248,
+            600,
+            302
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "ЭрганиЗацИЯ ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\" ",
+        "bbox": [
+            39,
+            324,
+            420,
+            349
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            28,
+            70,
+            970,
+            583
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Форма 0710004 с. 2 ",
+        "bbox": [
+            864,
+            42,
+            965,
+            60
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            29,
+            67,
+            971,
+            527
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4bdbd404073c6f2cf351cf31d75cdc8c973dba35bd2e7200fca8e187e306a4f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            35,
+            527,
+            507,
+            692
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. Указывается номер соответствующего пояснения.   \n2.Иной аналогичный показатель в зависимости от организационно-правовой формы организации.   \n3. Указывается год, предшествующий предыдущему.   \n4.Указывается период предыдущего года, аналогичный отчетному периоду.   \n5. Указывается дата окончания периода предыдущего года, аналогичного отчетному периоду.   \n6. Указывается предыдущий год.   \n7. Указывается отчетный период.   \n8. Указывается отчетная дата. ",
+        "bbox": [
+            67,
+            699,
+            499,
+            843
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "Форма 0710004 с. 3 ",
+        "bbox": [
+            864,
+            40,
+            965,
+            58
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Единица измерения: тыс. руб. ",
+        "bbox": [
+            45,
+            278,
+            275,
+            294
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/01533823312c99c7ccfa2e33236a0b54afda06d0c80808a8e6b9b69c3af5046a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=2>Код</td><td rowspan=1 colspan=1>За 9 месяцев 2025 г.2</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г.3</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Денежные потоки от текущих операцийПоступления — всего</td><td rowspan=1 colspan=2>4110</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:от продажи продукции, товаров,выполнения работ, оказания услуг</td><td rowspan=1 colspan=2>4111</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>арендных платежей, роялти, комиссионныхи иных аналогичных платежей</td><td rowspan=1 colspan=2>4112</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>от перепродажи финансовых вложений</td><td rowspan=2 colspan=2>4113</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>процентов по дебиторской задолженностипокупателей</td><td rowspan=1 colspan=2>4114</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>прочие поступления</td><td rowspan=2 colspan=2>4119</td><td rowspan=2 colspan=1>0</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Платежи – всего</td><td rowspan=2 colspan=2>4120</td><td rowspan=2 colspan=1>(36260)</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:поставщикам (подрядчикам) за сырье,материалы, выполненные работы,оказанные услуги</td><td rowspan=1 colspan=2>4121</td><td rowspan=1 colspan=1>(27389)</td><td rowspan=1 colspan=1>о</td></tr><tr><td></td><td rowspan=2 colspan=1>в связи с оплатой труда работников</td><td rowspan=2 colspan=2>4122</td><td rowspan=2 colspan=1>(3607)</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>процентов по долговым обязательствам</td><td rowspan=2 colspan=2>4123</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td rowspan=2 colspan=2>4124</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>налога на прибыль организаций</td></tr><tr><td></td><td rowspan=2 colspan=1>прочие платежи</td><td></td><td rowspan=2 colspan=1>4129</td><td rowspan=2 colspan=1>(5264)</td><td rowspan=2 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1></td><td></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сальдо денежных потоков от текущихопераций</td><td></td><td rowspan=1 colspan=1>4100</td><td rowspan=1 colspan=1>(36260)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Денежные потоки отинвестиционных операцийПоступления — всего</td><td></td><td rowspan=1 colspan=1>4210</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:от продажи внеоборотных активов (кромефинансовых вложений)</td><td></td><td rowspan=1 colspan=1>4211</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>от продажи акций других организаций(долей участия)</td><td></td><td rowspan=1 colspan=1>4212</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>от возврата предоставленных займов, отпродажи долговых ценных бумаг (правтребования денежных средств к другимлицам)</td><td></td><td rowspan=1 colspan=1>4213</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>дивидендов, процентов по долговымфинансовым вложениям и аналогичныхпоступлений от долевого участия в другихорганизациях</td><td></td><td rowspan=2 colspan=1>4214</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td></td></tr></table>",
+        "bbox": [
+            47,
+            310,
+            971,
+            928
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 7 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации Or 04.10.2023 № 157H ",
+        "bbox": [
+            613,
+            32,
+            941,
+            155
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Отчет о движении денежных средств за 9 месяцев 2025 г. ",
+        "bbox": [
+            322,
+            190,
+            680,
+            228
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "ОрганИЗаЦИя ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\" ",
+        "bbox": [
+            45,
+            242,
+            642,
+            259
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/9b23eb05e10c1284463323697364737664fd4ab7f8590e14205f85b3e1034270.jpg",
+        "table_caption": [
+            "Форма 0710005 с. 2 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За 9 месяцев 2025 г.2</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г.3</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>прочие поступления</td><td rowspan=1 colspan=1>4219</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Платежи — всего</td><td rowspan=1 colspan=1>4220</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:в связи с приобретением, созданием,модернизацией, реконструкциейи подготовкой к использованиювнеоборотных активов</td><td rowspan=1 colspan=1>4221</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в связи с приобретением акций другихорганизаций (долей участия)</td><td rowspan=1 colspan=1>4222</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в связи с приобретением долговых ценныхбумаг (прав требования денежных средствк другим лицам), предоставление займовдругим лицам</td><td rowspan=1 colspan=1>4223</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>процентов по долговым обязательствам,включаемым в стоимость инвестиционногоактива</td><td rowspan=1 colspan=1>4224</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>прочие платежи</td><td rowspan=1 colspan=1>4229</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сальдо денежных потоков отинвестиционных операций</td><td rowspan=1 colspan=1>4200</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Денежные потоки от финансовых операцийПоступления — всего</td><td rowspan=1 colspan=1>4310</td><td rowspan=1 colspan=1>38400</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:получение кредитов и займов</td><td rowspan=1 colspan=1>4311</td><td rowspan=1 colspan=1>38300</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>денежных вкладов собственников(участников)</td><td rowspan=1 colspan=1>4312</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>от выпуска акций, увеличения долейучастия</td><td rowspan=1 colspan=1>4313</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>от выпуска облигаций, векселей и другихдолговых ценных бумаг</td><td rowspan=1 colspan=1>4314</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=3 colspan=1>прочие поступления</td><td rowspan=2 colspan=1>4319</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>_____</td></tr><tr><td rowspan=2 colspan=1>_</td></tr><tr><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            42,
+            51,
+            966,
+            544
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/7db2da0d5725daa00ce34cb4fcb695956505a82239e57c4bcb47141b7e0e1f20.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            38,
+            561,
+            964,
+            995
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/90519b2023bb006f86130e74adf440e30b0a1d469f757df754ebbea2763fa3e3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За 9 месяцев 2025 г.2</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г.3</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Платежи - всего</td><td rowspan=1 colspan=1>4320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:собственникам (участникам) в связи свыкупом у них акций (долей участия)организации или их выходом из составаучастников</td><td rowspan=1 colspan=1>4321</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>на уплату дивидендов и иных платежейпо распределению прибыли в пользусобственников (участников)</td><td rowspan=1 colspan=1>4322</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в связи с погашением (выкупом) векселейи других долговых ценных бумаг, возвраткредитов и займов</td><td rowspan=1 colspan=1>4323</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>прочие платежи</td><td rowspan=2 colspan=1>4329</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сальдо денежных потоков от финансовыхопераций</td><td rowspan=1 colspan=1>4300</td><td rowspan=1 colspan=1>38400</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сальдо денежных потоков за период</td><td rowspan=1 colspan=1>4400</td><td rowspan=1 colspan=1>2140</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Остаток денежных средств и денежныхэквивалентов на начало периода</td><td rowspan=1 colspan=1>4450</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Остаток денежных средств и денежныхэквивалентов на конец периода</td><td rowspan=1 colspan=1>4500</td><td rowspan=1 colspan=1>2140</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Величина влияния изменения курсаиностранной валюты по отношению к рублю</td><td rowspan=1 colspan=1>4490</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            40,
+            53,
+            964,
+            420
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ten. aurermoh ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            443,
+            272,
+            466
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(наменование должности) ",
+        "bbox": [
+            90,
+            466,
+            284,
+            478
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "« 17 » октября _20_25_г ",
+        "bbox": [
+            47,
+            486,
+            321,
+            502
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "B. П. Погонин ",
+        "text_level": 1,
+        "bbox": [
+            549,
+            444,
+            665,
+            458
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7bbf5b8a930d7d6bb74e8e4f671d610e258935ceb19de83484a8c4ae1b78e22.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            314,
+            422,
+            527,
+            546
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "расшифровка подписи) ",
+        "bbox": [
+            521,
+            462,
+            684,
+            474
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "1. Указывается номер соответствующего пояснения. 2. Указывается огчетный период. 3. Указывается период предыдущего года, аналогичный отчетному периоду. ",
+        "bbox": [
+            92,
+            545,
+            568,
+            583
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Форма 0710005 с. 3 ",
+        "bbox": [
+            794,
+            33,
+            963,
+            47
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Пояснения к бухгалтерскому балансу и отчету о финансовых результатах ",
+        "text_level": 1,
+        "bbox": [
+            266,
+            339,
+            724,
+            363
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Основные виды экономической деятельности Основным видом деятельности Общества является - деятельность холдинговых компаний ",
+        "bbox": [
+            271,
+            381,
+            720,
+            423
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Учетная политика ",
+        "text_level": 1,
+        "bbox": [
+            441,
+            447,
+            548,
+            463
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Бхарочеттсставена стети седераныистадартаи спообаения буаерчета отнстя сорутроиоеифато хозяйственй деьтипя стоотатоани еноборта,енарриееня чтбхаерета,анизаегтр бухгалтерского учета, обработки информации. ",
+        "bbox": [
+            58,
+            468,
+            945,
+            531
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Нематериальные активы ",
+        "text_level": 1,
+        "bbox": [
+            425,
+            554,
+            568,
+            574
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/6c492d517203fd09514e0364756065836c357054d6ff53bda70d117e2994392f.jpg",
+        "table_caption": [
+            "3.1. Наличие и движение нематериальных активов "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименованиепоказателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=1 colspan=2>На начало года</td><td rowspan=1 colspan=9>Изменения за период</td><td rowspan=1 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td><td rowspan=2 colspan=1>носту-пило</td><td rowspan=1 colspan=2>списано</td><td rowspan=1 colspan=1>амортиза-</td><td rowspan=1 colspan=1>обесце-</td><td rowspan=1 colspan=2>переоценка 1</td><td rowspan=1 colspan=2>переклассифицировано</td><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМоСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td></tr><tr><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ные аморти-зация иобесценение</td><td rowspan=1 colspan=1>ция</td><td rowspan=1 colspan=1>нение</td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИ-МОСТЬ</td><td rowspan=1 colspan=1>накоп-леннаяаморти-зация</td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИМОстЬ</td><td rowspan=1 colspan=1>накоплен-ные аморти-зация иобесценение</td></tr><tr><td rowspan=2 colspan=1>Нематериальныеактивы - всего</td><td rowspan=1 colspan=1>3a20  $r.{$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td></tr><tr><td rowspan=1 colspan=1>3a20   $r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(       )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>        )</td></tr></table>",
+        "bbox": [
+            35,
+            620,
+            973,
+            907
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультавтПлюс ",
+        "bbox": [
+            724,
+            26,
+            935,
+            42
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "Приложение № 8 к Федеральному стандарту бухгалтерского учета ФСБУ 4/2023 \"Бухгалтерская (финансовая) отчетность\", утвержденному приказом Министерства финансов Российской Федерации OT 04.10.2023 № 157H ",
+        "bbox": [
+            747,
+            99,
+            957,
+            260
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "c.2 ",
+        "bbox": [
+            944,
+            95,
+            965,
+            110
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9d5be9044f94b462f202cddda9d5702dd1f047fbe6207e68697f305317da90e.jpg",
+        "table_caption": [
+            "3.2. Нематериальные активы, созданные организацией "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>в том числе:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3a 20 $r.2$</td><td></td><td>(</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>(</td></tr><tr><td>(гpynna)</td><td>3a</td><td></td><td></td><td>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>20 р.$</td><td></td><td>(</td><td></td><td>(</td><td>)</td><td>(</td><td>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>из них ИСКЛЮЧИ-</td><td>3a $r.2$ 20</td><td></td><td></td><td>)</td><td>с</td><td>)</td><td>(</td><td>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>)</td></tr><tr><td>тельные</td><td>3a</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>права 4</td><td>20 р.</td><td></td><td>(</td><td>)</td><td>(</td><td>)</td><td>(</td><td>)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            30,
+            117,
+            967,
+            336
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ae324808a67462399314d271f352fbd0ea335030160d3bf5e87f3f7eda72544.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименованиепоказателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=1 colspan=2>На начало года</td><td rowspan=1 colspan=9>Изменения за период</td><td rowspan=1 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td><td rowspan=2 colspan=1>посту-пило</td><td rowspan=1 colspan=2>списано</td><td rowspan=1 colspan=1>амортиза-</td><td rowspan=1 colspan=1>обесце-</td><td rowspan=1 colspan=2>переоценка </td><td rowspan=1 colspan=2>переклассифицировано</td><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td></tr><tr><td rowspan=1 colspan=1>перво-начальная(переоце»ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ные аморти-зация иобесценение</td><td rowspan=1 colspan=1>ция</td><td rowspan=1 colspan=1>нение</td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИ-МОСТЬ</td><td rowspan=1 colspan=1>накоплен-наяамортиза-ция</td><td rowspan=1 colspan=1>нерво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ные аморти-зация иобесценение</td></tr><tr><td rowspan=2 colspan=1>Нематериальныеактивы, созданныеорганизацией-всего</td><td rowspan=1 colspan=1>3a20 r.2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=1 colspan=1>3a20   $r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpynna)</td><td rowspan=1 colspan=1>3a20  r.2}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td></tr><tr><td rowspan=1 colspan=1>3a20   r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td></td><td rowspan=2 colspan=1>3a20   $r.}$</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(         )</td></tr><tr><td rowspan=3 colspan=1>из ниХисключитель-</td></tr><tr><td rowspan=2 colspan=1>3a20  $r.{3$</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(        )</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1>(</td></tr><tr></tr></table>",
+        "bbox": [
+            29,
+            379,
+            973,
+            867
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованнем системы КонсультаптПлюс ",
+        "bbox": [
+            721,
+            25,
+            934,
+            40
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.3. Амортизируемые и неамортизируемые нематериальные активы ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            127,
+            493,
+            146
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "c. 3 ",
+        "bbox": [
+            945,
+            97,
+            965,
+            114
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/56280773cd657411c208dfe6f1b95cdde8fa857bd66368275b5dc6c6c2dd06e0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20  r.$</td><td rowspan=1 colspan=1>На 31 декабря20   r.6</td><td rowspan=1 colspan=1>На 31 декабря20   r.</td></tr><tr><td rowspan=1 colspan=1>Амортизируемые нематериальные активы - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(2pynna)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>из нихсозданные организацией</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Неамортизируемые нематериальные активы -всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ИЗ НИХсозданные организацией</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            29,
+            156,
+            612,
+            531
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.4. Нематериальные активы, в отношении которых имеются ограничения имущественных прав ",
+        "text_level": 1,
+        "bbox": [
+            71,
+            549,
+            568,
+            569
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/9bde2bd29ea1de19f2dfb42a039fc8bc20d648f7fa1d03cfd640e17b4f7204cc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20   r.$</td><td rowspan=1 colspan=1>На 31 декабря20   г.6</td><td rowspan=1 colspan=1>На 31 декабря20{.7$</td></tr><tr><td rowspan=1 colspan=1>Нематериальные активы, находящиеся в залоге,-всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            33,
+            581,
+            615,
+            746
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлос ",
+        "bbox": [
+            722,
+            26,
+            935,
+            42
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "c.4 ",
+        "bbox": [
+            944,
+            95,
+            965,
+            112
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/0081c42f1da394613d973b86db93e8da2a081a715fda559560e0a1e33f7824a0.jpg",
+        "table_caption": [
+            "3.5. Капитальные вложения в нематериальные активы "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Нематериальные активы, в отношении которыхимеются ограничения по иным основаниям, -всего</td></tr><tr><td rowspan=1 colspan=1>в том числе:(группа, объект)</td></tr></table>",
+        "bbox": [
+            28,
+            122,
+            611,
+            253
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/e8f532bb1dd24800ef500667e1c15558371827722b5365fe8492c51ade52e35b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td rowspan=3 colspan=1>Период</td><td rowspan=2 colspan=2>На начало года</td><td rowspan=2 colspan=4>Изменения за период</td><td rowspan=2 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>Наименование показателя</td></tr><tr><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td><td rowspan=1 colspan=1>затраты</td><td rowspan=1 colspan=1>обесценение</td><td rowspan=1 colspan=1>списано</td><td rowspan=1 colspan=1>принято к учету вкачественематериальныхактивов</td><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на приобретениенематериальных активов - всего</td><td rowspan=1 colspan=1>3a20   r.2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(                )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=3 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1>3a20  r{$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>)</td><td rowspan=2 colspan=1></td><td rowspan=2 colspan=1></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            27,
+            299,
+            975,
+            630
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            721,
+            26,
+            934,
+            42
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "c.5 ",
+        "bbox": [
+            942,
+            97,
+            963,
+            112
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/d053dd021931fd70f8d32426d038f7c351f98dab5c9c8347ee088c95e176c151.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Капитальные вложения на созданиенематериальных активов - всего</td><td rowspan=1 colspan=1>3a20  $r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)]</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1>3a20   r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  r.3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>(                )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=3>Капитальные вложения на улучшениенематериальных активов - всего</td><td rowspan=1 colspan=1>3a20   $r.{$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   r.3</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(група, объект)</td><td rowspan=1 colspan=1>3a20   $r.{$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            22,
+            117,
+            973,
+            547
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КопсультантПлюс ",
+        "bbox": [
+            720,
+            26,
+            933,
+            42
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "c.6 ",
+        "bbox": [
+            944,
+            99,
+            964,
+            114
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/00df3d61b325dc1565daf20c8bd543774f6b1acacfb885236ff7ba1a5e3403ab.jpg",
+        "table_caption": [
+            "3.6. Права на результаты интеллектуальной деятельности, средства индивидуализацииучитываемые на забалансовых счетах "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=2>Наименование показателя</td><td rowspan=2 colspan=1>Период</td><td rowspan=2 colspan=1>На начало года</td><td rowspan=1 colspan=2>Изменения за период</td><td rowspan=1 colspan=2>На конец периода</td></tr><tr><td rowspan=1 colspan=1>затраты</td><td rowspan=1 colspan=1>списано</td><td rowspan=1 colspan=1>по фактическимзатратам</td><td rowspan=1 colspan=1>по рыночнойСТОИМОСТИ(при наличии)</td></tr><tr><td></td><td rowspan=2 colspan=1>Средства индивидуализации, создаваемыесобственными силами организации, - всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>из нихисключительные права</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   $.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>Права на результаты интеллектуальнойдеятельности, средства индивидуализации, неотвечающие признакам нематериального актива,всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>в том числе:(группа, объект)</td><td rowspan=1 colspan=1>3a20   r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20   .$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=2 colspan=1>из нихисключительные права</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>3a20  r.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            27,
+            156,
+            768,
+            909
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультаптПлюс ",
+        "bbox": [
+            722,
+            26,
+            933,
+            42
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4. Основные средства ",
+        "text_level": 1,
+        "bbox": [
+            430,
+            126,
+            538,
+            144
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/5b7889ed93bcb0d15a08fc5b5cd30edfb5960d06846c39f12785e3023a800275.jpg",
+        "table_caption": [
+            "4.1. Наличие и движение основных средств "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td rowspan=5 colspan=1>Период</td><td rowspan=3 colspan=2>На начало года</td><td rowspan=3 colspan=9>Изменения за период</td><td></td><td></td></tr><tr><td></td><td rowspan=2 colspan=2>На конец периода</td></tr><tr><td rowspan=3 colspan=1>Наименованиепоказателя</td></tr><tr><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td><td rowspan=1 colspan=1>посту-нило</td><td rowspan=1 colspan=2>списано</td><td rowspan=1 colspan=1>амортиза-ция</td><td rowspan=1 colspan=1>обесце-нение</td><td rowspan=1 colspan=2>переоценка</td><td rowspan=1 colspan=2>переклассифици-ровано</td><td rowspan=2 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеамортиза-ция иобесцене-ние</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ныеамортиза-ция иобесцене-ние</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИ-МОСТЬ</td><td rowspan=1 colspan=1>накоплен-наяамортиза-ЦИЯ</td><td rowspan=1 colspan=1>перво-начальная(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ныеамортиза-ция иобесцене-ние</td></tr><tr><td rowspan=2 colspan=1>Основные средства(за исключениеминвестиционнойнедвижимости)-всего</td><td rowspan=1 colspan=1>3a20   r.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td></tr><tr><td rowspan=1 colspan=1>3a20   r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpупnа)</td><td rowspan=1 colspan=1>3a20  $.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>()</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td></tr><tr><td rowspan=1 colspan=1>3a20  $r.}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=2 colspan=1>Инвестиционнаянедвижимость - всего</td><td rowspan=1 colspan=1>3a20   r.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td></tr><tr><td rowspan=1 colspan=1>3a20 Γ3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpyпna)</td><td rowspan=1 colspan=1>3a20  $r.}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            29,
+            188,
+            956,
+            781
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы Консультаитлюс ",
+        "bbox": [
+            728,
+            26,
+            934,
+            42
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "discarded",
+        "text": "c.7 ",
+        "bbox": [
+            929,
+            102,
+            947,
+            117
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "c.8 ",
+        "bbox": [
+            931,
+            99,
+            950,
+            114
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/f7ab6b85804d85bf8b0b2e205e2c9f89f46181e313a29e0d1e03b2cc2a1f4872.jpg",
+        "table_caption": [
+            "4.2. Наличие и движение прав пользования активами "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=4 colspan=1>Наименованиепоказателя</td><td rowspan=4 colspan=1>Период</td><td rowspan=2 colspan=2>На начало года</td><td rowspan=2 colspan=7>Изменения за период</td><td rowspan=2 colspan=2>На конец периода</td></tr><tr></tr><tr><td rowspan=2 colspan=1>фактическая(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеамортиза-ция иобесцене-ние</td><td rowspan=2 colspan=1>поступило(с учетомпересмотрафактическойстоимости)</td><td rowspan=1 colspan=2>списано(с учетом пересмотрафактической стоимости)</td><td rowspan=2 colspan=1>амортиза-ция</td><td rowspan=2 colspan=1>обесцене-ние</td><td rowspan=1 colspan=2>переоценка</td><td rowspan=2 colspan=1>фактическая(переоце-ненная)СТОИМОСТЬ</td><td rowspan=2 colspan=1>накоплен-ныеамортиzа-ция иобесцене-ние</td></tr><tr><td rowspan=1 colspan=1>фактическая(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-ныеаморти-зация иобесцене-ние</td><td rowspan=1 colspan=1>фактическая(переоце-ненная)СТОИМОСТЬ</td><td rowspan=1 colspan=1>накоплен-наяамортиза-Ция</td></tr><tr><td rowspan=2 colspan=1>Правапользованияактивами-всего</td><td rowspan=1 colspan=1>3a20   r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td></tr><tr><td rowspan=1 colspan=1>3a20   .</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>с         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td></tr><tr><td rowspan=2 colspan=1>в том числе:(объект)</td><td rowspan=1 colspan=1>3a20  r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td></tr><tr><td rowspan=1 colspan=1>3a20  F</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(        )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>1</td></tr><tr><td rowspan=1 colspan=1>___________</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            32,
+            152,
+            931,
+            561
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            730,
+            26,
+            936,
+            42
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.3. Амортизируемые и неамортизируемые основные средства ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            127,
+            462,
+            146
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "c.9 ",
+        "bbox": [
+            927,
+            95,
+            946,
+            112
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/81180ee6aa90ffaaf53fc3df5e802c26527b113581ae38bcaa07bfe984a9443c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">Наименование показателя</td><td>Ha</td><td>На 31 декабря</td><td>На 31 декабря</td></tr><tr><td>r.$ 20</td><td>20 T.6</td><td>20 r.</td></tr><tr><td>Амортизируемые основные средства - всего в том числе:</td><td></td><td></td><td></td></tr><tr><td>(группа, объект)</td><td></td><td></td><td></td></tr><tr><td>Неамортизируемые основные средства - всего в том числе:</td><td></td><td></td><td></td></tr><tr><td>используемые для реализации законодательства Российской Федерации о мобилизационной подготовке и мобилизации, которые законсервированы (группа, объект)</td><td></td><td></td><td></td></tr><tr><td>основные средства, потребительские свойства которых с течением времени не изменяются (группа, объект)</td><td></td><td></td><td></td></tr><tr><td>инвестиционная недвижимость, оцениваемая по переоцененной стоимости (группа, объект)</td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            28,
+            163,
+            594,
+            670
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            726,
+            26,
+            933,
+            40
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            370,
+            729,
+            768,
+            746
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "c.10 ",
+        "bbox": [
+            922,
+            99,
+            947,
+            115
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/4fa879011df3fb06cc740dea53311181b510203a1b61814df704fe6e34b23e26.jpg",
+        "table_caption": [
+            "4.4. Основные средства, в отношении которых имеются ограничения использования "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20  r.3$</td><td rowspan=1 colspan=1>На 31 декабря20  r.6</td><td rowspan=1 colspan=1>На 31 декабря20r.$</td></tr><tr><td rowspan=1 colspan=1>Основные средства, пригодные для использования, но не используемые(когда это не связано с сезонными особенностями деятельности организации), -всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(гpynna)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Основные средства, предоставленные за плату во временное пользование, -всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(2pynna)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Основные средства, в отношении использования которых имеются ограниченияимущественных прав организации, - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(гpynna)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>иЗ нихосновные средства, находящиеся в залоге</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            26,
+            161,
+            725,
+            631
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            728,
+            28,
+            934,
+            42
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/176347fdc32a4ff57e221df184d220e6dfcbcda5731b91bd72b0d8fcfad043e9.jpg",
+        "table_caption": [
+            "4.5. Капитальные вложения в основные средства (за исключением инвестиционной недвижимости) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Наименование показателя</td><td rowspan=2 colspan=1>Период</td><td rowspan=1 colspan=2>На начало года</td><td rowspan=1 colspan=4>Изменения за период</td><td rowspan=1 colspan=1>На конец периода</td><td rowspan=1 colspan=1>На конец периода</td></tr><tr><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td><td rowspan=1 colspan=1>затраты</td><td rowspan=1 colspan=1>обесценение</td><td rowspan=1 colspan=1>списано</td><td rowspan=1 colspan=1>принято к учету вкачествеосновных средств</td><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на приобретениеосновных среДств - всего</td><td rowspan=1 colspan=1>3a20  $r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>))</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(2pynna)</td><td rowspan=1 colspan=1>3a20 $r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            (d:)</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(:)</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на создание основныхсредств - всего</td><td rowspan=1 colspan=1>3a20  $r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            </td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(2pynna)</td><td rowspan=1 colspan=1>3a20 $r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  $.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на улучшение ивосстановление основных средств - всего</td><td rowspan=1 colspan=1>3a20  r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(группа)</td><td rowspan=1 colspan=1>3a20  r.2</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   r.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            26,
+            154,
+            958,
+            847
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            731,
+            30,
+            936,
+            43
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "discarded",
+        "text": "c. 11 ",
+        "bbox": [
+            925,
+            100,
+            947,
+            117
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0d6cd0b447aa397fe629ec4fa725dc12d9ba0e41cddf213b73bf01702645d9e.jpg",
+        "table_caption": [
+            "4.6. Капитальные вложения в инвестиционную недвижимость "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td rowspan=3 colspan=1>Период</td><td rowspan=2 colspan=2>На начало года</td><td rowspan=2 colspan=4>Изменения за период</td><td rowspan=2 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>Наименование показателя</td></tr><tr><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td><td rowspan=1 colspan=1>затраты</td><td rowspan=1 colspan=1>обесценение</td><td rowspan=1 colspan=1>списано</td><td rowspan=1 colspan=1>принято к учету вкачествеинвестиционнойнедвижимости</td><td rowspan=1 colspan=1>фактическиезатраты</td><td rowspan=1 colspan=1>накопленноеобесценение</td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на приобретениеинвестиционной недвижимости - всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpynna)</td><td rowspan=1 colspan=1>3a20  r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $r.3}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>()</td><td rowspan=1 colspan=1>)(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на созданиеинвестиционной недвижимости - всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>               </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpyпa)</td><td rowspan=1 colspan=1>3a20   $r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>()</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  .3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>))</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>Капитальные вложения на улучшение ивосстановление инвестиционнойнедвижимости - всего</td><td rowspan=1 colspan=1>3a20  r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  $.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            </td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(группа)</td><td rowspan=1 colspan=1>3a20  $.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>(               )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  r.}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>_</td><td rowspan=1 colspan=1>)</td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td></td><td rowspan=1 colspan=1>______</td><td rowspan=1 colspan=1>___</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            24,
+            154,
+            954,
+            823
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            730,
+            28,
+            934,
+            42
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "discarded",
+        "text": "c.12 ",
+        "bbox": [
+            923,
+            99,
+            946,
+            115
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5. Финансовые вложения ",
+        "text_level": 1,
+        "bbox": [
+            422,
+            124,
+            541,
+            141
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/a61118d98c0e00854a122e29c26cd4464fcf073f04c94edaaeb86bc712c13467.jpg",
+        "table_caption": [
+            "5.1. Наличие и движение финансовых вложений "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименование показателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=1 colspan=2>На начало года</td><td rowspan=1 colspan=6>Изменения за период</td><td rowspan=1 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>первoнa-чальнаяСТОИМоСТЬ</td><td rowspan=2 colspan=1>накопленнаякорректиров-ka</td><td rowspan=2 colspan=1>поступи-ло</td><td rowspan=1 colspan=2>сдисано</td><td rowspan=2 colspan=1>проценты (включаядоведениепервоначальнойстоимости дономинальной)</td><td rowspan=2 colspan=1>текущейрыночнойСТОИМОСТИ/резерва подобесценение</td><td rowspan=2 colspan=1>переклас-sифици-ровано</td><td rowspan=2 colspan=1>первона-чальнаяСТОИМОСТЬ</td><td rowspan=2 colspan=1>накопленнаякорректиров-ka</td></tr><tr><td rowspan=1 colspan=1>первоначаль-наяСТОИМОстЬ</td><td rowspan=1 colspan=1>накопленнаякорректиров-ka</td></tr><tr><td rowspan=2 colspan=1>Долгосрочные финансовыевложения -всего</td><td rowspan=1 colspan=1>3a9 mec20 25г.2</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>3a9 mec2024.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=2 colspan=1>в том числе:Инвестиции в дочерниеобщества</td><td rowspan=1 colspan=1>3a9mec20 25 r.2</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>172214114</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>172 214114</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>3a 9mec2024 r.3</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=2 colspan=1>Краткосрочныефинансовые вложения -всего</td><td rowspan=1 colspan=1>3a9mec20 25 r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>3a 9mec2024г.3</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(    о    )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=2 colspan=1>в том числе:(вид, гpynna)</td><td rowspan=1 colspan=1>3a9 mec2025 r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о    )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>3a9 mec2024 r.3</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(    0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=2 colspan=1>Итого</td><td rowspan=1 colspan=1>3a9mec20 25 r.2</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=1>(    о    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>172214 114</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>3a9mec2024 r.</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>    о    )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=2 colspan=1></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+            27,
+            183,
+            951,
+            791
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованнем системы КопсультантПлюс ",
+        "bbox": [
+            738,
+            26,
+            934,
+            42
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "c.13 ",
+        "bbox": [
+            938,
+            102,
+            960,
+            115
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            186,
+            870,
+            193,
+            882
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "5.2. Иное использование финансовых вложений ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            124,
+            435,
+            141
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "c.14 ",
+        "bbox": [
+            938,
+            94,
+            961,
+            110
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "table",
+        "img_path": "images/21f915c5b56a45739d608426af8652f97641ef0d73a069f387b98b19b36ff0b5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20   r.$</td><td rowspan=1 colspan=1>На 31 декабря20   r.6</td><td rowspan=1 colspan=1>На 31 декабря20  r.</td></tr><tr><td rowspan=1 colspan=1>Финансовые вложения, находящиеся в залоге, - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(вuд, gpyna)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Финансовые вложения, переданные третьим лицам (кромепродажи), - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(вид, груnпа)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Иное использование финансовых вложений</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            27,
+            156,
+            626,
+            391
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с кспользованием системы КоясульталтПлюс ",
+        "bbox": [
+            738,
+            25,
+            935,
+            38
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "6. Запасы ",
+        "text_level": 1,
+        "bbox": [
+            450,
+            127,
+            501,
+            146
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "6.1. Наличие и движение запасов ",
+        "text_level": 1,
+        "bbox": [
+            391,
+            161,
+            561,
+            179
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/95f789af613c39fad4edbfadf67c4efb1e0e2528bc45910de567b6d3175579eb.jpg",
+        "table_caption": [
+            "6.2. Запасы, в отношении которых имеются ограничения имущественных прав "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td></td><td rowspan=4 colspan=1>Период</td><td rowspan=2 colspan=2>На начало года</td><td rowspan=2 colspan=6>Изменения за период</td><td rowspan=2 colspan=2>На конец периода</td></tr><tr><td rowspan=3 colspan=1>Наименование показателя</td></tr><tr><td rowspan=2 colspan=1>фактическаясебестои-МОСТЬ</td><td rowspan=2 colspan=1>резерв подобесцене-ние</td><td rowspan=2 colspan=1>затраты</td><td rowspan=1 colspan=2>списано</td><td rowspan=1 colspan=1>резерв под</td><td rowspan=1 colspan=2>изменеНия видов запасов</td><td rowspan=2 colspan=1>фактическаясебестои-МОСТЬ</td><td rowspan=2 colspan=1>резерв подобесцене-ние</td></tr><tr><td rowspan=1 colspan=1>фактическаясебестои-МОСТЬ</td><td rowspan=1 colspan=1>резерв подобесцене-ние</td><td rowspan=1 colspan=1>обесценение</td><td rowspan=1 colspan=1>фактическаясебестои-МОСТЬ</td><td rowspan=1 colspan=1>резерв подобесцене-ние</td></tr><tr><td rowspan=2 colspan=1>Запасы - всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(             )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(          )</td></tr><tr><td rowspan=2 colspan=1>в том числе:(6ud)</td><td rowspan=1 colspan=1>3a20  r.{2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(             )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(</td></tr><tr><td rowspan=1 colspan=1>3a20  $r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(         )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>         </td></tr></table>",
+        "bbox": [
+            29,
+            189,
+            939,
+            510
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "table",
+        "img_path": "images/dfd403394efe63522827da2d9cbe0f7e6141c322bdb87197655e7b5ea9c28998.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20   r.5</td><td rowspan=1 colspan=1>На 31 декабря20  r6</td><td rowspan=1 colspan=1>На 31 декабря20   r.</td></tr><tr><td rowspan=1 colspan=1>Запасы, находящиеся в пути, - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>________</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Запасы, находящиеся в залоге, - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            32,
+            566,
+            530,
+            784
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            721,
+            26,
+            934,
+            42
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "discarded",
+        "text": "c.15 ",
+        "bbox": [
+            938,
+            102,
+            963,
+            117
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "7. Дебиторская задолженность ",
+        "text_level": 1,
+        "bbox": [
+            410,
+            127,
+            561,
+            144
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "table",
+        "img_path": "images/b254ee7ab061c7a9ea6b44899bd94820023db725b92031647ff543786cf4a63f.jpg",
+        "table_caption": [
+            "7.1. Наличие и движение дебиторской задолженности "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименованиепоказателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=1 colspan=2>На начало года</td><td rowspan=1 colspan=6>Изменения за период(за минусом дебиторской задолженности, поступившей и погашенной (списанной) в одном отчетномперiоде)</td><td rowspan=1 colspan=2>На конец периода</td></tr><tr><td rowspan=2 colspan=1>по условиямдоговора</td><td rowspan=2 colspan=1>резерв посомнитель-HЫMдолгам</td><td rowspan=1 colspan=2>поступило</td><td rowspan=1 colspan=2>списано</td><td rowspan=1 colspan=1></td><td rowspan=2 colspan=1>перекласси-фицировано</td><td rowspan=2 colspan=1>πоусловиямдоговора</td><td rowspan=2 colspan=1>резерв посомнитель-HbIMдолгам</td></tr><tr><td rowspan=1 colspan=1>в результатефактовхозяйствен-НОЙ ЖИЗНИ(по условиямдоговора)</td><td rowspan=1 colspan=1>проценты,штрафы ииныеначисления</td><td rowspan=1 colspan=1>погашено</td><td rowspan=1 colspan=1>на расходы</td><td rowspan=1 colspan=1>восстанов-лениерезерва</td></tr><tr><td rowspan=2 colspan=1>Долгосрочнаядебиторскаязадолженность -всего</td><td rowspan=1 colspan=1>3a9mec2025 .</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(  о  )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>    о   )</td><td rowspan=1 colspan=1>(     0     )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   0  )</td></tr><tr><td rowspan=1 colspan=1>3a9mec20 24 г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>   0  )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>    0    )</td><td rowspan=1 colspan=1>     0     )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   0   )</td></tr><tr><td rowspan=2 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1>3a9mec20 25 r.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(   0  )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(    о    )</td><td rowspan=1 colspan=1>     0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>   0   )</td></tr><tr><td rowspan=1 colspan=1>3a9mec2024г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(   0  )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(    0    )</td><td rowspan=1 colspan=1>(     0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(   0  )</td></tr><tr><td rowspan=2 colspan=1>Краткосрочнаядебиторскаязадолженность -всего</td><td rowspan=1 colspan=1>3a9mec20 25 r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(  0  )</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>    0    )</td><td rowspan=1 colspan=1>     0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>(   0   )</td></tr><tr><td rowspan=1 colspan=1>3a9mec2024 r.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(  0   )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>    о    )</td><td rowspan=1 colspan=1>(     0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(   0   )</td></tr><tr><td rowspan=2 colspan=1>в том числе:Поставщикиуслуг</td><td rowspan=1 colspan=1>3a9 mec20 25 r.</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   0  )</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>    о    )</td><td rowspan=1 colspan=1>(     о    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>о  )</td></tr><tr><td rowspan=1 colspan=1>3a9mec2024 г.3</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   о   )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(     о    )</td><td rowspan=1 colspan=1>(     о    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   0   )</td></tr><tr><td rowspan=2 colspan=1>Итого</td><td rowspan=1 colspan=1>3a9mec2025 r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(   о   )</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(    0    )</td><td rowspan=1 colspan=1>(     0    )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>784</td><td rowspan=1 colspan=1>(   о   )</td></tr><tr><td rowspan=1 colspan=1>3a 9 mec20 24 r.</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(   о   )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(    о    )</td><td rowspan=1 colspan=1>(     0    )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>   о   )</td></tr></table>",
+        "bbox": [
+            27,
+            186,
+            958,
+            863
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            728,
+            28,
+            933,
+            42
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "discarded",
+        "text": "c.16 ",
+        "bbox": [
+            925,
+            102,
+            948,
+            117
+        ],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "7.2. Просроченная дебиторская задолженность ",
+        "text_level": 1,
+        "bbox": [
+            370,
+            126,
+            602,
+            144
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d4aa56d2d70f75c0c479ee8b59a4d4d21b5055212f50d88a36999ff16c9e739.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Наименованиепоказателя</td><td rowspan=1 colspan=2>Ha20   r.$</td><td rowspan=1 colspan=2>На 31 декабря20   р.</td><td rowspan=1 colspan=2>На 31 декабря20   r.</td></tr><tr><td rowspan=1 colspan=1>по условиямдоговора</td><td rowspan=1 colspan=1>балансоваяСТОИМОСТЬ</td><td rowspan=1 colspan=1>по условиямдоговора</td><td rowspan=1 colspan=1>балансоваяСТОИМОСТЬ</td><td rowspan=1 colspan=1>по условиямдоговора</td><td rowspan=1 colspan=1>балансоваяСТОИМОСТЬ</td></tr><tr><td rowspan=1 colspan=1>Bcero</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            27,
+            154,
+            750,
+            327
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "8. Обязательства ",
+        "text_level": 1,
+        "bbox": [
+            444,
+            342,
+            530,
+            359
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "table",
+        "img_path": "images/079514aa1d83c4452727e3dbbf1d760a0a756d753f0dc176031450c102d3394d.jpg",
+        "table_caption": [
+            "8.1. Наличие и движение обязательств (за исключением оценочных обязательств) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименование показателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=3 colspan=1>На началорода</td><td rowspan=1 colspan=5>Изменения за период(за минусом обязательств, поступивших и списанных в одном отчетном периоде)</td><td rowspan=3 colspan=1>На конецпериода</td></tr><tr><td rowspan=1 colspan=2>поступило</td><td rowspan=1 colspan=2>списано</td><td rowspan=2 colspan=1>перекласси-фицировано</td></tr><tr><td rowspan=1 colspan=1>в результатефактовхозяйственной*И3HИ(по условиямдоговора)</td><td rowspan=1 colspan=1>проценты, штрафы ииные начисления</td><td rowspan=1 colspan=1>погашено</td><td rowspan=1 colspan=1>на доходы</td></tr><tr><td rowspan=2 colspan=1>Долгосрочныеобязательства - всего</td><td rowspan=1 colspan=1>3a 9mec2025 π.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(      0      </td><td rowspan=1 colspan=1>0      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>3a 9Mec2024 .</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(      о      )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=2 colspan=1>в том числе:(Buд)</td><td rowspan=1 colspan=1>3a 9mec2025 r.$</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(      о     )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>3a 9mec20 24 г.3</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>       о      )</td><td rowspan=1 colspan=1>(      о      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=2 colspan=1>Краткосрочныеобязательства - всего</td><td rowspan=1 colspan=1>3a 9mec0 25 π.2$</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>41050</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>41050</td></tr><tr><td rowspan=1 colspan=1>3a 9mec20 24 г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr></table>",
+        "bbox": [
+            27,
+            393,
+            868,
+            867
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            730,
+            30,
+            934,
+            43
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "discarded",
+        "text": "c.17 ",
+        "bbox": [
+            925,
+            100,
+            948,
+            117
+        ],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "c.18 ",
+        "bbox": [
+            923,
+            100,
+            948,
+            117
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/bf9953c3c3437aa2a07205ad68beb7b16f863bab0566eba1e1147bb6691076c5.jpg",
+        "table_caption": [
+            "8.2. Просроченные обязательства (за исключением оценочных обязательств) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>в том числе:Поставщики работ, услуг</td><td rowspan=1 colspan=1>3a 9mec20 25 π.2</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(      о      )</td><td rowspan=1 colspan=1>(      о      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>8</td><td></td></tr><tr><td rowspan=1 colspan=1>3a 9mec2024 г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(      о      )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td></td></tr><tr><td rowspan=2 colspan=1>Налоги к уплате</td><td rowspan=1 colspan=1>3a 9mec20 25 г.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>166</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(     0      )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>166</td><td></td></tr><tr><td rowspan=1 colspan=1>3a 9mec2024 r.3$</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>(      0     )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td></td></tr><tr><td rowspan=2 colspan=1>Прочая кредиторскаязадолженность</td><td rowspan=1 colspan=1>3a 9mec20 25r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>334</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>334</td><td></td></tr><tr><td rowspan=1 colspan=1>3a 9mec2024 г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td></td></tr><tr><td rowspan=2 colspan=1>Кредиты и займы</td><td rowspan=1 colspan=1>3a 9mec2025r.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>40542</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>      о     ))</td><td rowspan=1 colspan=1>(     0      )</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>40542</td><td></td></tr><tr><td rowspan=1 colspan=1>3a 9mec20 24 г.</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>     о     )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td><td></td></tr><tr><td rowspan=2 colspan=1>Итого</td><td rowspan=1 colspan=1>3a 9mec20 25 г.2</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>41050</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0      )</td><td rowspan=1 colspan=1>      0      )</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>41050</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a 9 mec20 24r.3</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(      0     )</td><td rowspan=1 colspan=1>(      0      )</td><td rowspan=1 colspan=1>X</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td rowspan=1 colspan=1>______</td><td rowspan=1 colspan=2>__</td></tr></table>",
+        "bbox": [
+            21,
+            121,
+            865,
+            589
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "table",
+        "img_path": "images/424d48f4fab71241484bb5d3f9144343745a87db26a8fe3f3e7df32cdc6ec9c3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20   r.$</td><td rowspan=1 colspan=1>На 31 декабря20  \\6</td><td rowspan=1 colspan=1>На 31 декабря20   r.</td></tr><tr><td rowspan=1 colspan=1>Bcero</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(ud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            32,
+            638,
+            555,
+            771
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            728,
+            28,
+            934,
+            43
+        ],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "8.3. Оценочные обязательства ",
+        "text_level": 1,
+        "bbox": [
+            313,
+            107,
+            462,
+            126
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "c.19 ",
+        "bbox": [
+            925,
+            102,
+            950,
+            119
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "table",
+        "img_path": "images/d2911458c79471e89994ead563e4ce0944b5ff412682e95e916bd63655e76773.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=1>Наименование показателя</td><td rowspan=3 colspan=1>Период</td><td rowspan=3 colspan=1>На началорода</td><td rowspan=1 colspan=3>Изменения за период</td><td rowspan=3 colspan=1>На конецperiodа</td></tr><tr><td rowspan=2 colspan=1>признано</td><td rowspan=1 colspan=2>списано</td></tr><tr><td rowspan=1 colspan=1>погашено</td><td rowspan=1 colspan=1>как избыточнаяcymMa</td></tr><tr><td rowspan=2 colspan=1>Оценочные обязательства всего</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(                    )</td><td rowspan=1 colspan=1>(                     )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   $.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(                    </td><td rowspan=1 colspan=1>(                     )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(гpynna)</td><td rowspan=1 colspan=1>3a20   r.2$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(                     </td><td rowspan=1 colspan=1>(                     )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   r.}$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>                    )</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            28,
+            137,
+            714,
+            413
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            730,
+            30,
+            934,
+            43
+        ],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "9. Обеспечения обязательств ",
+        "text_level": 1,
+        "bbox": [
+            244,
+            131,
+            391,
+            147
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/cabfa8cb4260a708648f37a8107ed5d22ca9b24490124e6abc5582679c831480.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Ha20   r.$</td><td rowspan=1 colspan=1>На 31 декабря20   г.</td><td rowspan=1 colspan=1>На 31 декабря20</td></tr><tr><td rowspan=1 colspan=1>Полученные - всего</td><td rowspan=1 colspan=1>low</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Выданные - всего</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>_</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>в том числе:(Bud)</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            29,
+            159,
+            609,
+            379
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "c. 20 ",
+        "bbox": [
+            938,
+            102,
+            963,
+            117
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "10. Расходы по обычным видам деятельности ",
+        "text_level": 1,
+        "bbox": [
+            171,
+            452,
+            398,
+            470
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "table",
+        "img_path": "images/2559217c952e79330a84a789813d75265773dd680c4deb418165080353a9a1a8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Наименование показателя</td><td rowspan=2 colspan=1>3a  9 месяцев2025 T.</td><td rowspan=1 colspan=1>3a  9 месяцев</td></tr><tr><td rowspan=1 colspan=1>20 24 r.3</td></tr><tr><td rowspan=1 colspan=1>Материальные затраты</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Затраты на оплату труда</td><td rowspan=1 colspan=1>3154</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Отчисления на социальные нужды</td><td rowspan=1 colspan=1>952</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Амортизация</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Прочие затраты</td><td rowspan=1 colspan=1>25735</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Итого по элементам</td><td rowspan=1 colspan=1>29841</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Изменение остатков (прирост [-], уменьшение [+]):незавершенного производства, готовойпродукции</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Итого расходы по обычным видам деятельности</td><td rowspan=1 colspan=1>29841</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            33,
+            482,
+            541,
+            761
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КовсультантПлюс ",
+        "bbox": [
+            726,
+            28,
+            936,
+            42
+        ],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "11. Государственная помощь ",
+        "text_level": 1,
+        "bbox": [
+            419,
+            127,
+            564,
+            146
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "11.1. Бюджетные средства ",
+        "text_level": 1,
+        "bbox": [
+            426,
+            163,
+            560,
+            181
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "c. 21 ",
+        "bbox": [
+            936,
+            99,
+            959,
+            115
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/10351cfcf664c6ae1da097136e256020655746dcdef973cc9692c21a6e1e7221.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"2\">Наименование показателя</td><td>3a</td><td>3a</td></tr><tr><td>20 r.2$</td><td>20 $r.3$</td></tr><tr><td>Получено бюджетных средств - всего</td><td></td><td></td></tr><tr><td>в том числе: на финансирование капитальных затрат</td><td></td><td></td></tr><tr><td>на финансирование текущих расходов</td><td></td><td></td></tr></table>",
+        "bbox": [
+            28,
+            194,
+            609,
+            361
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "11.2. Бюджетные кредиты ",
+        "text_level": 1,
+        "bbox": [
+            429,
+            378,
+            561,
+            396
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/57850986cf37dc3f36c6eaf14b07bd68ff293db21a2b6ebd8cc04229628a8ff0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=1>Наименование показателя</td><td rowspan=2 colspan=1>Период</td><td rowspan=2 colspan=1>На началорода</td><td rowspan=1 colspan=2>Изменения за период</td><td rowspan=2 colspan=1>На конецпериода</td></tr><tr><td rowspan=1 colspan=1>получено</td><td rowspan=1 colspan=1>возвращено</td></tr><tr><td rowspan=2 colspan=1>Бюджетные кредиты - всего</td><td rowspan=1 colspan=1>3a20    r.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20  г.</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=2 colspan=1>в том числе:(назначение)</td><td rowspan=1 colspan=1>3a20   r.$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>            )</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>3a20   r.3$</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(            )</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            30,
+            411,
+            612,
+            652
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            724,
+            26,
+            934,
+            40
+        ],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "12. Иная информация ",
+        "text_level": 1,
+        "bbox": [
+            437,
+            107,
+            548,
+            126
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Полное фирменное наименование Общества на руссом языке - ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФИКС ПРАЙС\".   \nСокращенное фирменное наименование Общества на русском языке - ПАО \"ФИКС ПРАЙС\". ",
+        "bbox": [
+            28,
+            147,
+            638,
+            188
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Пубое ееобтФирадаеексеебс,дв сттедераы збахобахзта ЕдномгреодиеММодре трн14700ея заниси 19 декабря 2024 года. ",
+        "bbox": [
+            32,
+            186,
+            947,
+            245
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "яОбщества: Росийская Федераи 121,г.Мса внте2.Мунаьный окрусий,енирдкесд.31,пом.Т.СродеятеьнтиОбщтва не ",
+        "bbox": [
+            116,
+            245,
+            938,
+            284
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Идентификационный номер (ИНН) Общества – 7743462664, код причины постановки на учет (КПП) — 77430100 ",
+        "bbox": [
+            29,
+            287,
+            568,
+            305
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Номинальный размер уставного капитала Общества составляет – 100 000 000 (Сто миллионов) рублей. ",
+        "bbox": [
+            35,
+            307,
+            532,
+            326
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Права, предоставляемые размещенными акциями: ",
+        "bbox": [
+            34,
+            334,
+            269,
+            351
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "прауатввтураендеабавтомчиетовалчередтав общемсобранасамгсапо оаг компетениии: ",
+        "bbox": [
+            29,
+            347,
+            912,
+            388
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "право получать часть прибыли от деятельности Общества (дивиденды); ",
+        "bbox": [
+            34,
+            391,
+            386,
+            410
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "во на получение части имущества Общества в случае его ликвидации; ",
+        "bbox": [
+            58,
+            411,
+            409,
+            428
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "·право доступа к документам Общества, предусмотренным статьей 91 Закона об АО; ",
+        "bbox": [
+            36,
+            430,
+            448,
+            448
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "-пра достунакинфораи (атераа),подлежаей обательнуретавенюионерувсс реаиейим праванаучатиеОбще собраниа его проведению: ",
+        "bbox": [
+            24,
+            448,
+            820,
+            485
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "аво тпебовать встановенныхЗакондательством случах и поряде выкупа Обществм всех или части принадежащих емуакий; ",
+        "bbox": [
+            49,
+            487,
+            738,
+            505
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "-прав оаовать реения орануравения обеставеуеградансравовеоедтияслчаях ивпряде,предутреннхзатеьством; праоспаатсовеене бо сеияредтреныетоитетияи нт таеи последствий недействительности ничтожных сделок Общества; иные права, предсмотренные Заондательством,Уставом ирешениями Общего собрания акнеров,принятыми в соответстви с гкоетений. ",
+        "bbox": [
+            30,
+            529,
+            957,
+            601
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            43,
+            588,
+            776,
+            606
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "бщество создано и действует в целях извлечения прибыли посредством осуществления предпринимательской деятельности. ",
+        "bbox": [
+            41,
+            620,
+            648,
+            638
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "ей деятельности руовдтуется десту зндатесомРФиУставо бщеста,увержденны реением единстеннучатниабичй омани Фикс IC (Fix Price Group PLC) (Рeшение №3 om 19.02.2025 – редaкция 3). ",
+        "bbox": [
+            107,
+            658,
+            957,
+            699
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "еднесписочная численность составляет на 30.06.2025 года - 1 человек. ",
+        "bbox": [
+            48,
+            702,
+            392,
+            719
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Единоличным исполнительным органом Общества яеляется генеральный директор Погонин Владимир Петрович.   \nВысшим органом управления Общества является Общее собрание акционеров. ",
+        "bbox": [
+            33,
+            721,
+            577,
+            757
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Ревизионная комиссия в Обществе не создана. ",
+        "bbox": [
+            39,
+            764,
+            255,
+            781
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Совет директоров в Обществе создан на основании решения № 4 от 16.05.2025. ",
+        "bbox": [
+            36,
+            781,
+            418,
+            800
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "1.Учетная политика. ",
+        "bbox": [
+            38,
+            806,
+            137,
+            823
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Кспообадя бтеретаоняясоури еатов хтвенй дееьтиения стотиактивораадеорт инвентаризаци, применениясчетов бухалтерскогоучета,организации регистров бухалтерского учета, обработки информации.   \n2.Активы и обязательства, выраженные в иностранной валюте.   \nЗа отчетный период активов, обязательств, выраженных в иностранной валюте не было. ",
+        "bbox": [
+            35,
+            820,
+            944,
+            894
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            38,
+            882,
+            467,
+            900
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3.Бухгалтерская отчетность. ",
+        "bbox": [
+            38,
+            909,
+            181,
+            926
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Бухалтерская отчетность сфорирована организацией исходя издейстующих в Росийской Федерации федеральных стандартов бухатерскогоучета. ",
+        "bbox": [
+            39,
+            922,
+            776,
+            944
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовпено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            726,
+            28,
+            933,
+            43
+        ],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "4.Финансовые вложения. ",
+        "bbox": [
+            33,
+            115,
+            149,
+            131
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "состоянина30.092гдаОбщ иет долгорочныеиавеениявеуатиявУтавном каитале оганиРФнасуу17214114тсу. ",
+        "bbox": [
+            47,
+            129,
+            875,
+            147
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "5.Прочие внеоборотные активы По состоянию на 30.09.2025 года Общество не имеет прочих внеоборотных активов. Общество применяет упрощенные способы учета на основании пунктов 11 и 12 ФСБУ 25/2018. Справочно: стоимость арендованных основных средств, учитываемых за балансом 37 375 тыс.руб. ",
+        "bbox": [
+            33,
+            159,
+            506,
+            235
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "6.Дебиторская задолженность..   \nПросроченной дебиторской задолженности за отчетный период не было.   \n7.Прочие оборотные активы.   \nОбщество в строке бухгалтерского баланса «Прочие оборотные активы» отражает (тыс. руб.): ",
+        "bbox": [
+            30,
+            247,
+            502,
+            326
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/badd19e83aae61872d8229ba0672c377395b6b4ed2e67d606a73e068819b4e98.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Нанменование</td><td rowspan=1 colspan=1>9 месяцев 2025 г</td><td rowspan=1 colspan=1>9 месяцев 2024 г</td></tr><tr><td rowspan=1 colspan=1>Неисклочительные права на программное обеспечение</td><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Отпуск будущего месяца</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>иТОГО</td><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            35,
+            331,
+            481,
+            421
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "8.Капитaл. ",
+        "bbox": [
+            34,
+            435,
+            87,
+            450
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Нояое1202чтенаа00.д000 штук обыкновенных акций, номинальной стоимостью 0,001 рубля каждая. ",
+        "bbox": [
+            32,
+            448,
+            960,
+            490
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Добавочный капитал составляет 172 114 214 тыс. руб. ",
+        "bbox": [
+            38,
+            492,
+            299,
+            509
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/3484f299bf9a732de36d92fc4990072a72b828310ca654a9cde4ba322320e70f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=3>Количество размещенных акций и их движение</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Тип акций</td><td rowspan=1 colspan=1>Количестворазмещенных акцийна начало периода</td><td rowspan=1 colspan=1>Эмиссия</td><td rowspan=1 colspan=1>Выкупакций</td><td rowspan=1 colspan=1>Продажавыкупленных акций</td><td rowspan=1 colspan=1>Количестворазмещенных акцийна конец периода</td></tr><tr><td rowspan=1 colspan=1>Обыкновенные</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>100 000000</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>100000000</td></tr></table>",
+        "bbox": [
+            36,
+            514,
+            586,
+            635
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "9.Денежные средства. ",
+        "bbox": [
+            36,
+            640,
+            145,
+            657
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Денжи жеаясяыеианове вжения ктореубтлеобращеныараеизестуюуденых едт иторе деен незначительному риску изменения стоимости (п. 5 ПБУ 23/2011). ",
+        "bbox": [
+            27,
+            653,
+            944,
+            699
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Состав денежных средств $\\pmb { u }$ денежных эквивалентов приведен в таблице ниже (тыс. руб.) ",
+        "bbox": [
+            36,
+            697,
+            467,
+            715
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e091160834fb85d9c53c846313aa52121dfeda4f2c3eb90d4c0b0b8a7fcaa60.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>№о счета</td><td rowspan=1 colspan=1>Наименовакие</td><td rowspan=1 colspan=1>Вал.</td><td rowspan=1 colspan=1>Сальдо начальное</td><td rowspan=1 colspan=1>Оборот по дебету</td><td rowspan=1 colspan=1>Оборот по кредиту</td><td rowspan=1 colspan=1>Итоговое сальдо</td></tr><tr><td rowspan=1 colspan=1>51</td><td rowspan=1 colspan=1>Расчетные счета</td><td rowspan=1 colspan=1>RUB</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>38419</td><td rowspan=1 colspan=1>36 279</td><td rowspan=1 colspan=1>2140</td></tr><tr><td rowspan=1 colspan=2>ИТого</td><td rowspan=1 colspan=1>RUB</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>38419</td><td rowspan=1 colspan=1>36 279</td><td rowspan=1 colspan=1>2140</td></tr></table>",
+        "bbox": [
+            39,
+            721,
+            516,
+            794
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "10.Займы и кредиты. ",
+        "text_level": 1,
+        "bbox": [
+            39,
+            810,
+            137,
+            826
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "table",
+        "img_path": "images/9737f525b948aacc1416c8840080cf35c24f6cd5a4b04dbd2fcd899fb673466f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование</td><td rowspan=1 colspan=1>Направлсние вложений</td><td rowspan=1 colspan=1>Номер, дата договора</td><td rowspan=1 colspan=1>Дата выдачи</td><td rowspan=1 colspan=1>% ставка</td><td rowspan=1 colspan=1>OcтaTokзадолженноститыс.руб.</td><td rowspan=1 colspan=1>Задолженностьno%тыс.ру6.</td><td rowspan=1 colspan=1>Дята погашениякредпта</td></tr><tr><td rowspan=1 colspan=1>Публичнаякомпания «ФиксПрайс Групп Плс»</td><td rowspan=1 colspan=1>договор денежногозайма с процентами</td><td rowspan=1 colspan=1>6/H OT 27.01.2025</td><td rowspan=1 colspan=1>27.01.2025</td><td rowspan=1 colspan=1>23.00</td><td rowspan=1 colspan=1>38 300</td><td rowspan=1 colspan=1>2242</td><td rowspan=1 colspan=1>27.01.2026</td></tr><tr><td rowspan=1 colspan=1>ИТОГО</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>38 300</td><td rowspan=1 colspan=1>2242</td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+            39,
+            828,
+            627,
+            949
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            727,
+            30,
+            933,
+            43
+        ],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "!1.Налог на прибыль, отложенные налоговые активы и обязательства. ",
+        "bbox": [
+            38,
+            119,
+            372,
+            137
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Зa nеpuод с 01.01.2025 nо 30.09.2025 года: ",
+        "bbox": [
+            35,
+            139,
+            233,
+            157
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "был начислен условный доход по налогу на прибыль на сумму бухалтерскои оалансовои приыли в ризмере о г0о то.ру.   \nкоторыйбскрееаоегаеняхреериначето (наличия не учитываемых при налогообложении прибыли расходов), в размере 2 тыс. руб.   \nи скорректирован (уменьшен) на сумму изменения отложенных налоговых активов в размере 8 286 тыс. руб. ",
+        "bbox": [
+            22,
+            164,
+            963,
+            240
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Ставка налога на прибыль за отчетный период составляет $2 5 \\%$ ",
+        "bbox": [
+            35,
+            238,
+            343,
+            255
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "12.Кредиторская задолженность. ",
+        "bbox": [
+            36,
+            265,
+            197,
+            282
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Просроченная кредиторская задолженность на 30.09.2025 отсутствует. Списаний на финансовый результат не было. ",
+        "bbox": [
+            34,
+            280,
+            605,
+            300
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "13.Оценочные значения и обязательства. ",
+        "bbox": [
+            35,
+            307,
+            228,
+            326
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "За отчетный период Общество не создавало резервов. ",
+        "bbox": [
+            35,
+            327,
+            290,
+            344
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "14.Обеспечения обязательств и платежей. ",
+        "bbox": [
+            36,
+            351,
+            237,
+            368
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "В отчетном периоде Общество не имело заложенного имущества в обеспечение выполнения обязательств. ",
+        "bbox": [
+            38,
+            368,
+            545,
+            388
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "15.Информация о связанных сторонах. ",
+        "bbox": [
+            38,
+            394,
+            217,
+            411
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Основные владельцы: ",
+        "bbox": [
+            35,
+            415,
+            136,
+            431
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Пубчаякая ПрП(хР),страаретраебКирр союдетМардиаорса сотетстКотуныРеубхтанМежрднфиановоетртааи зндатеьстоМдардивонтастаа, дтареитр24.6.04йн440006,дт:ан. аЕсМ,52.д утавном кае бщ сяет83,32931%.инаястоиостдучатикатавном катае бт составяет393097ведеярлна триста двадцать девять тысяч девятьсот тридцать рублей девяносто семь копеек)   \nКонечной контролирующей стороной является Сергей Ломакин. ",
+        "bbox": [
+            33,
+            428,
+            963,
+            549
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Дочерние компании: ",
+        "text_level": 1,
+        "bbox": [
+            36,
+            569,
+            131,
+            586
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "месяцев 2025 год просроченная задолженность отсутствует, резервы по сомнительным долгам не создавались.   \nП«йетааайртс дой 1%дечертяет99%39 025 год просроченная задолженность отсутствует, резервы по сомнительным долгам не создавались. ",
+        "bbox": [
+            35,
+            579,
+            950,
+            663
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Компании, контролируемые основными владельцами: ",
+        "bbox": [
+            39,
+            677,
+            286,
+            697
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Частная комаия Pитей Технолжисэ Солюнимитед (Reta Тесhо& Soluton Limited), доля ваденияFx Рice Group PLC 100%. Общстс огреоттетрадядея е % пряадее-9%; ено,чеб огей ответственностью «Бэст Прайс» - 0,833299%) ",
+        "bbox": [
+            36,
+            692,
+            933,
+            754
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Товарищество с ограниченной ответственностью «Бэст Прайс Казахстан», доля владения Fix Рriсе Grоир РLС 100%.   \nИостраноеияирео огаичей тентьдвдеяРе 78274% (яоевен-02% е,чере Общество с ограниченной ответственностью «Бэст Прайс - 83,088274%.) Зависимые организации.   \nЗависимые организации отсутсвуют.   \nУчастники совместной деятельности.   \nУчастники совместной деятельности отсутствуют.   \nПрочие связанные стороны.   \nПрочие связанные стороны отсутствуют. ",
+        "bbox": [
+            34,
+            756,
+            954,
+            815
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            39,
+            825,
+            294,
+            942
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            728,
+            30,
+            935,
+            45
+        ],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Операции со связанными сторонами. ",
+        "text_level": 1,
+        "bbox": [
+            33,
+            114,
+            208,
+            129
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/2144e7c85cfdb556568cd6c5600780a1b8586a3d92db08b3bdc2dd756952065d.jpg",
+        "table_caption": [
+            "отеийпгасаных стороатае с остатковрачетассныи сторонаивбахние (овеачениявтысу) "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=2 colspan=2>Активы и обязательствя</td><td rowspan=1 colspan=4>Сальдо на</td><td rowspan=2 colspan=1></td></tr><tr><td rowspan=1 colspan=1>30.09.2025 г.</td><td rowspan=1 colspan=2>31.12.2024r.</td><td rowspan=1 colspan=1>31.12.2023 r.</td></tr><tr><td rowspan=1 colspan=2>Акти6ы</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Финансовые вложения, в т.ч,</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Долгосрочные</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Дочерние общества</td><td rowspan=1 colspan=1>172 214 114</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Обязательства</td><td rowspan=1 colspan=1>40542</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Кредиты и займы (включая проценты). в т.ч.</td><td rowspan=1 colspan=1>40542</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=2>Краткосрочная</td><td rowspan=1 colspan=1>40 542</td><td rowspan=1 colspan=2>0</td><td rowspan=1 colspan=1>0</td><td></td></tr><tr><td rowspan=1 colspan=2>Основные участники</td><td rowspan=1 colspan=1>40542</td><td rowspan=1 colspan=2>о</td><td rowspan=1 colspan=1>0</td><td></td></tr><tr><td rowspan=1 colspan=1>Операции</td><td rowspan=1 colspan=3>За 9 месящев 2025 г</td><td rowspan=1 colspan=3>За 9 месяцев 2024 г</td></tr><tr><td rowspan=1 colspan=1>Затраты и расходы</td><td rowspan=1 colspan=3>3181</td><td rowspan=1 colspan=3>0</td></tr><tr><td rowspan=1 colspan=1>Дочерние общества</td><td rowspan=1 colspan=3>939</td><td rowspan=1 colspan=3>о</td></tr><tr><td rowspan=1 colspan=1>Аренда недвижимого имущества</td><td rowspan=1 colspan=3>939</td><td rowspan=1 colspan=3>0</td></tr><tr><td rowspan=1 colspan=1>Основные участники</td><td rowspan=1 colspan=3>2242</td><td rowspan=1 colspan=3>0</td></tr><tr><td rowspan=1 colspan=1>Процентные расходы, начисленные позаймам</td><td rowspan=1 colspan=3>2242</td><td rowspan=1 colspan=3>о</td></tr></table>",
+        "bbox": [
+            35,
+            151,
+            432,
+            541
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/95b31ee8606f4e9b95833ed3a6f7e413aa40f501a23c850184fc0715054bb8d7.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "16.Выручка от продажи. Выручки от продаж за отчетный период не было. "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Операции</td><td rowspan=1 colspan=1>3а 9 месяцев 2025 г</td><td rowspan=1 colspan=1>За 9 месяцев 2024 г</td></tr><tr><td rowspan=1 colspan=1>Денежные потоки от текуших операций</td><td rowspan=1 colspan=1>(939)</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Поступления</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Платежи</td><td rowspan=1 colspan=1>939</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Дочерние общества</td><td rowspan=1 colspan=1>939</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>за аренду недвижимого имущества</td><td rowspan=1 colspan=1>939</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Денежные потоки от инвестицпонныхопераций</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Поступления</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Платежи</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Денежные потоки от финансовыхопераций</td><td rowspan=1 colspan=1>38 400</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Поступления</td><td rowspan=1 colspan=1>38 400</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Основные участники</td><td rowspan=1 colspan=1>38 400</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>от займов полученных</td><td rowspan=1 colspan=1>38 300</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>от вытуска акций</td><td rowspan=1 colspan=1>100</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Платежи</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr></table>",
+        "bbox": [
+            39,
+            544,
+            414,
+            900
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлсно с использованием системы КонсультантПлюс ",
+        "bbox": [
+            728,
+            30,
+            936,
+            43
+        ],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "17.Себестоимость.   \nРасходы на себестоимость за отчетный период отсутствуют.   \n18.Коммерческие расходы.   \nКоммерческие расходы отсутствуют.   \n19.Управленческие расходы.   \n(отчет о финансовых результатах строка 2220). ",
+        "bbox": [
+            29,
+            110,
+            335,
+            248
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Даные буае рахраатрат саыеаеанйрдргдпеаендтеаатевтру. ",
+        "bbox": [
+            23,
+            205,
+            956,
+            247
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e3a698d60154acba016dbf67f2ab6faf701632d49c7b5444c139a51e5ffe5f8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "20.Проценты к получению. Проценты к получению отсутствуют. "
+        ],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование</td><td rowspan=1 colspan=1>9 месяцев 2025 г</td><td rowspan=1 colspan=1>9 месяцев 2024 г</td></tr><tr><td rowspan=1 colspan=1>Оплата труда/вознаграждение/компенсации/ДМС</td><td rowspan=1 colspan=1>3154</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Аренда помещений, оборудования, земли</td><td rowspan=1 colspan=1>1287</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Аудиторские, юридические услуги</td><td rowspan=1 colspan=1>24 393</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Взнос по страхованию от НС</td><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Расходы на ПО</td><td rowspan=1 colspan=1>36</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Услуги по публикации информации</td><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Страховые взносы</td><td rowspan=1 colspan=1>946</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Услуги связи</td><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>нтого</td><td rowspan=1 colspan=1>29 841</td><td rowspan=1 colspan=1>0</td></tr></table>",
+        "bbox": [
+            34,
+            255,
+            488,
+            489
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Обществозотчетный перидпонерасдыввидепроентоввсумме 24 тысруб,отраженые отчетефинановых резульатах построке 23. ",
+        "bbox": [
+            27,
+            556,
+            785,
+            576
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлено с использованием системы КонсультантПлюс ",
+        "bbox": [
+            725,
+            30,
+            936,
+            45
+        ],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "22.Прочие доходы.   \nПрочие доходы за отчетный период отсутствуют.   \n23.Прочие расходы.   \nСостав прочих расходов приведен в таблице ниже (тыс. руб.) 24.События после отчетной даты.   \nВперид междуенйдатйидатйиая рочетнбфатов йтей еельтитор тьянениове состояние. движение денежных средств или результаты деятельности Общества. ",
+        "bbox": [
+            28,
+            109,
+            324,
+            184
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/19d63654691833669cca463e82778cfc9fd73f2bdfe7a916e94f0d59aaa04a4b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Нанменование</td><td rowspan=1 colspan=1>9 месяцев 2025 г</td><td rowspan=1 colspan=1>9 месяцев 2024 г</td></tr><tr><td rowspan=1 colspan=1>Расходы на услуги биржи</td><td rowspan=1 colspan=1>1 003</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Штрафы, пени операционные</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Услути банка</td><td rowspan=1 colspan=1>67</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>нТоГо</td><td rowspan=1 colspan=1>1071</td><td rowspan=1 colspan=1>о</td></tr></table>",
+        "bbox": [
+            32,
+            186,
+            467,
+            299
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            27,
+            304,
+            941,
+            363
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "25.Чистые активы. ",
+        "bbox": [
+            30,
+            368,
+            124,
+            384
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Стоиостчстых ти ставассиюн30.092д7218 34тыу.ррачетечтых тив оваьметдиоеничих иов ктр утвепждена совместным приказом Минфина Российской Федерации от 28.08.2014 г. № 84н. ",
+        "bbox": [
+            28,
+            381,
+            932,
+            420
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff2bc072c67269e0c6361f2013c91eee7ff6c9b32c0a117bf19f0cc4967a08d2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>нa 30.09.2025 r</td><td rowspan=1 colspan=1>на 30.09.2024г</td></tr><tr><td rowspan=1 colspan=1>Активы организации</td><td rowspan=1 colspan=1>172 230 396</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Дебиторская задолженность учредителей(участников,собственников, членов) по взносам (вкладам) вуставный капитал</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Дебиторская задолженность учредителей (участников,акционеров, собственников, членов) по оплате акций</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1>о</td></tr><tr><td rowspan=1 colspan=1>Обязательства организации</td><td rowspan=1 colspan=1>41 050</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Доходы будущих периодов, признанные организацией всвязи с получением государственной помощи</td><td rowspan=1 colspan=1>о</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ДоходыB СВЯЗИсбезвозмездным получениемимущества</td><td rowspan=1 colspan=1>0</td><td rowspan=1 colspan=1>0</td></tr><tr><td rowspan=1 colspan=1>Стоимость чистых актнвов (активы минус пассивы, стр.1300 бухгалтерского баланса)</td><td rowspan=1 colspan=1>172 189 346</td><td rowspan=1 colspan=1>о</td></tr></table>",
+        "bbox": [
+            35,
+            426,
+            473,
+            684
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Генеральный директор CИЙСКАЯ A Погонин В.П. (наименование должности) (подписв (расшифровка подписи) \" 17 \"  октября оике Прайс\" 1Указывается справочно ная ст 2×1_ ",
+        "bbox": [
+            32,
+            689,
+            416,
+            848
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "наличии) нематериальных активов, по которым отсутствует активный рынок. ",
+        "bbox": [
+            277,
+            815,
+            643,
+            833
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Указывается група нематериальных активов, исключительные права на которые принадлежат организации. ",
+        "bbox": [
+            39,
+            882,
+            555,
+            900
+        ],
+        "page_idx": 37
+    },
+    {
+        "type": "discarded",
+        "text": "Подготовлсно с использованием системы КонсультантПлюс ",
+        "bbox": [
+            724,
+            28,
+            934,
+            43
+        ],
+        "page_idx": 37
+    }
+]

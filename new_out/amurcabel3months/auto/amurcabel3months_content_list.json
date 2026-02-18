@@ -1,0 +1,283 @@
+[
+    {
+        "type": "text",
+        "text": "Бухгалтерская отчетность за январь - март 2025 г. ",
+        "text_level": 1,
+        "bbox": [
+            381,
+            40,
+            636,
+            71
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Организация: Публичное акционерное общество \"АМУРКАБЕЛЬ\" по ОКПО Идентификационный номер налогоплательщика ИНН 2702011416 Организационно-правовая формаПубличные акционерные общества по ОКОПФ 12247 Форма собственности Частная собственность по ОКФС 16 ",
+        "bbox": [
+            72,
+            96,
+            947,
+            164
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Адрес в пределах места нахождения 115563, Москва г, Борисовский проезд, дом 17, корпус 1, офис СТРОЕНИЕ2 ",
+        "bbox": [
+            75,
+            166,
+            640,
+            197
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Бухгалтерская отчетность подлежит обязательному аудиту ",
+        "bbox": [
+            73,
+            208,
+            519,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Наименование аудиторской организации, проводившей обязательный аудит ",
+        "bbox": [
+            75,
+            234,
+            643,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Идентификационный номер налогоплательщика аудиторской организации ИНН Основной государственный регистрационный номер аудиторской организации ОГРН ",
+        "bbox": [
+            77,
+            278,
+            757,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/92ff01fb6ec9d79491d6a88453a5964235f4128046d769a5a794dbfea0ceddc1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            791,
+            275,
+            944,
+            312
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Бухгалтерская отчетность подлежит утверждению ",
+        "bbox": [
+            73,
+            324,
+            452,
+            338
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/414cac2d7663941418f257c1d2d99a8c896a0b0c94b13ef59d4738717101a4ee.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            321,
+            702,
+            342
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Наименование органа, утверждающего бухгалтерскую отчетность ",
+        "bbox": [
+            73,
+            348,
+            568,
+            362
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Бухгалтерский баланс на 31 марта 2025 г. ",
+        "text_level": 1,
+        "bbox": [
+            406,
+            392,
+            608,
+            422
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Организация: Публичное акционерное общество \"АМУРКАБЕЛЬ\" Единица измерения тыс. руб. ",
+        "bbox": [
+            72,
+            480,
+            568,
+            511
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/28eb40397bfc8f608c323337d22803054a2f7be4ca9579a40a6b562594f61fd2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td><td colspan=\"1\" rowspan=\"1\">Код</td><td colspan=\"1\" rowspan=\"1\">На 31 марта2025 г.</td><td colspan=\"1\" rowspan=\"1\">На 31 декабря2024 г.</td><td colspan=\"1\" rowspan=\"1\">На 31 декабря2023 г.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">АКТИВI. Внеоборотные активыФудвил</td><td colspan=\"1\" rowspan=\"1\">1105</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Нематериальные активы</td><td colspan=\"1\" rowspan=\"1\">1110</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Нематериальные поисковые активы</td><td colspan=\"1\" rowspan=\"1\">1130</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Материальные поисковые активы</td><td colspan=\"1\" rowspan=\"1\">1140</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Основные средства</td><td colspan=\"1\" rowspan=\"1\">1150</td><td colspan=\"1\" rowspan=\"1\">1 054</td><td colspan=\"1\" rowspan=\"1\">1 054</td><td colspan=\"1\" rowspan=\"1\">1 054</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Инвестиционная недвижимость</td><td colspan=\"1\" rowspan=\"1\">1160</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Финансовые вложения</td><td colspan=\"1\" rowspan=\"1\">1170</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Отложенные налоговые активы</td><td colspan=\"1\" rowspan=\"1\">1180</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие внеоборотные активы</td><td colspan=\"1\" rowspan=\"1\">1190</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу 1</td><td colspan=\"1\" rowspan=\"1\">1100</td><td colspan=\"1\" rowspan=\"1\">1 054</td><td colspan=\"1\" rowspan=\"1\">1 054</td><td colspan=\"1\" rowspan=\"1\">1 054</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">II. Оборотные активыЗапасы</td><td colspan=\"1\" rowspan=\"1\">1210</td><td colspan=\"1\" rowspan=\"1\">37 379</td><td colspan=\"1\" rowspan=\"1\">37 379</td><td colspan=\"1\" rowspan=\"1\">37 379</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Долгосрочные активы к продаже</td><td colspan=\"1\" rowspan=\"1\">1215</td><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\">–</td><td colspan=\"1\" rowspan=\"1\">__</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Налог на добавленную стоимость поприобретенным ценностям</td><td colspan=\"1\" rowspan=\"1\">1220</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">НДС, начисленный по отгрузке</td><td colspan=\"1\" rowspan=\"1\">1220</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">___</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Дебиторская задолженность</td><td colspan=\"1\" rowspan=\"1\">1230</td><td colspan=\"1\" rowspan=\"1\">42 883</td><td colspan=\"1\" rowspan=\"1\">43 091</td><td colspan=\"1\" rowspan=\"1\">42859</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Финансовые вложения (за исключениемденежных эквивалентов)</td><td colspan=\"1\" rowspan=\"1\">1240</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Денежные средства и денежныеэквиваленты</td><td colspan=\"1\" rowspan=\"1\">1250</td><td colspan=\"1\" rowspan=\"1\">29</td><td colspan=\"1\" rowspan=\"1\">57</td><td colspan=\"1\" rowspan=\"1\">74</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие оборотные активы</td><td colspan=\"1\" rowspan=\"1\">1260</td><td colspan=\"1\" rowspan=\"1\">57 165</td><td colspan=\"1\" rowspan=\"1\">53 866</td><td colspan=\"1\" rowspan=\"1\">41 239</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу II</td><td colspan=\"1\" rowspan=\"1\">1200</td><td colspan=\"1\" rowspan=\"1\">137 456</td><td colspan=\"1\" rowspan=\"1\">134 393</td><td colspan=\"1\" rowspan=\"1\">121 551</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">БАЛАНС</td><td colspan=\"1\" rowspan=\"1\">1600</td><td colspan=\"1\" rowspan=\"1\">138510</td><td colspan=\"1\" rowspan=\"1\">135 447</td><td colspan=\"1\" rowspan=\"1\">122 605</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">ПАССИВIII. КапиталУставный капитал</td><td colspan=\"1\" rowspan=\"1\">1310</td><td colspan=\"1\" rowspan=\"1\">139</td><td colspan=\"1\" rowspan=\"1\">139</td><td colspan=\"1\" rowspan=\"1\">139</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Собственные акции, принадлежащиеобществу, задолженность акционеров пооплате акций</td><td colspan=\"1\" rowspan=\"1\">1320</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Накопленная дооценка внеоборотныхактивов</td><td colspan=\"1\" rowspan=\"1\">1340</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Добавочный капитал (без накопленнойдооценки)</td><td colspan=\"1\" rowspan=\"1\">1350</td><td colspan=\"1\" rowspan=\"1\">20612</td><td colspan=\"1\" rowspan=\"1\">20612</td><td colspan=\"1\" rowspan=\"1\">20 612</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Резервный капитал</td><td colspan=\"1\" rowspan=\"1\">1360</td><td colspan=\"1\" rowspan=\"1\">35</td><td colspan=\"1\" rowspan=\"1\">35</td><td colspan=\"1\" rowspan=\"1\">35</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Нераспределенная прибыль (непокрытыйубыток)</td><td colspan=\"1\" rowspan=\"1\">1370</td><td colspan=\"1\" rowspan=\"1\">(29 026)</td><td colspan=\"1\" rowspan=\"1\">(29 012)</td><td colspan=\"1\" rowspan=\"1\">(28 937)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу II</td><td colspan=\"1\" rowspan=\"1\">1300</td><td colspan=\"1\" rowspan=\"1\">(8241)</td><td colspan=\"1\" rowspan=\"1\">(8 226)</td><td colspan=\"1\" rowspan=\"1\">(8 151)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">IⅣ. Долгосрочные обязательстваЗаемные средства</td><td colspan=\"1\" rowspan=\"1\">1410</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\">1410</td><td colspan=\"1\" rowspan=\"1\">142 653</td><td colspan=\"1\" rowspan=\"1\">140 503</td><td colspan=\"1\" rowspan=\"1\">128 083</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Отложенные налоговые обязательства</td><td colspan=\"1\" rowspan=\"1\">1420</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Оценочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1430</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие долгосрочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1450</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу IV</td><td colspan=\"1\" rowspan=\"1\">1400</td><td colspan=\"1\" rowspan=\"1\">142 653</td><td colspan=\"1\" rowspan=\"1\">140 503</td><td colspan=\"1\" rowspan=\"1\">128 083</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">V. Краткосрочные обязательстваЗаемные средства</td><td colspan=\"1\" rowspan=\"1\">1510</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Кредиторская задолженность</td><td colspan=\"1\" rowspan=\"1\">1520</td><td colspan=\"1\" rowspan=\"1\">4098</td><td colspan=\"1\" rowspan=\"1\">3170</td><td colspan=\"1\" rowspan=\"1\">2673</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Обязательство по аренде</td><td colspan=\"1\" rowspan=\"1\">1520</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Доходы будущих периодов</td><td colspan=\"1\" rowspan=\"1\">1530</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">_____</td><td colspan=\"1\" rowspan=\"1\">_</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Оценочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1540</td><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие краткосрочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1550</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">_____</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу V</td><td colspan=\"1\" rowspan=\"1\">1500</td><td colspan=\"1\" rowspan=\"1\">4098</td><td colspan=\"1\" rowspan=\"1\">3170</td><td colspan=\"1\" rowspan=\"1\">2673</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">БАЛАНС</td><td colspan=\"1\" rowspan=\"1\">1700</td><td colspan=\"1\" rowspan=\"1\">138510</td><td colspan=\"1\" rowspan=\"1\">135 447</td><td colspan=\"1\" rowspan=\"1\">122 605</td></tr></table>",
+        "bbox": [
+            70,
+            521,
+            944,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            43,
+            946,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Генеральный директор ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            565,
+            247,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(наименование должности) ",
+        "bbox": [
+            114,
+            580,
+            277,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Мусин Радик Мансурович ",
+        "text_level": 1,
+        "bbox": [
+            484,
+            564,
+            677,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "15 апреля 2025 г. ",
+        "bbox": [
+            85,
+            606,
+            220,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "Форма 0710001 с. 2 ",
+        "bbox": [
+            821,
+            33,
+            942,
+            43
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "(расшифровка подписи) ",
+        "bbox": [
+            576,
+            580,
+            722,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "(подпись) ",
+        "bbox": [
+            373,
+            580,
+            431,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Отчет о финансовых результатах за январь - март 2025 г. ",
+        "text_level": 1,
+        "bbox": [
+            359,
+            40,
+            658,
+            70
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Организация: Публичное акционерное общество \"АМУРКАБЕЛЬ\" Единица измерения тыс. руб. ",
+        "bbox": [
+            73,
+            128,
+            563,
+            159
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e01d4b8a1c93145a3da530982d46181c57554fe6f1bf7d9b613e776ccb752382.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За январь - март2025 г.</td><td rowspan=1 colspan=1>За январь - март2024 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Выручка</td><td rowspan=1 colspan=1>2110</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Себестоимость продаж</td><td rowspan=1 colspan=1>2120</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Валовая прибыль (убыток)</td><td rowspan=1 colspan=1>2100</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Коммерческие расходы</td><td rowspan=1 colspan=1>2210</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Управленческие расходы</td><td rowspan=1 colspan=1>2220</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от продаж</td><td rowspan=1 colspan=1>2200</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходы от участия в других организациях</td><td rowspan=1 colspan=1>2310</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к получению</td><td rowspan=1 colspan=1>2320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к уплате</td><td rowspan=1 colspan=1>2330</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие доходы</td><td rowspan=1 colspan=1>2340</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:Операции с инструментами финансового рынка</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сдача имущества в аренду или субаренду</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Реализация и ликвидация внеоборотных активов</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Реализация иного имущества, прав требования,прочих работ и услуг</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результаты инвентаризации</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Иная операционная деятельность</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Курсовые разницы</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие расходы</td><td rowspan=1 colspan=1>2350</td><td rowspan=1 colspan=1>(15)</td><td rowspan=1 colspan=1>(12)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:Операции с инструментами финансового рынка</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Сдача имущества в аренду или субаренду</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Реализация и ликвидация внеоборотных активов</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Расходы от снижения стоимости активов</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Отчисления в оценочные резервы</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Реализация иного имущества, прав требования,прочих работ и услуг</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результаты инвентаризации</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Иная операционная деятельность</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(15)</td><td rowspan=1 colspan=1>(12)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Курсовые разницы</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от продолжающейсядеятельности до налогообложения</td><td rowspan=1 colspan=1>2300</td><td rowspan=1 colspan=1>(15)</td><td rowspan=1 colspan=1>(12)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль организаций</td><td rowspan=1 colspan=1>2410</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:текущий налог на прибыль организаций</td><td rowspan=1 colspan=1>2411</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>отложенный налог на прибыль организаций</td><td rowspan=1 colspan=1>2412</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог при упрощенной системе налогообложения</td><td rowspan=1 colspan=1>2410</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от прекращаемой деятельности (завычетом относящегося к ней налога на прибыльорганизаций)</td><td rowspan=1 colspan=1>2420</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:Прибыль (убыток) от прекращаемой деятельности</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль, относящийся к прекращаемойдеятельности</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочее</td><td rowspan=1 colspan=1>2460</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Чистая прибыль (убыток)</td><td rowspan=1 colspan=1>2400</td><td rowspan=1 colspan=1>(15)</td><td rowspan=1 colspan=1>(12)</td></tr></table>",
+        "bbox": [
+            70,
+            162,
+            942,
+            898
+        ],
+        "page_idx": 2
+    }
+]

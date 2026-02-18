@@ -1,0 +1,2015 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    140,
+                    1112,
+                    1599,
+                    1112,
+                    1599,
+                    2083,
+                    140,
+                    2083
+                ],
+                "score": 0.979,
+                "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>На 30 сентября2024г.</td><td rowspan=1 colspan=1>На 31 декабря2023г.</td><td rowspan=1 colspan=1>На 31 декабря2022 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>АКТИВI. ВНЕОБОРОТНЫЕ АКТИВЫНематериальные активы</td><td rowspan=1 colspan=1>1110</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результаты исследований и разработок</td><td rowspan=1 colspan=1>1120</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Нематериальные поисковые активы</td><td rowspan=1 colspan=1>1130</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Материальные поисковые активы</td><td rowspan=1 colspan=1>1140</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Основные средства</td><td rowspan=1 colspan=1>1150</td><td rowspan=1 colspan=1>9212361</td><td rowspan=1 colspan=1>7 364 756</td><td rowspan=1 colspan=1>5 346 995</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходные вложения в материальныеценности</td><td rowspan=1 colspan=1>1160</td><td rowspan=1 colspan=1>29156</td><td rowspan=1 colspan=1>3671</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Финансовые вложения</td><td rowspan=1 colspan=1>1170</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Отложенные налоговые активы</td><td rowspan=1 colspan=1>1180</td><td rowspan=1 colspan=1>465 364</td><td rowspan=1 colspan=1>63 035</td><td rowspan=1 colspan=1>63 035</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие внеоборотные активы</td><td rowspan=1 colspan=1>1190</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Итого по разделу|</td><td rowspan=1 colspan=1>1100</td><td rowspan=1 colspan=1>9 706 881</td><td rowspan=1 colspan=1>7431 462</td><td rowspan=1 colspan=1>5410030</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>II. ОБОРОТНЫЕ АКТИВЫЗапасы</td><td rowspan=1 colspan=1>1210</td><td rowspan=1 colspan=1>5 837 008</td><td rowspan=1 colspan=1>4 435 084</td><td rowspan=1 colspan=1>2 799 329</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на добавленную стоимость поприобретенным ценностям</td><td rowspan=1 colspan=1>1220</td><td rowspan=1 colspan=1>2826</td><td rowspan=1 colspan=1>121 737</td><td rowspan=1 colspan=1>77 348</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Дебиторская задолженность</td><td rowspan=1 colspan=1>1230</td><td rowspan=1 colspan=1>7895 018</td><td rowspan=1 colspan=1>6 337 635</td><td rowspan=1 colspan=1>3100 502</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Финансовые вложения (за исключениемденежных эквивалентов)</td><td rowspan=1 colspan=1>1240</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Денежные средства и денежныеэквиваленты</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>468 657</td><td rowspan=1 colspan=1>773 879</td><td rowspan=1 colspan=1>383 527</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие оборотные активы</td><td rowspan=1 colspan=1>1260</td><td rowspan=1 colspan=1>44 449</td><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>1618</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Итого по разделу I</td><td rowspan=1 colspan=1>1200</td><td rowspan=1 colspan=1>14247 958</td><td rowspan=1 colspan=1>11 668 351</td><td rowspan=1 colspan=1>6 362324</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5ААHC</td><td rowspan=1 colspan=1>1600</td><td rowspan=1 colspan=1>23 954 839</td><td rowspan=1 colspan=1>19099813</td><td rowspan=1 colspan=1>11 772353</td></tr></table>"
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    620,
+                    94,
+                    954,
+                    94,
+                    954,
+                    129,
+                    620,
+                    129
+                ],
+                "score": 0.669
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    115,
+                    874,
+                    1153,
+                    874,
+                    1153,
+                    996,
+                    115,
+                    996
+                ],
+                "score": 0.591
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    1204,
+                    865,
+                    1592,
+                    865,
+                    1592,
+                    992,
+                    1204,
+                    992
+                ],
+                "score": 0.516,
+                "html": "<table><tr><td>инн</td><td></td></tr><tr><td>ОГРН/ ОГРНИП</td><td></td></tr></table>"
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    643,
+                    145,
+                    932,
+                    145,
+                    932,
+                    177,
+                    643,
+                    177
+                ],
+                "score": 0.468
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    69,
+                    78,
+                    87,
+                    78,
+                    87,
+                    95,
+                    69,
+                    95
+                ],
+                "score": 0.453
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    109,
+                    634,
+                    1328,
+                    634,
+                    1328,
+                    831,
+                    109,
+                    831
+                ],
+                "score": 0.391
+            },
+            {
+                "category_id": 1,
+                "poly": [
+                    114,
+                    431,
+                    661,
+                    431,
+                    661,
+                    459,
+                    114,
+                    459
+                ],
+                "score": 0.222
+            },
+            {
+                "category_id": 0,
+                "poly": [
+                    643,
+                    145,
+                    932,
+                    145,
+                    932,
+                    177,
+                    643,
+                    177
+                ],
+                "score": 0.213
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    106,
+                    220,
+                    1594,
+                    220,
+                    1594,
+                    658,
+                    106,
+                    658
+                ],
+                "score": 0.17,
+                "html": "<table><tr><td rowspan=\"4\"></td><td></td><td colspan=\"3\">Коды</td></tr><tr><td>Форма по ОКУД</td><td>0710001</td><td></td></tr><tr><td>Дата (число, месяц, год)</td><td>30 09</td><td>2024</td></tr><tr><td>по Окпо</td><td>13979327</td><td></td></tr><tr><td>Общество с ограниченной ответственностью &quot;Новые технологии&quot; Организация Идентификационный номер налогоплательщика</td><td>инн</td><td>1652009537</td><td></td></tr><tr><td>Вид экономической</td><td>по</td><td colspan=\"2\">28.13</td></tr><tr><td>деятельности Производство прочих насосов и компрессоров Организационно-правовая форма /форма собственности</td><td>ОКВЭд2</td><td colspan=\"2\">16</td></tr><tr><td>Общества с ограниченной ответственностью / Частная в тыс. рублей</td><td>по ОКОПФ / ОКФС ПО ОКЕИ</td><td colspan=\"2\">12300 384</td></tr></table>"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    619.0,
+                    93.0,
+                    956.0,
+                    93.0,
+                    956.0,
+                    129.0,
+                    619.0,
+                    129.0
+                ],
+                "score": 0.887,
+                "text": "Бухгалтерский баланс"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    74.0,
+                    82.0,
+                    82.0,
+                    82.0,
+                    82.0,
+                    88.0,
+                    74.0,
+                    88.0
+                ],
+                "score": 0.462,
+                "text": "."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    639.0,
+                    143.0,
+                    935.0,
+                    143.0,
+                    935.0,
+                    178.0,
+                    639.0,
+                    178.0
+                ],
+                "score": 0.983,
+                "text": "на 30 сентября 2024 г."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    111.0,
+                    910.0,
+                    224.0,
+                    910.0,
+                    224.0,
+                    938.0,
+                    111.0,
+                    938.0
+                ],
+                "score": 0.889,
+                "text": "аудитора"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    111.0,
+                    937.0,
+                    855.0,
+                    937.0,
+                    855.0,
+                    965.0,
+                    111.0,
+                    965.0
+                ],
+                "score": 0.982,
+                "text": "Основной государственный регистрационный номер аудиторской"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    111.0,
+                    966.0,
+                    572.0,
+                    966.0,
+                    572.0,
+                    996.0,
+                    111.0,
+                    996.0
+                ],
+                "score": 0.98,
+                "text": "организации/индивидуального аудитора"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    109.0,
+                    873.0,
+                    1159.0,
+                    873.0,
+                    1159.0,
+                    909.0,
+                    109.0,
+                    909.0
+                ],
+                "score": 0.986,
+                "text": "Идентификационный номер налогоплательщика аудиторской организации/индивидуального"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    639.0,
+                    143.0,
+                    935.0,
+                    143.0,
+                    935.0,
+                    178.0,
+                    639.0,
+                    178.0
+                ],
+                "score": 0.983,
+                "text": "на 30 сентября 2024 г."
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    107.0,
+                    633.0,
+                    549.0,
+                    633.0,
+                    549.0,
+                    665.0,
+                    107.0,
+                    665.0
+                ],
+                "score": 0.974,
+                "text": "Единица измерения: в тыс. рублей"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1195.0,
+                    615.0,
+                    1336.0,
+                    615.0,
+                    1336.0,
+                    667.0,
+                    1195.0,
+                    667.0
+                ],
+                "score": 0.888,
+                "text": "по окейL"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    108.0,
+                    673.0,
+                    415.0,
+                    673.0,
+                    415.0,
+                    707.0,
+                    108.0,
+                    707.0
+                ],
+                "score": 0.984,
+                "text": "Местонахождение (адрес)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    108.0,
+                    755.0,
+                    787.0,
+                    755.0,
+                    787.0,
+                    787.0,
+                    108.0,
+                    787.0
+                ],
+                "score": 0.99,
+                "text": "Бухгалтерская отчетность подлежит обязательному аудиту"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    848.0,
+                    743.0,
+                    904.0,
+                    743.0,
+                    904.0,
+                    790.0,
+                    848.0,
+                    790.0
+                ],
+                "score": 0.834,
+                "text": "ДА"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1015.0,
+                    743.0,
+                    1084.0,
+                    743.0,
+                    1084.0,
+                    786.0,
+                    1015.0,
+                    786.0
+                ],
+                "score": 0.991,
+                "text": "HET"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    107.0,
+                    699.0,
+                    1180.0,
+                    699.0,
+                    1180.0,
+                    738.0,
+                    107.0,
+                    738.0
+                ],
+                "score": 0.947,
+                "text": "422980, Татарстан Респ, Чистопольский р-н, Чистополь г, К.Маркса ул, дом 168, корпус С"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    108.0,
+                    793.5,
+                    1333.0,
+                    793.5,
+                    1333.0,
+                    832.0,
+                    108.0,
+                    832.0
+                ],
+                "score": 0.973,
+                "text": "Наименование аудиторской организации/фамилия, имя, отчество (при наличии) индивидуального аудитора"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    110.0,
+                    431.0,
+                    664.0,
+                    431.0,
+                    664.0,
+                    458.0,
+                    110.0,
+                    458.0
+                ],
+                "score": 0.978,
+                "text": "Идентификационный номер налогоплательщика"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2338
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    132,
+                    128,
+                    1590,
+                    128,
+                    1590,
+                    1158,
+                    132,
+                    1158
+                ],
+                "score": 0.983,
+                "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>На 30 сентября2024г.</td><td rowspan=1 colspan=1>На 31 декабря2023 г.</td><td rowspan=1 colspan=1>На 31 декабря2022г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>ПАССИВII. КАПИТАЛ И РЕЗЕРВЫУставный капитал (складочный капитал,уставный фонд, вклады товарищей)</td><td rowspan=1 colspan=1>1310</td><td rowspan=1 colspan=1>1128</td><td rowspan=1 colspan=1>1128</td><td rowspan=1 colspan=1>1128</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Собственные акции, выкупленные уакционеров</td><td rowspan=1 colspan=1>1320</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Переоценка внеоборотных активов</td><td rowspan=1 colspan=1>1340</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Добавочный капитал (без переоценки)</td><td rowspan=1 colspan=1>1350</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Резервный капитал</td><td rowspan=1 colspan=1>1360</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Нераспределенная прибыль (непокрытыйубыток)</td><td rowspan=1 colspan=1>1370</td><td rowspan=1 colspan=1>2 207 298</td><td rowspan=1 colspan=1>1 983 316</td><td rowspan=1 colspan=1>1340 092</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу !I</td><td rowspan=1 colspan=1>1300</td><td rowspan=1 colspan=1>2208425</td><td rowspan=1 colspan=1>1984444</td><td rowspan=1 colspan=1>1341220</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IV. ДОЛГОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td rowspan=1 colspan=1>1410</td><td rowspan=1 colspan=1>9313511</td><td rowspan=1 colspan=1>7 694 092</td><td rowspan=1 colspan=1>1492 531</td></tr><tr><td></td><td rowspan=2 colspan=1>Отложенные налоговые обязательства</td><td rowspan=2 colspan=1>1420</td><td rowspan=2 colspan=1>615 007</td><td rowspan=2 colspan=1>__</td><td rowspan=2 colspan=1>__</td></tr><tr><td rowspan=1 colspan=1>___</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Оценочные обязательства</td><td rowspan=1 colspan=1>1430</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>_</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Прочие обязательства</td><td rowspan=1 colspan=1>1450</td><td rowspan=1 colspan=1>1476733</td><td rowspan=1 colspan=1>1294 249</td><td rowspan=1 colspan=1>1 388964</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу IV</td><td rowspan=1 colspan=1>1400</td><td rowspan=1 colspan=1>11 405 252</td><td rowspan=1 colspan=1>8 988 340</td><td rowspan=1 colspan=1>2881495</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>V. КРАТКОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td rowspan=1 colspan=1>1510</td><td rowspan=1 colspan=1>3 396 549</td><td rowspan=1 colspan=1>3461412</td><td rowspan=1 colspan=1>3 798 027</td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Кредиторская задолженность</td><td rowspan=1 colspan=1>1520</td><td rowspan=1 colspan=1>6 769232</td><td rowspan=1 colspan=1>4490235</td><td rowspan=1 colspan=1>3 353 610</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Доходы будущих периодов</td><td rowspan=1 colspan=1>1530</td><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>__</td></tr><tr><td></td><td rowspan=2 colspan=1>Оценочные обязательства</td><td rowspan=2 colspan=1>1540</td><td rowspan=2 colspan=1>175 382</td><td rowspan=2 colspan=1>175382</td><td rowspan=2 colspan=1>398 001</td></tr><tr><td rowspan=1 colspan=1>___</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Прочие обязательства</td><td rowspan=1 colspan=1>1550</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>___</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Итого по разделу V</td><td rowspan=1 colspan=1>1500</td><td rowspan=1 colspan=1>10341162</td><td rowspan=1 colspan=1>8127029</td><td rowspan=1 colspan=1>7549 638</td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>5АAHC</td><td rowspan=1 colspan=1>1700</td><td rowspan=1 colspan=1>23 954 839</td><td rowspan=1 colspan=1>19 099 813</td><td rowspan=1 colspan=1>11 772 353</td></tr></table>"
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1381,
+                    83,
+                    1578,
+                    83,
+                    1578,
+                    108,
+                    1381,
+                    108
+                ],
+                "score": 0.799
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    81,
+                    1960,
+                    883,
+                    1960,
+                    883,
+                    2271,
+                    81,
+                    2271
+                ],
+                "score": 0.734
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    62,
+                    60,
+                    76,
+                    60,
+                    76,
+                    74,
+                    62,
+                    74
+                ],
+                "score": 0.197
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    157,
+                    38,
+                    170,
+                    38,
+                    170,
+                    53,
+                    157,
+                    53
+                ],
+                "score": 0.149
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    79,
+                    1959,
+                    514,
+                    1959,
+                    514,
+                    2272,
+                    79,
+                    2272
+                ],
+                "score": 0.098
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1378.0,
+                    81.0,
+                    1580.0,
+                    81.0,
+                    1580.0,
+                    110.0,
+                    1378.0,
+                    110.0
+                ],
+                "score": 0.983,
+                "text": "Форма 0710001 с.2"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    131.0,
+                    2047.0,
+                    159.0,
+                    2047.0,
+                    159.0,
+                    2079.0,
+                    131.0,
+                    2079.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    114.0,
+                    2050.0,
+                    133.0,
+                    2050.0,
+                    133.0,
+                    2069.0,
+                    114.0,
+                    2069.0
+                ],
+                "score": 0.088,
+                "text": "S"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    190.0,
+                    2093.0,
+                    202.0,
+                    2093.0,
+                    202.0,
+                    2105.0,
+                    190.0,
+                    2105.0
+                ],
+                "score": 0.985,
+                "text": "о"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    317.0,
+                    2059.0,
+                    376.0,
+                    2059.0,
+                    376.0,
+                    2217.0,
+                    317.0,
+                    2217.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    531.0,
+                    2078.0,
+                    865.0,
+                    2078.0,
+                    865.0,
+                    2108.0,
+                    531.0,
+                    2108.0
+                ],
+                "score": 0.972,
+                "text": "Игнатов Евгений Иванович"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    125.0,
+                    2118.0,
+                    135.0,
+                    2118.0,
+                    135.0,
+                    2134.0,
+                    125.0,
+                    2134.0
+                ],
+                "score": 0.309,
+                "text": "е"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    194.0,
+                    2208.0,
+                    206.0,
+                    2208.0,
+                    206.0,
+                    2216.0,
+                    194.0,
+                    2216.0
+                ],
+                "score": 0.145,
+                "text": "9"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    279.0,
+                    2204.0,
+                    287.0,
+                    2204.0,
+                    287.0,
+                    2214.0,
+                    279.0,
+                    2214.0
+                ],
+                "score": 0.189,
+                "text": "0"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    351.0,
+                    2110.0,
+                    445.0,
+                    2110.0,
+                    445.0,
+                    2215.0,
+                    351.0,
+                    2215.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    583.0,
+                    2109.0,
+                    811.0,
+                    2109.0,
+                    811.0,
+                    2134.0,
+                    583.0,
+                    2134.0
+                ],
+                "score": 0.976,
+                "text": "(расшифровка подписи)"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    243.0,
+                    1992.5,
+                    367.0,
+                    1992.5,
+                    367.0,
+                    2066.0,
+                    243.0,
+                    2066.0
+                ],
+                "score": 0.368,
+                "text": "CU"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    80.75,
+                    1951.0,
+                    365.75,
+                    1951.0,
+                    365.75,
+                    2072.0,
+                    80.75,
+                    2072.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    123.0,
+                    1999.5,
+                    258.0,
+                    1999.5,
+                    258.0,
+                    2045.5,
+                    123.0,
+                    2045.5
+                ],
+                "score": 0.302,
+                "text": "ЬОБBШЕCТO C"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    126.0,
+                    2041.0,
+                    279.0,
+                    2041.0,
+                    279.0,
+                    2091.5,
+                    126.0,
+                    2091.5
+                ],
+                "score": 0.422,
+                "text": "13014"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    117.0,
+                    2169.5,
+                    168.0,
+                    2169.5,
+                    168.0,
+                    2206.5,
+                    117.0,
+                    2206.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    163.0,
+                    2076.0,
+                    291.0,
+                    2076.0,
+                    291.0,
+                    2115.5,
+                    163.0,
+                    2115.5
+                ],
+                "score": 0.345,
+                "text": "ОРЕ"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    143.0,
+                    2174.5,
+                    183.0,
+                    2174.5,
+                    183.0,
+                    2203.5,
+                    143.0,
+                    2203.5
+                ],
+                "score": 0.132,
+                "text": "H"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    148.25,
+                    2102.0,
+                    339.25,
+                    2102.0,
+                    339.25,
+                    2146.0,
+                    148.25,
+                    2146.0
+                ],
+                "score": 0.556,
+                "text": "ТЕХНОЛОГM"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    232.0,
+                    2145.0,
+                    291.0,
+                    2145.0,
+                    291.0,
+                    2168.0,
+                    232.0,
+                    2168.0
+                ],
+                "score": 0.488,
+                "text": "ИНH"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    211.25,
+                    2154.5,
+                    330.25,
+                    2154.5,
+                    330.25,
+                    2187.0,
+                    211.25,
+                    2187.0
+                ],
+                "score": 0.845,
+                "text": "16520095377"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    194.0,
+                    2228.0,
+                    232.0,
+                    2228.0,
+                    232.0,
+                    2248.0,
+                    194.0,
+                    2248.0
+                ],
+                "score": 0.267,
+                "text": "HVI"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    217.0,
+                    1998.0,
+                    239.0,
+                    1998.0,
+                    239.0,
+                    2018.0,
+                    217.0,
+                    2018.0
+                ],
+                "score": 0.853,
+                "text": "с"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    103.0,
+                    2059.0,
+                    129.0,
+                    2059.0,
+                    129.0,
+                    2129.0,
+                    103.0,
+                    2129.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    118.0,
+                    2081.0,
+                    142.0,
+                    2081.0,
+                    142.0,
+                    2143.0,
+                    118.0,
+                    2143.0
+                ],
+                "score": 0.285,
+                "text": "0"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    354.0,
+                    2082.0,
+                    376.0,
+                    2082.0,
+                    376.0,
+                    2112.0,
+                    354.0,
+                    2112.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    173.0,
+                    2088.0,
+                    204.0,
+                    2088.0,
+                    204.0,
+                    2111.0,
+                    173.0,
+                    2111.0
+                ],
+                "score": 0.945,
+                "text": "KQ"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    339.0,
+                    2096.0,
+                    356.0,
+                    2096.0,
+                    356.0,
+                    2111.0,
+                    339.0,
+                    2111.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    350.0,
+                    2122.0,
+                    381.0,
+                    2122.0,
+                    381.0,
+                    2182.0,
+                    350.0,
+                    2182.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    262.0,
+                    2197.0,
+                    307.0,
+                    2197.0,
+                    307.0,
+                    2222.0,
+                    262.0,
+                    2222.0
+                ],
+                "score": 0.391,
+                "text": "Gp"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    368.0,
+                    2203.0,
+                    381.0,
+                    2203.0,
+                    381.0,
+                    2214.0,
+                    368.0,
+                    2214.0
+                ],
+                "score": 0.692,
+                "text": "F"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    196.0,
+                    2230.0,
+                    218.0,
+                    2230.0,
+                    218.0,
+                    2244.0,
+                    196.0,
+                    2244.0
+                ],
+                "score": 0.501,
+                "text": "нь"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    128.25,
+                    2009.0,
+                    235.25,
+                    2009.0,
+                    235.25,
+                    2043.5,
+                    128.25,
+                    2043.5
+                ],
+                "score": 0.617,
+                "text": "ОБШЕСТВО"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    132.25,
+                    2046.0,
+                    148.25,
+                    2046.0,
+                    148.25,
+                    2095.0,
+                    132.25,
+                    2095.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    136.0,
+                    2047.5,
+                    263.0,
+                    2047.5,
+                    263.0,
+                    2079.0,
+                    136.0,
+                    2079.0
+                ],
+                "score": 0.935,
+                "text": "p116300/14"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    119.0,
+                    2162.5,
+                    147.0,
+                    2162.5,
+                    147.0,
+                    2193.5,
+                    119.0,
+                    2193.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    165.0,
+                    2074.0,
+                    290.0,
+                    2074.0,
+                    290.0,
+                    2113.0,
+                    165.0,
+                    2113.0
+                ],
+                "score": 0.362,
+                "text": "ОАДЫЕ"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    137.25,
+                    2171.0,
+                    197.25,
+                    2171.0,
+                    197.25,
+                    2214.0,
+                    137.25,
+                    2214.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    126.75,
+                    2136.5,
+                    134.75,
+                    2136.5,
+                    134.75,
+                    2148.0,
+                    126.75,
+                    2148.0
+                ],
+                "score": 0.465,
+                "text": "√"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    145.0,
+                    2102.5,
+                    337.0,
+                    2102.5,
+                    337.0,
+                    2147.0,
+                    145.0,
+                    2147.0
+                ],
+                "score": 0.49,
+                "text": "ТEХНОЛОТЕН"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    232.75,
+                    2143.0,
+                    292.75,
+                    2143.0,
+                    292.75,
+                    2168.0,
+                    232.75,
+                    2168.0
+                ],
+                "score": 0.498,
+                "text": "ИHH"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    212.0,
+                    2151.5,
+                    333.0,
+                    2151.5,
+                    333.0,
+                    2185.0,
+                    212.0,
+                    2185.0
+                ],
+                "score": 0.817,
+                "text": "1652009577"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    308.25,
+                    2178.0,
+                    372.25,
+                    2178.0,
+                    372.25,
+                    2199.0,
+                    308.25,
+                    2199.0
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 1,
+            "width": 1654,
+            "height": 2338
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    136,
+                    640,
+                    1591,
+                    640,
+                    1591,
+                    1612,
+                    136,
+                    1612
+                ],
+                "score": 0.982,
+                "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2024 г.</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2023 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Выpучка</td><td rowspan=1 colspan=1>2110</td><td rowspan=1 colspan=1>15 826 573</td><td rowspan=1 colspan=1>13 467 839</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Себестоимость продаж</td><td rowspan=1 colspan=1>2120</td><td rowspan=1 colspan=1>(12 165 760)</td><td rowspan=1 colspan=1>(11 511 676)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Валовая прибыль (убыток)</td><td rowspan=1 colspan=1>2100</td><td rowspan=1 colspan=1>3660813</td><td rowspan=1 colspan=1>1956163</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Коммерческие расходы</td><td rowspan=1 colspan=1>2210</td><td rowspan=1 colspan=1>(1 429 562)</td><td rowspan=1 colspan=1>(927482)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Управленческие расходы</td><td rowspan=1 colspan=1>2220</td><td rowspan=1 colspan=1>(362476)</td><td rowspan=1 colspan=1>(222 081)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) от продаж</td><td rowspan=1 colspan=1>2200</td><td rowspan=1 colspan=1>1 868 775</td><td rowspan=1 colspan=1>806600</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходы от участия в других организациях</td><td rowspan=1 colspan=1>2310</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к получению</td><td rowspan=1 colspan=1>2320</td><td rowspan=1 colspan=1>52427</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:Проценты к получению</td><td rowspan=1 colspan=1>23201</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты по государственным ценным бумагам</td><td rowspan=1 colspan=1>23202</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>_____</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты по государственным ценным бумагампо ставке 0%</td><td rowspan=1 colspan=1>23203</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к уплате</td><td rowspan=1 colspan=1>2330</td><td rowspan=1 colspan=1>(1 890 489)</td><td rowspan=1 colspan=1>(530 713)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:проценты у уплате</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>(1 749 966)</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Прочие доходы</td><td rowspan=1 colspan=1>2340</td><td rowspan=1 colspan=1>1303 881</td><td rowspan=1 colspan=1>1239 371</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Прочие расходы</td><td rowspan=1 colspan=1>2350</td><td rowspan=1 colspan=1>(834 505)</td><td rowspan=1 colspan=1>(1 041 530)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прибыль (убыток) до налогообложения</td><td rowspan=1 colspan=1>2300</td><td rowspan=1 colspan=1>500 089</td><td rowspan=1 colspan=1>473 728</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Налог на прибыль</td><td rowspan=1 colspan=1>2410</td><td rowspan=1 colspan=1>(278 369)</td><td rowspan=1 colspan=1>(85 304)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:текущий налог на прибыль</td><td rowspan=1 colspan=1>2411</td><td rowspan=1 colspan=1>(65 691)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>отложенный налог на прибыль</td><td rowspan=1 colspan=1>2412</td><td rowspan=1 colspan=1>(212678)</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочее</td><td rowspan=1 colspan=1>2460</td><td rowspan=1 colspan=1>2262</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Чистая прибыль (убыток)</td><td rowspan=1 colspan=1>2400</td><td rowspan=1 colspan=1>223 982</td><td rowspan=1 colspan=1>388424</td></tr></table>"
+            },
+            {
+                "category_id": 5,
+                "poly": [
+                    105,
+                    103,
+                    1588,
+                    103,
+                    1588,
+                    563,
+                    105,
+                    563
+                ],
+                "score": 0.916,
+                "html": "<table><tr><td colspan=\"4\">Отчет о финансовых результатах</td></tr><tr><td colspan=\"2\">за Январь - Сентябрь 2024 г.</td><td colspan=\"3\">Коды</td></tr><tr><td colspan=\"3\">Форма по ОКУД Дата (число, месяц, год)</td><td colspan=\"3\">0710002</td></tr><tr><td colspan=\"3\"></td><td>30</td><td>09</td><td>2024</td></tr><tr><td colspan=\"3\">Общество с ограниченной ответственностью &quot;Новые технологии&quot; Организация</td><td>по ОкПО</td><td>13979327</td><td></td></tr><tr><td colspan=\"3\">Идентификационный номер налогоплательщика</td><td colspan=\"3\">ИHH 1652009537</td></tr><tr><td colspan=\"3\">Вид экономической</td><td colspan=\"3\">по 28.13</td></tr><tr><td colspan=\"3\">деятельности Производство прочих насосов и компрессоров Организационно-правовая форма /форма собственности</td><td colspan=\"3\">ОКВЭд 2</td></tr><tr><td colspan=\"3\">Общества с ограниченной</td><td colspan=\"3\">12300</td></tr><tr><td colspan=\"3\"></td><td colspan=\"3\"></td></tr><tr><td>ответственностью Единица измерения: в тыс. рублей</td><td>/Частная</td><td>по ОКОПФ / ОКФС ПО ОКЕИ</td><td colspan=\"3\">384</td></tr></table>"
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    66,
+                    65,
+                    82,
+                    65,
+                    82,
+                    82,
+                    66,
+                    82
+                ],
+                "score": 0.133
+            },
+            {
+                "category_id": 13,
+                "poly": [
+                    468,
+                    1156,
+                    511,
+                    1156,
+                    511,
+                    1185,
+                    468,
+                    1185
+                ],
+                "score": 0.41,
+                "latex": "0 \\%"
+            }
+        ],
+        "page_info": {
+            "page_no": 2,
+            "width": 1654,
+            "height": 2338
+        }
+    },
+    {
+        "layout_dets": [
+            {
+                "category_id": 5,
+                "poly": [
+                    130,
+                    133,
+                    1588,
+                    133,
+                    1588,
+                    569,
+                    130,
+                    569
+                ],
+                "score": 0.984,
+                "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За Январь-Сентябрь 2024 г.</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2023 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат от переоценки внеоборотных активов, невключаемый в чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2510</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат от прочих операций, не включаемыйв чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2520</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль от операций, результат которыхне включается в чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2530</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>____</td><td rowspan=1 colspan=1>Совокупный финансовый результат периода</td><td rowspan=1 colspan=1>2500</td><td rowspan=1 colspan=1>223 982</td><td rowspan=1 colspan=1>388 424</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>СправочноБазовая прибыль (убыток) на акцию</td><td rowspan=1 colspan=1>2900</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Разводненная прибыль (убыток) на акцию</td><td rowspan=1 colspan=1>2910</td><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1></td></tr></table>"
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1381,
+                    89,
+                    1579,
+                    89,
+                    1579,
+                    114,
+                    1381,
+                    114
+                ],
+                "score": 0.799
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    83,
+                    1997,
+                    871,
+                    1997,
+                    871,
+                    2309,
+                    83,
+                    2309
+                ],
+                "score": 0.638
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    1295,
+                    2295,
+                    1308,
+                    2295,
+                    1308,
+                    2312,
+                    1295,
+                    2312
+                ],
+                "score": 0.632
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    65,
+                    63,
+                    79,
+                    63,
+                    79,
+                    78,
+                    65,
+                    78
+                ],
+                "score": 0.333
+            },
+            {
+                "category_id": 2,
+                "poly": [
+                    84,
+                    1995,
+                    452,
+                    1995,
+                    452,
+                    2309,
+                    84,
+                    2309
+                ],
+                "score": 0.104
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    1378.0,
+                    83.0,
+                    1582.0,
+                    83.0,
+                    1582.0,
+                    120.0,
+                    1378.0,
+                    120.0
+                ],
+                "score": 0.984,
+                "text": "Форма 0710002 с.2"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    153.0,
+                    2004.0,
+                    349.0,
+                    2004.0,
+                    349.0,
+                    2085.0,
+                    153.0,
+                    2085.0
+                ],
+                "score": 0.383,
+                "text": "YNOBKM"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    524.0,
+                    2046.0,
+                    863.0,
+                    2046.0,
+                    863.0,
+                    2077.0,
+                    524.0,
+                    2077.0
+                ],
+                "score": 0.977,
+                "text": "Игнатов Евгений Иванович"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    144.0,
+                    2054.0,
+                    194.0,
+                    2054.0,
+                    194.0,
+                    2202.0,
+                    144.0,
+                    2202.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    323.0,
+                    2065.0,
+                    351.0,
+                    2065.0,
+                    351.0,
+                    2083.0,
+                    323.0,
+                    2083.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    127.0,
+                    2071.0,
+                    152.0,
+                    2071.0,
+                    152.0,
+                    2116.0,
+                    127.0,
+                    2116.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    576.0,
+                    2078.0,
+                    809.0,
+                    2078.0,
+                    809.0,
+                    2104.0,
+                    576.0,
+                    2104.0
+                ],
+                "score": 0.986,
+                "text": "(расшифровка подписи)"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    111.0,
+                    2096.0,
+                    137.0,
+                    2096.0,
+                    137.0,
+                    2153.0,
+                    111.0,
+                    2153.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    355.0,
+                    2120.0,
+                    379.0,
+                    2120.0,
+                    379.0,
+                    2162.0,
+                    355.0,
+                    2162.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    335.0,
+                    2122.0,
+                    358.0,
+                    2122.0,
+                    358.0,
+                    2166.0,
+                    335.0,
+                    2166.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    107.0,
+                    2153.0,
+                    124.0,
+                    2153.0,
+                    124.0,
+                    2186.0,
+                    107.0,
+                    2186.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    331.0,
+                    2155.0,
+                    379.0,
+                    2155.0,
+                    379.0,
+                    2197.0,
+                    331.0,
+                    2197.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    173.0,
+                    2232.0,
+                    311.0,
+                    2232.0,
+                    311.0,
+                    2289.0,
+                    173.0,
+                    2289.0
+                ],
+                "score": 0.392,
+                "text": "0"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    175.0,
+                    2256.0,
+                    297.0,
+                    2256.0,
+                    297.0,
+                    2307.0,
+                    175.0,
+                    2307.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    286.0,
+                    2266.0,
+                    305.0,
+                    2266.0,
+                    305.0,
+                    2285.0,
+                    286.0,
+                    2285.0
+                ],
+                "score": 0.999,
+                "text": "*"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    149.25,
+                    2086.5,
+                    274.25,
+                    2086.5,
+                    274.25,
+                    2119.0,
+                    149.25,
+                    2119.0
+                ],
+                "score": 0.913,
+                "text": "p 116300/14"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    133.0,
+                    2109.5,
+                    375.0,
+                    2109.5,
+                    375.0,
+                    2226.5,
+                    133.0,
+                    2226.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    172.0,
+                    2120.0,
+                    294.0,
+                    2120.0,
+                    294.0,
+                    2159.0,
+                    172.0,
+                    2159.0
+                ],
+                "score": 0.52,
+                "text": "«НОВЫЕ"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    120.0,
+                    2216.0,
+                    162.0,
+                    2216.0,
+                    162.0,
+                    2247.0,
+                    120.0,
+                    2247.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    146.0,
+                    2214.5,
+                    169.0,
+                    2214.5,
+                    169.0,
+                    2245.0,
+                    146.0,
+                    2245.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    235.0,
+                    2192.5,
+                    281.0,
+                    2192.5,
+                    281.0,
+                    2218.5,
+                    235.0,
+                    2218.5
+                ],
+                "score": 0.327,
+                "text": "MHF"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    204.0,
+                    2206.0,
+                    314.0,
+                    2206.0,
+                    314.0,
+                    2238.5,
+                    204.0,
+                    2238.5
+                ],
+                "score": 0.911,
+                "text": "165200953"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    279.0,
+                    2214.0,
+                    371.0,
+                    2214.0,
+                    371.0,
+                    2240.0,
+                    279.0,
+                    2240.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    290.0,
+                    2226.0,
+                    387.0,
+                    2226.0,
+                    387.0,
+                    2250.5,
+                    290.0,
+                    2250.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    141.0,
+                    2062.0,
+                    186.0,
+                    2062.0,
+                    186.0,
+                    2199.0,
+                    141.0,
+                    2199.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    324.0,
+                    2093.0,
+                    353.0,
+                    2093.0,
+                    353.0,
+                    2123.0,
+                    324.0,
+                    2123.0
+                ],
+                "score": 0.298,
+                "text": "1OS"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    346.0,
+                    2101.0,
+                    378.0,
+                    2101.0,
+                    378.0,
+                    2192.0,
+                    346.0,
+                    2192.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    274.0,
+                    2105.0,
+                    375.0,
+                    2105.0,
+                    375.0,
+                    2202.0,
+                    274.0,
+                    2202.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    266.0,
+                    2167.0,
+                    306.0,
+                    2167.0,
+                    306.0,
+                    2188.0,
+                    266.0,
+                    2188.0
+                ],
+                "score": 0.51,
+                "text": "бpя"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    257.0,
+                    2170.0,
+                    274.0,
+                    2170.0,
+                    274.0,
+                    2188.0,
+                    257.0,
+                    2188.0
+                ],
+                "score": 0.657,
+                "text": "б"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    334.0,
+                    2179.0,
+                    354.0,
+                    2179.0,
+                    354.0,
+                    2194.0,
+                    334.0,
+                    2194.0
+                ],
+                "score": 0.145,
+                "text": "G"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    240.0,
+                    2194.0,
+                    275.0,
+                    2194.0,
+                    275.0,
+                    2220.0,
+                    240.0,
+                    2220.0
+                ],
+                "score": 0.36,
+                "text": "MH"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    175.0,
+                    2233.0,
+                    308.0,
+                    2233.0,
+                    308.0,
+                    2288.0,
+                    175.0,
+                    2288.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    175.0,
+                    2256.0,
+                    297.0,
+                    2256.0,
+                    297.0,
+                    2307.0,
+                    175.0,
+                    2307.0
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    287.0,
+                    2266.0,
+                    303.0,
+                    2266.0,
+                    303.0,
+                    2283.0,
+                    287.0,
+                    2283.0
+                ],
+                "score": 0.999,
+                "text": "*"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    158.0,
+                    2004.0,
+                    367.0,
+                    2004.0,
+                    367.0,
+                    2094.0,
+                    158.0,
+                    2094.0
+                ],
+                "score": 0.329,
+                "text": " "
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    148.0,
+                    2020.0,
+                    350.0,
+                    2020.0,
+                    350.0,
+                    2114.5,
+                    148.0,
+                    2114.5
+                ],
+                "score": 0.225,
+                "text": "BYNO "
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    329.0,
+                    2067.5,
+                    454.0,
+                    2067.5,
+                    454.0,
+                    2121.0,
+                    329.0,
+                    2121.0
+                ],
+                "score": 0.437,
+                "text": "едлись"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    127.0,
+                    2198.5,
+                    145.0,
+                    2198.5,
+                    145.0,
+                    2233.0,
+                    127.0,
+                    2233.0
+                ],
+                "score": 0.246,
+                "text": " YA"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    152.25,
+                    2087.0,
+                    274.25,
+                    2087.0,
+                    274.25,
+                    2117.5,
+                    152.25,
+                    2117.5
+                ],
+                "score": 0.968,
+                "text": "p116300/14"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    77.0,
+                    2090.0,
+                    186.0,
+                    2090.0,
+                    186.0,
+                    2115.5,
+                    77.0,
+                    2115.5
+                ],
+                "score": 0.77,
+                "text": "ЫЧИСТАЙ"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    175.25,
+                    2120.5,
+                    291.25,
+                    2120.5,
+                    291.25,
+                    2157.5,
+                    175.25,
+                    2157.5
+                ],
+                "score": 0.654,
+                "text": "«НОВЫЕ"
+            },
+            {
+                "category_id": 16,
+                "poly": [
+                    146.0,
+                    2134.0,
+                    354.0,
+                    2134.0,
+                    354.0,
+                    2202.0,
+                    146.0,
+                    2202.0
+                ],
+                "score": 0.328,
+                "text": "ТООИИ"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    145.75,
+                    2214.5,
+                    170.75,
+                    2214.5,
+                    170.75,
+                    2241.5,
+                    145.75,
+                    2241.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    203.0,
+                    2204.0,
+                    322.0,
+                    2204.0,
+                    322.0,
+                    2237.0,
+                    203.0,
+                    2237.0
+                ],
+                "score": 0.964,
+                "text": "1652009537"
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    278.25,
+                    2214.5,
+                    367.25,
+                    2214.5,
+                    367.25,
+                    2239.5,
+                    278.25,
+                    2239.5
+                ],
+                "score": 1.0,
+                "text": ""
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    288.0,
+                    2222.5,
+                    391.0,
+                    2222.5,
+                    391.0,
+                    2249.0,
+                    288.0,
+                    2249.0
+                ],
+                "score": 1.0,
+                "text": ""
+            }
+        ],
+        "page_info": {
+            "page_no": 3,
+            "width": 1654,
+            "height": 2338
+        }
+    }
+]

@@ -1,0 +1,3243 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        225,
+                        53,
+                        340,
+                        82
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                225,
+                                53,
+                                342,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        53,
+                                        342,
+                                        65
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Бухгалтерский баланс",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                231,
+                                70,
+                                333,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        231,
+                                        70,
+                                        333,
+                                        82
+                                    ],
+                                    "score": 0.997,
+                                    "content": "на 30 сентября 2024 г.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        100,
+                        556,
+                        258
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                100,
+                                520,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        100,
+                                        520,
+                                        116
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Коды",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                118,
+                                524,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        119,
+                                        459,
+                                        131
+                                    ],
+                                    "score": 0.938,
+                                    "content": "Форма по ОКУД",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        487,
+                                        118,
+                                        524,
+                                        131
+                                    ],
+                                    "score": 0.999,
+                                    "content": "0710001",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                362,
+                                132,
+                                550,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        362,
+                                        136,
+                                        460,
+                                        148
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Дата (число, месяц, год)]",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        464,
+                                        133,
+                                        486,
+                                        148
+                                    ],
+                                    "score": 0.941,
+                                    "content": "30",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        496,
+                                        132,
+                                        516,
+                                        149
+                                    ],
+                                    "score": 0.996,
+                                    "content": "09",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        524,
+                                        133,
+                                        550,
+                                        147
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                152,
+                                527,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        152,
+                                        371,
+                                        162
+                                    ],
+                                    "score": 0.971,
+                                    "content": "Общество с ограниченной ответственностью \"Инк-Текущий и",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        418,
+                                        153,
+                                        460,
+                                        168
+                                    ],
+                                    "score": 0.587,
+                                    "content": "по Окпо",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        485,
+                                        154,
+                                        527,
+                                        165
+                                    ],
+                                    "score": 0.999,
+                                    "content": "04239548",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                160,
+                                245,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        162,
+                                        108,
+                                        174
+                                    ],
+                                    "score": 0.994,
+                                    "content": "Организация",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        160,
+                                        245,
+                                        174
+                                    ],
+                                    "score": 0.965,
+                                    "content": "капитальный ремонт скважин\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                170,
+                                531,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        177,
+                                        241,
+                                        187
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Идентификационный номер налогоплательщика",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        434,
+                                        170,
+                                        461,
+                                        187
+                                    ],
+                                    "score": 0.601,
+                                    "content": "иHн",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        480,
+                                        173,
+                                        531,
+                                        185
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3849060301",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                189,
+                                524,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        191,
+                                        132,
+                                        212
+                                    ],
+                                    "score": 0.556,
+                                    "content": "Дидтекономической",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        189,
+                                        385,
+                                        211
+                                    ],
+                                    "score": 0.945,
+                                    "content": "Предоставление прочих услуг в области добычи нефти и",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        419,
+                                        189,
+                                        461,
+                                        212
+                                    ],
+                                    "score": 0.501,
+                                    "content": "оквэд",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        487,
+                                        191,
+                                        524,
+                                        207
+                                    ],
+                                    "score": 0.997,
+                                    "content": "09.10.9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                212,
+                                277,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        212,
+                                        277,
+                                        223
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Организационно-правовая форма /форма собственности",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                217,
+                                539,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        222,
+                                        166,
+                                        235
+                                    ],
+                                    "score": 0.978,
+                                    "content": "Общество с ограниченной",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        224,
+                                        460,
+                                        237
+                                    ],
+                                    "score": 0.935,
+                                    "content": "по ОКОПФ / ОКФС]",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        217,
+                                        498,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12165",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        521,
+                                        217,
+                                        539,
+                                        232
+                                    ],
+                                    "score": 0.999,
+                                    "content": "16",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                231,
+                                308,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        134,
+                                        244
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ответственностью",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        231,
+                                        308,
+                                        243
+                                    ],
+                                    "score": 0.989,
+                                    "content": "частная собственность",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                241,
+                                517,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        247,
+                                        138,
+                                        258
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Единица измерения:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        246,
+                                        203,
+                                        258
+                                    ],
+                                    "score": 0.957,
+                                    "content": "в тыс. рублей",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        419,
+                                        241,
+                                        461,
+                                        255
+                                    ],
+                                    "score": 0.814,
+                                    "content": "По ОКЕИ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        495,
+                                        242,
+                                        517,
+                                        257
+                                    ],
+                                    "score": 0.999,
+                                    "content": "384",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        261,
+                        450,
+                        292
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                260,
+                                157,
+                                272
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        260,
+                                        157,
+                                        272
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Местонахождение (адрес)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                270,
+                                450,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        270,
+                                        450,
+                                        282
+                                    ],
+                                    "score": 0.957,
+                                    "content": "664007, Иркутская область, г.о. город Иркутск, г Иркутск, ул Декабрьских Событий, д. 29, помещ.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                280,
+                                71,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        280,
+                                        71,
+                                        293
+                                    ],
+                                    "score": 0.999,
+                                    "content": "501",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        54,
+                        294,
+                        436,
+                        310
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                54,
+                                294,
+                                436,
+                                310
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        294,
+                                        436,
+                                        310
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                294,
+                                                436,
+                                                310
+                                            ],
+                                            "score": 0.096,
+                                            "type": "image",
+                                            "image_path": "11d8329f8c10c74ebdd2692608879d110324796fade6bbec875b6dd976ea812c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        294,
+                                        436,
+                                        310
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        312,
+                        466,
+                        322
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                311,
+                                467,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        311,
+                                        467,
+                                        324
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Наименование аудиторской организации/фамилия, имя, отчество (при наличии) индивидуального аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        338,
+                        411,
+                        380
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                339,
+                                410,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        339,
+                                        410,
+                                        349
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Идентификационный номер налогоплательщика аудиторской организации/индивидуального",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                349,
+                                93,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        349,
+                                        93,
+                                        360
+                                    ],
+                                    "score": 0.774,
+                                    "content": "аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                358,
+                                306,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        358,
+                                        306,
+                                        369
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Основной государственный регистрационный номер аудиторской",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                369,
+                                210,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        369,
+                                        210,
+                                        379
+                                    ],
+                                    "score": 0.971,
+                                    "content": "организации/индивидуального аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 19.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        422,
+                        334,
+                        556,
+                        379
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                422,
+                                334,
+                                556,
+                                379
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        422,
+                                        334,
+                                        556,
+                                        379
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                422,
+                                                334,
+                                                556,
+                                                379
+                                            ],
+                                            "score": 0.4,
+                                            "html": "<table><tr><td>ИHH</td><td></td></tr><tr><td>ОГРН/ ОГРНИП</td><td></td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "cea58f4988502a7672fa2590c902152268659d1a7421a8abc68168724c3ca8d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        422,
+                                        334,
+                                        556,
+                                        356.5
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        422,
+                                        356.5,
+                                        556,
+                                        379.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        62,
+                        421,
+                        558,
+                        750
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                62,
+                                421,
+                                558,
+                                750
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        421,
+                                        558,
+                                        750
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                421,
+                                                558,
+                                                750
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1> Код</td><td rowspan=1 colspan=1>На 30 сентября2024г.</td><td rowspan=1 colspan=1>На 31 декабря2023г.</td><td rowspan=1 colspan=1>На 31 декабря2022г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>АКТИВI. ВНЕОБОРОТНЫЕ АКТИВЫНематериальные активы</td><td rowspan=1 colspan=1>1110</td><td rowspan=1 colspan=1>7 986</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результаты исследований и разработок</td><td rowspan=1 colspan=1>1120</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Нематериальные поисковые активы</td><td rowspan=1 colspan=1>1130</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Материальные поисковые активы</td><td rowspan=1 colspan=1>1140</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Основные средства</td><td rowspan=1 colspan=1>1150</td><td rowspan=1 colspan=1>2 855 042</td><td rowspan=1 colspan=1>2457539</td><td rowspan=1 colspan=1>1346567</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходные вложения в материальныеценности</td><td rowspan=1 colspan=1>1160</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>—</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Финансовые вложения</td><td rowspan=1 colspan=1>1170</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Отложенные налоговые активы</td><td rowspan=1 colspan=1>1180</td><td rowspan=1 colspan=1>49090</td><td rowspan=1 colspan=1>44097</td><td rowspan=1 colspan=1>31929</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие внеоборотные активы</td><td rowspan=1 colspan=1>1190</td><td rowspan=1 colspan=1>11115</td><td rowspan=1 colspan=1>440848</td><td rowspan=1 colspan=1>54 137</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Итого по разделу I</td><td rowspan=1 colspan=1>1100</td><td rowspan=1 colspan=1>2 923 233</td><td rowspan=1 colspan=1>2942484</td><td rowspan=1 colspan=1>1432633</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>II. ОБОРОТНЫЕ АКТИВЫЗапасы</td><td rowspan=1 colspan=1>1210</td><td rowspan=1 colspan=1>1623 161</td><td rowspan=1 colspan=1>1 079 699</td><td rowspan=1 colspan=1>817.909</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на добавленную стоимость поприобретенным ценностям</td><td rowspan=1 colspan=1>1220</td><td rowspan=1 colspan=1>60185</td><td rowspan=1 colspan=1>3 586</td><td rowspan=1 colspan=1>22 083</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Дебиторская задолженность</td><td rowspan=1 colspan=1>1230</td><td rowspan=1 colspan=1>770 305</td><td rowspan=1 colspan=1>703204</td><td rowspan=1 colspan=1>447317</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Финансовые вложения (за исключениемденежных эквивалентов)</td><td rowspan=1 colspan=1>1240</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Денежные средства и денежныеэквиваленты</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>12332</td><td rowspan=1 colspan=1>2 659</td><td rowspan=1 colspan=1>5452</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Прочие оборотные активы</td><td rowspan=1 colspan=1>1260</td><td rowspan=1 colspan=1>1814</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>548</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу II</td><td rowspan=1 colspan=1>1200</td><td rowspan=1 colspan=1>2467 797</td><td rowspan=1 colspan=1>1789177</td><td rowspan=1 colspan=1>1293309</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>5ААНС</td><td rowspan=1 colspan=1>1600</td><td rowspan=1 colspan=1>5391 030</td><td rowspan=1 colspan=1>4731661</td><td rowspan=1 colspan=1>2725 942</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "839010973ea17988edf305a0a2d2cd9d814b3bbcd356b9dd9cf7229e30f5ea97.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        421,
+                                        558,
+                                        530.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        62,
+                                        530.6666666666666,
+                                        558,
+                                        640.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        62,
+                                        640.3333333333333,
+                                        558,
+                                        749.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        30,
+                        19,
+                        36,
+                        25
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        217,
+                        810,
+                        222,
+                        815
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        225,
+                        53,
+                        340,
+                        82
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                225,
+                                53,
+                                342,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        225,
+                                        53,
+                                        342,
+                                        65
+                                    ],
+                                    "score": 0.95,
+                                    "content": "Бухгалтерский баланс",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                231,
+                                70,
+                                333,
+                                82
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        231,
+                                        70,
+                                        333,
+                                        82
+                                    ],
+                                    "score": 0.997,
+                                    "content": "на 30 сентября 2024 г.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        100,
+                        556,
+                        258
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                100,
+                                520,
+                                116
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        100,
+                                        520,
+                                        116
+                                    ],
+                                    "score": 0.96,
+                                    "content": "Коды",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                118,
+                                524,
+                                131
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        119,
+                                        459,
+                                        131
+                                    ],
+                                    "score": 0.938,
+                                    "content": "Форма по ОКУД",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        487,
+                                        118,
+                                        524,
+                                        131
+                                    ],
+                                    "score": 0.999,
+                                    "content": "0710001",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                362,
+                                132,
+                                550,
+                                149
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        362,
+                                        136,
+                                        460,
+                                        148
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Дата (число, месяц, год)]",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        464,
+                                        133,
+                                        486,
+                                        148
+                                    ],
+                                    "score": 0.941,
+                                    "content": "30",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        496,
+                                        132,
+                                        516,
+                                        149
+                                    ],
+                                    "score": 0.996,
+                                    "content": "09",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        524,
+                                        133,
+                                        550,
+                                        147
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2024",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                114,
+                                152,
+                                527,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        114,
+                                        152,
+                                        371,
+                                        162
+                                    ],
+                                    "score": 0.971,
+                                    "content": "Общество с ограниченной ответственностью \"Инк-Текущий и",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        418,
+                                        153,
+                                        460,
+                                        168
+                                    ],
+                                    "score": 0.587,
+                                    "content": "по Окпо",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        485,
+                                        154,
+                                        527,
+                                        165
+                                    ],
+                                    "score": 0.999,
+                                    "content": "04239548",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                160,
+                                245,
+                                174
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        162,
+                                        108,
+                                        174
+                                    ],
+                                    "score": 0.994,
+                                    "content": "Организация",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        160,
+                                        245,
+                                        174
+                                    ],
+                                    "score": 0.965,
+                                    "content": "капитальный ремонт скважин\"",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                170,
+                                531,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        177,
+                                        241,
+                                        187
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Идентификационный номер налогоплательщика",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        434,
+                                        170,
+                                        461,
+                                        187
+                                    ],
+                                    "score": 0.601,
+                                    "content": "иHн",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        480,
+                                        173,
+                                        531,
+                                        185
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3849060301",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                189,
+                                524,
+                                212
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        191,
+                                        132,
+                                        212
+                                    ],
+                                    "score": 0.556,
+                                    "content": "Дидтекономической",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        189,
+                                        385,
+                                        211
+                                    ],
+                                    "score": 0.945,
+                                    "content": "Предоставление прочих услуг в области добычи нефти и",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        419,
+                                        189,
+                                        461,
+                                        212
+                                    ],
+                                    "score": 0.501,
+                                    "content": "оквэд",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        487,
+                                        191,
+                                        524,
+                                        207
+                                    ],
+                                    "score": 0.997,
+                                    "content": "09.10.9",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                212,
+                                277,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        212,
+                                        277,
+                                        223
+                                    ],
+                                    "score": 0.986,
+                                    "content": "Организационно-правовая форма /форма собственности",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                217,
+                                539,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        222,
+                                        166,
+                                        235
+                                    ],
+                                    "score": 0.978,
+                                    "content": "Общество с ограниченной",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        383,
+                                        224,
+                                        460,
+                                        237
+                                    ],
+                                    "score": 0.935,
+                                    "content": "по ОКОПФ / ОКФС]",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        467,
+                                        217,
+                                        498,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "12165",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        521,
+                                        217,
+                                        539,
+                                        232
+                                    ],
+                                    "score": 0.999,
+                                    "content": "16",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                231,
+                                308,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        234,
+                                        134,
+                                        244
+                                    ],
+                                    "score": 0.975,
+                                    "content": "ответственностью",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        231,
+                                        308,
+                                        243
+                                    ],
+                                    "score": 0.989,
+                                    "content": "частная собственность",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                241,
+                                517,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        247,
+                                        138,
+                                        258
+                                    ],
+                                    "score": 0.992,
+                                    "content": "Единица измерения:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        144,
+                                        246,
+                                        203,
+                                        258
+                                    ],
+                                    "score": 0.957,
+                                    "content": "в тыс. рублей",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        419,
+                                        241,
+                                        461,
+                                        255
+                                    ],
+                                    "score": 0.814,
+                                    "content": "По ОКЕИ",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        495,
+                                        242,
+                                        517,
+                                        257
+                                    ],
+                                    "score": 0.999,
+                                    "content": "384",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 7,
+                    "bbox_fs": [
+                        51,
+                        100,
+                        550,
+                        258
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        56,
+                        261,
+                        450,
+                        292
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                260,
+                                157,
+                                272
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        260,
+                                        157,
+                                        272
+                                    ],
+                                    "score": 0.989,
+                                    "content": "Местонахождение (адрес)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                270,
+                                450,
+                                282
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        270,
+                                        450,
+                                        282
+                                    ],
+                                    "score": 0.957,
+                                    "content": "664007, Иркутская область, г.о. город Иркутск, г Иркутск, ул Декабрьских Событий, д. 29, помещ.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                280,
+                                71,
+                                293
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        280,
+                                        71,
+                                        293
+                                    ],
+                                    "score": 0.999,
+                                    "content": "501",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 14,
+                    "bbox_fs": [
+                        52,
+                        260,
+                        450,
+                        293
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        54,
+                        294,
+                        436,
+                        310
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                54,
+                                294,
+                                436,
+                                310
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        294,
+                                        436,
+                                        310
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                294,
+                                                436,
+                                                310
+                                            ],
+                                            "score": 0.096,
+                                            "type": "image",
+                                            "image_path": "11d8329f8c10c74ebdd2692608879d110324796fade6bbec875b6dd976ea812c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        294,
+                                        436,
+                                        310
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        56,
+                        312,
+                        466,
+                        322
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                54,
+                                311,
+                                467,
+                                324
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        311,
+                                        467,
+                                        324
+                                    ],
+                                    "score": 0.968,
+                                    "content": "Наименование аудиторской организации/фамилия, имя, отчество (при наличии) индивидуального аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "bbox_fs": [
+                        54,
+                        311,
+                        467,
+                        324
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        53,
+                        338,
+                        411,
+                        380
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                339,
+                                410,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        339,
+                                        410,
+                                        349
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Идентификационный номер налогоплательщика аудиторской организации/индивидуального",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                349,
+                                93,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        349,
+                                        93,
+                                        360
+                                    ],
+                                    "score": 0.774,
+                                    "content": "аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                358,
+                                306,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        358,
+                                        306,
+                                        369
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Основной государственный регистрационный номер аудиторской",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                369,
+                                210,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        369,
+                                        210,
+                                        379
+                                    ],
+                                    "score": 0.971,
+                                    "content": "организации/индивидуального аудитора",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 19.5,
+                    "bbox_fs": [
+                        52,
+                        339,
+                        410,
+                        379
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        422,
+                        334,
+                        556,
+                        379
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                422,
+                                334,
+                                556,
+                                379
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        422,
+                                        334,
+                                        556,
+                                        379
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                422,
+                                                334,
+                                                556,
+                                                379
+                                            ],
+                                            "score": 0.4,
+                                            "html": "<table><tr><td>ИHH</td><td></td></tr><tr><td>ОГРН/ ОГРНИП</td><td></td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "cea58f4988502a7672fa2590c902152268659d1a7421a8abc68168724c3ca8d3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        422,
+                                        334,
+                                        556,
+                                        356.5
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        422,
+                                        356.5,
+                                        556,
+                                        379.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        62,
+                        421,
+                        558,
+                        750
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                62,
+                                421,
+                                558,
+                                750
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        421,
+                                        558,
+                                        750
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                421,
+                                                558,
+                                                750
+                                            ],
+                                            "score": 0.981,
+                                            "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td><td colspan=\"1\" rowspan=\"1\"> Код</td><td colspan=\"1\" rowspan=\"1\">На 30 сентября2024г.</td><td colspan=\"1\" rowspan=\"1\">На 31 декабря2023г.</td><td colspan=\"1\" rowspan=\"1\">На 31 декабря2022г.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">АКТИВI. ВНЕОБОРОТНЫЕ АКТИВЫНематериальные активы</td><td colspan=\"1\" rowspan=\"1\">1110</td><td colspan=\"1\" rowspan=\"1\">7 986</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Результаты исследований и разработок</td><td colspan=\"1\" rowspan=\"1\">1120</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Нематериальные поисковые активы</td><td colspan=\"1\" rowspan=\"1\">1130</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Материальные поисковые активы</td><td colspan=\"1\" rowspan=\"1\">1140</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Основные средства</td><td colspan=\"1\" rowspan=\"1\">1150</td><td colspan=\"1\" rowspan=\"1\">2 855 042</td><td colspan=\"1\" rowspan=\"1\">2457539</td><td colspan=\"1\" rowspan=\"1\">1346567</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Доходные вложения в материальныеценности</td><td colspan=\"1\" rowspan=\"1\">1160</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">—</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Финансовые вложения</td><td colspan=\"1\" rowspan=\"1\">1170</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Отложенные налоговые активы</td><td colspan=\"1\" rowspan=\"1\">1180</td><td colspan=\"1\" rowspan=\"1\">49090</td><td colspan=\"1\" rowspan=\"1\">44097</td><td colspan=\"1\" rowspan=\"1\">31929</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие внеоборотные активы</td><td colspan=\"1\" rowspan=\"1\">1190</td><td colspan=\"1\" rowspan=\"1\">11115</td><td colspan=\"1\" rowspan=\"1\">440848</td><td colspan=\"1\" rowspan=\"1\">54 137</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Итого по разделу I</td><td colspan=\"1\" rowspan=\"1\">1100</td><td colspan=\"1\" rowspan=\"1\">2 923 233</td><td colspan=\"1\" rowspan=\"1\">2942484</td><td colspan=\"1\" rowspan=\"1\">1432633</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">II. ОБОРОТНЫЕ АКТИВЫЗапасы</td><td colspan=\"1\" rowspan=\"1\">1210</td><td colspan=\"1\" rowspan=\"1\">1623 161</td><td colspan=\"1\" rowspan=\"1\">1 079 699</td><td colspan=\"1\" rowspan=\"1\">817.909</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Налог на добавленную стоимость поприобретенным ценностям</td><td colspan=\"1\" rowspan=\"1\">1220</td><td colspan=\"1\" rowspan=\"1\">60185</td><td colspan=\"1\" rowspan=\"1\">3 586</td><td colspan=\"1\" rowspan=\"1\">22 083</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Дебиторская задолженность</td><td colspan=\"1\" rowspan=\"1\">1230</td><td colspan=\"1\" rowspan=\"1\">770 305</td><td colspan=\"1\" rowspan=\"1\">703204</td><td colspan=\"1\" rowspan=\"1\">447317</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Финансовые вложения (за исключениемденежных эквивалентов)</td><td colspan=\"1\" rowspan=\"1\">1240</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Денежные средства и денежныеэквиваленты</td><td colspan=\"1\" rowspan=\"1\">1250</td><td colspan=\"1\" rowspan=\"1\">12332</td><td colspan=\"1\" rowspan=\"1\">2 659</td><td colspan=\"1\" rowspan=\"1\">5452</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Прочие оборотные активы</td><td colspan=\"1\" rowspan=\"1\">1260</td><td colspan=\"1\" rowspan=\"1\">1814</td><td colspan=\"1\" rowspan=\"1\">29</td><td colspan=\"1\" rowspan=\"1\">548</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу II</td><td colspan=\"1\" rowspan=\"1\">1200</td><td colspan=\"1\" rowspan=\"1\">2467 797</td><td colspan=\"1\" rowspan=\"1\">1789177</td><td colspan=\"1\" rowspan=\"1\">1293309</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">5ААНС</td><td colspan=\"1\" rowspan=\"1\">1600</td><td colspan=\"1\" rowspan=\"1\">5391 030</td><td colspan=\"1\" rowspan=\"1\">4731661</td><td colspan=\"1\" rowspan=\"1\">2725 942</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">ПАССИВII. КАПИТАЛ И РЕЗЕРВЫУставный капитал (складочный капитал,уставный фонд, вклады товарищей)</td><td colspan=\"1\" rowspan=\"1\">1310</td><td colspan=\"1\" rowspan=\"1\">228758</td><td colspan=\"1\" rowspan=\"1\">228 758</td><td colspan=\"1\" rowspan=\"1\">228 758</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Собственные акции, выкупленные уакционеров</td><td colspan=\"1\" rowspan=\"1\">1320</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Переоценка внеоборотных активов</td><td colspan=\"1\" rowspan=\"1\">1340</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Добавочный капитал (без переоценки)</td><td colspan=\"1\" rowspan=\"1\">1350</td><td colspan=\"1\" rowspan=\"1\">561 839</td><td colspan=\"1\" rowspan=\"1\">561846</td><td colspan=\"1\" rowspan=\"1\">563 513</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Резервный капитал</td><td colspan=\"1\" rowspan=\"1\">1360</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Нераспределенная прибыль (непокрытыйубыток)</td><td colspan=\"1\" rowspan=\"1\">1370</td><td colspan=\"1\" rowspan=\"1\">2382778</td><td colspan=\"1\" rowspan=\"1\">1810 343</td><td colspan=\"1\" rowspan=\"1\">914252</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу III</td><td colspan=\"1\" rowspan=\"1\">1300</td><td colspan=\"1\" rowspan=\"1\">3173 375</td><td colspan=\"1\" rowspan=\"1\">2600947</td><td colspan=\"1\" rowspan=\"1\">1706 523</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">IV. ДОЛГОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td colspan=\"1\" rowspan=\"1\">1410</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Отложенные налоговые обязательства</td><td colspan=\"1\" rowspan=\"1\">1420</td><td colspan=\"1\" rowspan=\"1\">208 724</td><td colspan=\"1\" rowspan=\"1\">160830</td><td colspan=\"1\" rowspan=\"1\">108 224</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Оценочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1430</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие обязательства</td><td colspan=\"1\" rowspan=\"1\">1450</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу IV</td><td colspan=\"1\" rowspan=\"1\">1400</td><td colspan=\"1\" rowspan=\"1\">208 724</td><td colspan=\"1\" rowspan=\"1\">160830</td><td colspan=\"1\" rowspan=\"1\">108224</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">V. КРАТКОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td colspan=\"1\" rowspan=\"1\">1510</td><td colspan=\"1\" rowspan=\"1\">782000</td><td colspan=\"1\" rowspan=\"1\">693 000</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Кредиторская задолженность</td><td colspan=\"1\" rowspan=\"1\">1520</td><td colspan=\"1\" rowspan=\"1\">854818</td><td colspan=\"1\" rowspan=\"1\">855 420</td><td colspan=\"1\" rowspan=\"1\">602276</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Доходы будущих периодов</td><td colspan=\"1\" rowspan=\"1\">1530</td><td colspan=\"1\" rowspan=\"1\">1</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Оценочные обязательства</td><td colspan=\"1\" rowspan=\"1\">1540</td><td colspan=\"1\" rowspan=\"1\">372113</td><td colspan=\"1\" rowspan=\"1\">421463</td><td colspan=\"1\" rowspan=\"1\">308919</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие обязательства</td><td colspan=\"1\" rowspan=\"1\">1550</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Итого по разделу V</td><td colspan=\"1\" rowspan=\"1\">1500</td><td colspan=\"1\" rowspan=\"1\">2008 931</td><td colspan=\"1\" rowspan=\"1\">1969884</td><td colspan=\"1\" rowspan=\"1\">911 195</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">5ААHC</td><td colspan=\"1\" rowspan=\"1\">1700</td><td colspan=\"1\" rowspan=\"1\">5391030</td><td colspan=\"1\" rowspan=\"1\">4731661</td><td colspan=\"1\" rowspan=\"1\">2725 942</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "839010973ea17988edf305a0a2d2cd9d814b3bbcd356b9dd9cf7229e30f5ea97.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        421,
+                                        558,
+                                        530.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        62,
+                                        530.6666666666666,
+                                        558,
+                                        640.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        62,
+                                        640.3333333333333,
+                                        558,
+                                        749.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 25
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        61,
+                        68,
+                        556,
+                        416
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                61,
+                                68,
+                                556,
+                                416
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        556,
+                                        416
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                68,
+                                                556,
+                                                416
+                                            ],
+                                            "score": 0.983,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>На 30 сентября2024г.</td><td rowspan=1 colspan=1>На 31 декабря2023г.</td><td rowspan=1 colspan=1> На 31 декабря2022г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>ПАССИВII. КАПИТАЛ И РЕЗЕРВЫУставный капитал (складочный капитал,уставный фонд, вклады товарищей)</td><td rowspan=1 colspan=1>1310</td><td rowspan=1 colspan=1>228758</td><td rowspan=1 colspan=1>228 758</td><td rowspan=1 colspan=1>228 758</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Собственные акции, выкупленные уакционеров</td><td rowspan=1 colspan=1>1320</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Переоценка внеоборотных активов</td><td rowspan=1 colspan=1>1340</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Добавочный капитал (без переоценки)</td><td rowspan=1 colspan=1>1350</td><td rowspan=1 colspan=1>561 839</td><td rowspan=1 colspan=1>561846</td><td rowspan=1 colspan=1>563 513</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Резервный капитал</td><td rowspan=1 colspan=1>1360</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Нераспределенная прибыль (непокрытыйубыток)</td><td rowspan=1 colspan=1>1370</td><td rowspan=1 colspan=1>2382778</td><td rowspan=1 colspan=1>1810 343</td><td rowspan=1 colspan=1>914252</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу III</td><td rowspan=1 colspan=1>1300</td><td rowspan=1 colspan=1>3173 375</td><td rowspan=1 colspan=1>2600947</td><td rowspan=1 colspan=1>1706 523</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>IV. ДОЛГОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td rowspan=1 colspan=1>1410</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Отложенные налоговые обязательства</td><td rowspan=1 colspan=1>1420</td><td rowspan=1 colspan=1>208 724</td><td rowspan=1 colspan=1>160830</td><td rowspan=1 colspan=1>108 224</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Оценочные обязательства</td><td rowspan=1 colspan=1>1430</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие обязательства</td><td rowspan=1 colspan=1>1450</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу IV</td><td rowspan=1 colspan=1>1400</td><td rowspan=1 colspan=1>208 724</td><td rowspan=1 colspan=1>160830</td><td rowspan=1 colspan=1>108224</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>V. КРАТКОСРОЧНЫЕ ОБЯЗАТЕЛЬСТВАЗаемные средства</td><td rowspan=1 colspan=1>1510</td><td rowspan=1 colspan=1>782000</td><td rowspan=1 colspan=1>693 000</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Кредиторская задолженность</td><td rowspan=1 colspan=1>1520</td><td rowspan=1 colspan=1>854818</td><td rowspan=1 colspan=1>855 420</td><td rowspan=1 colspan=1>602276</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходы будущих периодов</td><td rowspan=1 colspan=1>1530</td><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Оценочные обязательства</td><td rowspan=1 colspan=1>1540</td><td rowspan=1 colspan=1>372113</td><td rowspan=1 colspan=1>421463</td><td rowspan=1 colspan=1>308919</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие обязательства</td><td rowspan=1 colspan=1>1550</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Итого по разделу V</td><td rowspan=1 colspan=1>1500</td><td rowspan=1 colspan=1>2008 931</td><td rowspan=1 colspan=1>1969884</td><td rowspan=1 colspan=1>911 195</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>5ААHC</td><td rowspan=1 colspan=1>1700</td><td rowspan=1 colspan=1>5391030</td><td rowspan=1 colspan=1>4731661</td><td rowspan=1 colspan=1>2725 942</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "e17614d9df59d47fb1cc3329efcd6aff69f89efbd2b2a1f985e5a607cf4e1709.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        556,
+                                        184.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        184.0,
+                                        556,
+                                        300.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        300.0,
+                                        556,
+                                        416.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_idx": 1,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        485,
+                        52,
+                        553,
+                        61
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                483,
+                                50,
+                                554,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        483,
+                                        50,
+                                        554,
+                                        62
+                                    ],
+                                    "score": 0.977,
+                                    "content": "Форма 0710001 с.2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        54,
+                        668,
+                        315,
+                        811
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        61,
+                        68,
+                        556,
+                        416
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                61,
+                                68,
+                                556,
+                                416
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        556,
+                                        184.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        184.0,
+                                        556,
+                                        300.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        300.0,
+                                        556,
+                                        416.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        198,
+                        51,
+                        371,
+                        62
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                198,
+                                51,
+                                371,
+                                62
+                            ],
+                            "spans": [],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        49,
+                        54,
+                        564,
+                        220
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                49,
+                                54,
+                                564,
+                                220
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        54,
+                                        564,
+                                        220
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                54,
+                                                564,
+                                                220
+                                            ],
+                                            "score": 0.933,
+                                            "html": "<table><tr><td colspan=\"4\">Отчет о финансовых результатах</td></tr><tr><td colspan=\"2\">за Январь - Сентябрь 2024 г. Форма по ОКУД</td><td colspan=\"3\">Коды</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">0710002</td></tr><tr><td>Общество с ограниченной ответственностью &quot;инк-Текущий и</td><td>Дата (число, месяц, год) по ОкПо</td><td>30</td><td>09</td><td>2024</td></tr><tr><td colspan=\"3\">Организация капитальный ремонт скважин&quot;</td><td>04239548</td><td></td></tr><tr><td colspan=\"3\">Идентификационный номер налогоплательщика Предоставление прочих услуг в области добычи нефти и</td><td>3849060301</td></tr><tr><td colspan=\"2\">Вид экономической деятельности природного газа</td><td colspan=\"3\">по ОКВЭД2 09.10.9</td></tr><tr><td colspan=\"3\">Организационно-правовая форма /форма собственности</td><td colspan=\"3\">12165</td></tr><tr><td colspan=\"3\">Общество с ограниченной по ОКОПФ / ОКФС ответственностью / частная собственность По ОКЕИ</td><td colspan=\"3\">16</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "8c6af9f6bae245334828a2b70edcca0403d95538640d22c3395a421a29e07cbd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        54,
+                                        564,
+                                        109.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        109.33333333333334,
+                                        564,
+                                        164.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        164.66666666666669,
+                                        564,
+                                        220.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        59,
+                        247,
+                        562,
+                        500
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                59,
+                                247,
+                                562,
+                                500
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        247,
+                                        562,
+                                        500
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                247,
+                                                562,
+                                                500
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2024 г.</td><td rowspan=1 colspan=1>За Январь-Сентябрь 2023 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Выручка</td><td rowspan=1 colspan=1>2110</td><td rowspan=1 colspan=1>6499 270</td><td rowspan=1 colspan=1>6 443 733</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Себестоимость продаж</td><td rowspan=1 colspan=1>2120</td><td rowspan=1 colspan=1>(5 484 893)</td><td rowspan=1 colspan=1>(4 746 119)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Валовая прибыль (убыток)</td><td rowspan=1 colspan=1>2100</td><td rowspan=1 colspan=1>1014377</td><td rowspan=1 colspan=1>1697614</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Коммерческие расходы</td><td rowspan=1 colspan=1>2210</td><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Управленческие расходы</td><td rowspan=1 colspan=1>2220</td><td rowspan=1 colspan=1>(261 749)</td><td rowspan=1 colspan=1>(214 320)</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Прибыль (убыток) от продаж</td><td rowspan=1 colspan=1>2200</td><td rowspan=1 colspan=1>752 628</td><td rowspan=1 colspan=1>1 483 294</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Доходы от участия в других организациях</td><td rowspan=1 colspan=1>2310</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>__</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к получению</td><td rowspan=1 colspan=1>2320</td><td rowspan=1 colspan=1>628</td><td rowspan=1 colspan=1>849</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Проценты к уплате</td><td rowspan=1 colspan=1>2330</td><td rowspan=1 colspan=1>(3 571)</td><td rowspan=1 colspan=1>(2304)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие доходы</td><td rowspan=1 colspan=1>2340</td><td rowspan=1 colspan=1>127680</td><td rowspan=1 colspan=1>138693</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Прочие расходы</td><td rowspan=1 colspan=1>2350</td><td rowspan=1 colspan=1>(130 781)</td><td rowspan=1 colspan=1>(200 695)</td></tr><tr><td rowspan=1 colspan=1>_</td><td rowspan=1 colspan=1>Прибыль (убыток) до налогообложения</td><td rowspan=1 colspan=1>2300</td><td rowspan=1 colspan=1>746 584</td><td rowspan=1 colspan=1>1 419 837</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль</td><td rowspan=1 colspan=1>2410</td><td rowspan=1 colspan=1>(154 253)</td><td rowspan=1 colspan=1>(279 574)</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>в том числе:текущий налог на прибыль</td><td rowspan=1 colspan=1>2411</td><td rowspan=1 colspan=1>(111 250)</td><td rowspan=1 colspan=1>(272 928)</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>отложенный налог на прибыль</td><td rowspan=1 colspan=1>2412</td><td rowspan=1 colspan=1>(43 003)</td><td rowspan=1 colspan=1>(6 646)</td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Прочее</td><td rowspan=1 colspan=1>2460</td><td rowspan=1 colspan=1>(16)</td><td rowspan=1 colspan=1>(3)</td></tr><tr><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>Чистая прибыль (убыток)</td><td rowspan=1 colspan=1>2400</td><td rowspan=1 colspan=1>592315</td><td rowspan=1 colspan=1>1140260</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "538c9ad9ae24bcf4a08de243cdcdf5b1a88ebcb63a052c462653671d248d1c64.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        247,
+                                        562,
+                                        331.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        331.3333333333333,
+                                        562,
+                                        415.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        415.66666666666663,
+                                        562,
+                                        499.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_idx": 2,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        198,
+                        51,
+                        371,
+                        62
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                198,
+                                51,
+                                371,
+                                62
+                            ],
+                            "spans": [],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        49,
+                        54,
+                        564,
+                        220
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                49,
+                                54,
+                                564,
+                                220
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        54,
+                                        564,
+                                        220
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                54,
+                                                564,
+                                                220
+                                            ],
+                                            "score": 0.933,
+                                            "html": "<table><tr><td colspan=\"4\">Отчет о финансовых результатах</td></tr><tr><td colspan=\"2\">за Январь - Сентябрь 2024 г. Форма по ОКУД</td><td colspan=\"3\">Коды</td></tr><tr><td colspan=\"2\"></td><td colspan=\"3\">0710002</td></tr><tr><td>Общество с ограниченной ответственностью &quot;инк-Текущий и</td><td>Дата (число, месяц, год) по ОкПо</td><td>30</td><td>09</td><td>2024</td></tr><tr><td colspan=\"3\">Организация капитальный ремонт скважин&quot;</td><td>04239548</td><td></td></tr><tr><td colspan=\"3\">Идентификационный номер налогоплательщика Предоставление прочих услуг в области добычи нефти и</td><td>3849060301</td></tr><tr><td colspan=\"2\">Вид экономической деятельности природного газа</td><td colspan=\"3\">по ОКВЭД2 09.10.9</td></tr><tr><td colspan=\"3\">Организационно-правовая форма /форма собственности</td><td colspan=\"3\">12165</td></tr><tr><td colspan=\"3\">Общество с ограниченной по ОКОПФ / ОКФС ответственностью / частная собственность По ОКЕИ</td><td colspan=\"3\">16</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "8c6af9f6bae245334828a2b70edcca0403d95538640d22c3395a421a29e07cbd.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        54,
+                                        564,
+                                        109.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        109.33333333333334,
+                                        564,
+                                        164.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        49,
+                                        164.66666666666669,
+                                        564,
+                                        220.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        59,
+                        247,
+                        562,
+                        500
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                59,
+                                247,
+                                562,
+                                500
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        247,
+                                        562,
+                                        500
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                247,
+                                                562,
+                                                500
+                                            ],
+                                            "score": 0.982,
+                                            "html": "<table><tr><td colspan=\"1\" rowspan=\"1\">Пояснения</td><td colspan=\"1\" rowspan=\"1\">Наименование показателя</td><td colspan=\"1\" rowspan=\"1\">Код</td><td colspan=\"1\" rowspan=\"1\">За Январь -Сентябрь 2024 г.</td><td colspan=\"1\" rowspan=\"1\">За Январь-Сентябрь 2023 г.</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Выручка</td><td colspan=\"1\" rowspan=\"1\">2110</td><td colspan=\"1\" rowspan=\"1\">6499 270</td><td colspan=\"1\" rowspan=\"1\">6 443 733</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Себестоимость продаж</td><td colspan=\"1\" rowspan=\"1\">2120</td><td colspan=\"1\" rowspan=\"1\">(5 484 893)</td><td colspan=\"1\" rowspan=\"1\">(4 746 119)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Валовая прибыль (убыток)</td><td colspan=\"1\" rowspan=\"1\">2100</td><td colspan=\"1\" rowspan=\"1\">1014377</td><td colspan=\"1\" rowspan=\"1\">1697614</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Коммерческие расходы</td><td colspan=\"1\" rowspan=\"1\">2210</td><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Управленческие расходы</td><td colspan=\"1\" rowspan=\"1\">2220</td><td colspan=\"1\" rowspan=\"1\">(261 749)</td><td colspan=\"1\" rowspan=\"1\">(214 320)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Прибыль (убыток) от продаж</td><td colspan=\"1\" rowspan=\"1\">2200</td><td colspan=\"1\" rowspan=\"1\">752 628</td><td colspan=\"1\" rowspan=\"1\">1 483 294</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Доходы от участия в других организациях</td><td colspan=\"1\" rowspan=\"1\">2310</td><td colspan=\"1\" rowspan=\"1\">-</td><td colspan=\"1\" rowspan=\"1\">__</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Проценты к получению</td><td colspan=\"1\" rowspan=\"1\">2320</td><td colspan=\"1\" rowspan=\"1\">628</td><td colspan=\"1\" rowspan=\"1\">849</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Проценты к уплате</td><td colspan=\"1\" rowspan=\"1\">2330</td><td colspan=\"1\" rowspan=\"1\">(3 571)</td><td colspan=\"1\" rowspan=\"1\">(2304)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие доходы</td><td colspan=\"1\" rowspan=\"1\">2340</td><td colspan=\"1\" rowspan=\"1\">127680</td><td colspan=\"1\" rowspan=\"1\">138693</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Прочие расходы</td><td colspan=\"1\" rowspan=\"1\">2350</td><td colspan=\"1\" rowspan=\"1\">(130 781)</td><td colspan=\"1\" rowspan=\"1\">(200 695)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">_</td><td colspan=\"1\" rowspan=\"1\">Прибыль (убыток) до налогообложения</td><td colspan=\"1\" rowspan=\"1\">2300</td><td colspan=\"1\" rowspan=\"1\">746 584</td><td colspan=\"1\" rowspan=\"1\">1 419 837</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Налог на прибыль</td><td colspan=\"1\" rowspan=\"1\">2410</td><td colspan=\"1\" rowspan=\"1\">(154 253)</td><td colspan=\"1\" rowspan=\"1\">(279 574)</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">в том числе:текущий налог на прибыль</td><td colspan=\"1\" rowspan=\"1\">2411</td><td colspan=\"1\" rowspan=\"1\">(111 250)</td><td colspan=\"1\" rowspan=\"1\">(272 928)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">отложенный налог на прибыль</td><td colspan=\"1\" rowspan=\"1\">2412</td><td colspan=\"1\" rowspan=\"1\">(43 003)</td><td colspan=\"1\" rowspan=\"1\">(6 646)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">Прочее</td><td colspan=\"1\" rowspan=\"1\">2460</td><td colspan=\"1\" rowspan=\"1\">(16)</td><td colspan=\"1\" rowspan=\"1\">(3)</td></tr><tr><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">Чистая прибыль (убыток)</td><td colspan=\"1\" rowspan=\"1\">2400</td><td colspan=\"1\" rowspan=\"1\">592315</td><td colspan=\"1\" rowspan=\"1\">1140260</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Результат от переоценки внеоборотных активов, невключаемый в чистую прибыль (убыток) периода</td><td colspan=\"1\" rowspan=\"1\">2510</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Результат от прочих операций, не включаемыйв чистую прибыль (убыток) периода</td><td colspan=\"1\" rowspan=\"1\">2520</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">Налог на прибыль от операций, результат которыхне включается в чистую прибыль (убыток) периода</td><td colspan=\"1\" rowspan=\"1\">2530</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">Совокупный финансовый результат периода</td><td colspan=\"1\" rowspan=\"1\">2500</td><td colspan=\"1\" rowspan=\"1\">592315</td><td colspan=\"1\" rowspan=\"1\">1140260</td></tr><tr><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\">СправочноБазовая прибыль (убыток) на акцию</td><td colspan=\"1\" rowspan=\"1\">2900</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\">__</td><td colspan=\"1\" rowspan=\"1\">Разводненная прибыль (убыток) на акцию</td><td colspan=\"1\" rowspan=\"1\">2910</td><td colspan=\"1\" rowspan=\"1\">___</td><td colspan=\"1\" rowspan=\"1\">___</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "538c9ad9ae24bcf4a08de243cdcdf5b1a88ebcb63a052c462653671d248d1c64.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        247,
+                                        562,
+                                        331.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        331.3333333333333,
+                                        562,
+                                        415.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        415.66666666666663,
+                                        562,
+                                        499.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        61,
+                        68,
+                        554,
+                        215
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                61,
+                                68,
+                                554,
+                                215
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        554,
+                                        215
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                68,
+                                                554,
+                                                215
+                                            ],
+                                            "score": 0.985,
+                                            "html": "<table><tr><td rowspan=1 colspan=1>Пояснения</td><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2024 г.</td><td rowspan=1 colspan=1>За Январь -Сентябрь 2023 г.</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат от переоценки внеоборотных активов, невключаемый в чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2510</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Результат от прочих операций, не включаемыйв чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2520</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>Налог на прибыль от операций, результат которыхне включается в чистую прибыль (убыток) периода</td><td rowspan=1 colspan=1>2530</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Совокупный финансовый результат периода</td><td rowspan=1 colspan=1>2500</td><td rowspan=1 colspan=1>592315</td><td rowspan=1 colspan=1>1140260</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>СправочноБазовая прибыль (убыток) на акцию</td><td rowspan=1 colspan=1>2900</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>__</td><td rowspan=1 colspan=1>Разводненная прибыль (убыток) на акцию</td><td rowspan=1 colspan=1>2910</td><td rowspan=1 colspan=1>___</td><td rowspan=1 colspan=1>___</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "8c91c78b3bbdfc6b95fbcb1fb490e0bfecc4398ca7d8c683352b9f2800354abe.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        554,
+                                        117.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        117.0,
+                                        554,
+                                        166.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        166.0,
+                                        554,
+                                        215.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_idx": 3,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        484,
+                        52,
+                        553,
+                        62
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                482,
+                                51,
+                                554,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        482,
+                                        51,
+                                        554,
+                                        63
+                                    ],
+                                    "score": 0.981,
+                                    "content": "Форма 0710002 с.2",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        524,
+                        629,
+                        530,
+                        635
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        577,
+                        280,
+                        585,
+                        285
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        38,
+                        676,
+                        310,
+                        815
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        61,
+                        68,
+                        554,
+                        215
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                61,
+                                68,
+                                554,
+                                215
+                            ],
+                            "group_id": 0,
+                            "lines": [],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        68,
+                                        554,
+                                        117.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        117.0,
+                                        554,
+                                        166.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        166.0,
+                                        554,
+                                        215.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ],
+                            "lines_deleted": true
+                        }
+                    ],
+                    "index": 1
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        251,
+                        87,
+                        352,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                251,
+                                86,
+                                352,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        251,
+                                        86,
+                                        352,
+                                        96
+                                    ],
+                                    "score": 0.986,
+                                    "content": "(наименование организации)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        90,
+                        553,
+                        600
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                116,
+                                76,
+                                488,
+                                86
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        75,
+                                        489,
+                                        87
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                117,
+                                                75,
+                                                489,
+                                                87
+                                            ],
+                                            "score": 0.967,
+                                            "content": "Общество с ограниченной ответственностью \"ИНк-Текущий и капитальный ремонт скважин\"",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 0
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                50,
+                                90,
+                                553,
+                                600
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        90,
+                                        553,
+                                        600
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                90,
+                                                553,
+                                                600
+                                            ],
+                                            "score": 0.972,
+                                            "html": "<table><tr><td rowspan=1 colspan=5>(найменование организации)</td></tr><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код строкибухгалтерскогобаланса</td><td rowspan=1 colspan=1>На 30 сентября 2024 г.</td><td rowspan=1 colspan=1>На 31 декабря 2023 г.</td><td rowspan=1 colspan=1> На 31 декабря 2022 г.</td></tr><tr><td rowspan=1 colspan=5>Активы</td></tr><tr><td rowspan=1 colspan=1>Нематериальные активы</td><td rowspan=1 colspan=1>1110</td><td rowspan=1 colspan=1>7986</td><td rowspan=1 colspan=1>ч</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Результаты исследований иразработок</td><td rowspan=1 colspan=1>1120</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Нематериальные поисковыеактивы</td><td rowspan=1 colspan=1>1130</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Материальные поисковые активы</td><td rowspan=1 colspan=1>1140</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Основные средства</td><td rowspan=1 colspan=1>1150</td><td rowspan=1 colspan=1>2855 042</td><td rowspan=1 colspan=1>2457539</td><td rowspan=1 colspan=1>1346 567</td></tr><tr><td rowspan=1 colspan=1>Доходные вложения вматериальные ценности</td><td rowspan=1 colspan=1>1160</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Финансовые вложениядолгосрочные</td><td rowspan=1 colspan=1>1170</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Отложенные налоговые активы</td><td rowspan=1 colspan=1>1180</td><td rowspan=1 colspan=1>49090</td><td rowspan=1 colspan=1>44 097</td><td rowspan=1 colspan=1>31929</td></tr><tr><td rowspan=1 colspan=1>Прочие внеоборотные активы</td><td rowspan=1 colspan=1>1190</td><td rowspan=1 colspan=1>11115</td><td rowspan=1 colspan=1>440848</td><td rowspan=1 colspan=1>54137</td></tr><tr><td rowspan=1 colspan=1>Запасы</td><td rowspan=1 colspan=1>1210</td><td rowspan=1 colspan=1>1623 161</td><td rowspan=1 colspan=1>1079699</td><td rowspan=1 colspan=1>817909</td></tr><tr><td rowspan=1 colspan=1>Налог на добавленную стоимостьпо приобретенным ценностям</td><td rowspan=1 colspan=1>1220</td><td rowspan=1 colspan=1>60185</td><td rowspan=1 colspan=1>3586</td><td rowspan=1 colspan=1>22 083</td></tr><tr><td rowspan=1 colspan=1>Дебиторская задолженность*</td><td rowspan=1 colspan=1>1230</td><td rowspan=1 colspan=1>770305</td><td rowspan=1 colspan=1>703204</td><td rowspan=1 colspan=1>447317</td></tr><tr><td rowspan=1 colspan=1>Финансовые вложениякраткосрочные</td><td rowspan=1 colspan=1>1240</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Денежные средства и денежныеэквиваленты</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>12332</td><td rowspan=1 colspan=1>2659</td><td rowspan=1 colspan=1>5452</td></tr><tr><td rowspan=1 colspan=1>Прочие оборотные активы</td><td rowspan=1 colspan=1>1260</td><td rowspan=1 colspan=1>1814</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>548</td></tr><tr><td rowspan=1 colspan=1>ИТОГО аКТИВЫ</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>5391030</td><td rowspan=1 colspan=1>4731 661</td><td rowspan=1 colspan=1>2725 942</td></tr><tr><td rowspan=1 colspan=5>Пассивы</td></tr><tr><td rowspan=1 colspan=1>Заемные средствадолгосрочные</td><td rowspan=1 colspan=1>1410</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Отложенные налоговыеобязательства</td><td rowspan=1 colspan=1>1420</td><td rowspan=1 colspan=1>208724</td><td rowspan=1 colspan=1>160830</td><td rowspan=1 colspan=1>108224</td></tr><tr><td rowspan=1 colspan=1>Оценочные обязательствадолгосрочные</td><td rowspan=1 colspan=1>1430</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Прочие обязательствадолгосрочные</td><td rowspan=1 colspan=1>1450</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Заемные средствакраткосрочные</td><td rowspan=1 colspan=1>1510</td><td rowspan=1 colspan=1>782000</td><td rowspan=1 colspan=1>693 000</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Кредиторская задолженность</td><td rowspan=1 colspan=1>1520</td><td rowspan=1 colspan=1>854818</td><td rowspan=1 colspan=1>855420</td><td rowspan=1 colspan=1>602276</td></tr><tr><td rowspan=1 colspan=1>Доходы будущих периодов **</td><td rowspan=1 colspan=1>1530</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Оценочные обязательствакраткосрочные</td><td rowspan=1 colspan=1>1540</td><td rowspan=1 colspan=1>372113</td><td rowspan=1 colspan=1>421463</td><td rowspan=1 colspan=1>308919</td></tr><tr><td rowspan=1 colspan=1>Прочие обязательствакраткосрочные</td><td rowspan=1 colspan=1>1550</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ИТОГО пассивы</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>2217 655</td><td rowspan=1 colspan=1>2130714</td><td rowspan=1 colspan=1>1019420</td></tr><tr><td rowspan=1 colspan=1>Стоимость чистых активов</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>3173375</td><td rowspan=1 colspan=1>2600 947</td><td rowspan=1 colspan=1>1706 523</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "352f2c6ce7a053a74a9260d562bb9a89d193f5bb3e37ad8441735939c8678cde.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        90,
+                                        553,
+                                        260.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        260.0,
+                                        553,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        430.0,
+                                        553,
+                                        600.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                55,
+                                598,
+                                536,
+                                624
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        596,
+                                        370,
+                                        606
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                596,
+                                                370,
+                                                606
+                                            ],
+                                            "score": 0.976,
+                                            "content": "За исключением задолженности участников (учредителей) по взносам в уставный капитал.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        603,
+                                        535,
+                                        617
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                603,
+                                                535,
+                                                617
+                                            ],
+                                            "score": 0.855,
+                                            "content": "За исклчением целевого финансирования и доходов будущих периодов,признанных организацией в свзи с получением государственной",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        614,
+                                        279,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                614,
+                                                279,
+                                                625
+                                            ],
+                                            "score": 0.975,
+                                            "content": "помощи, а таюже в связи с безвозмездным получением имущества.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 7
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 4,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        25,
+                        698,
+                        31,
+                        703
+                    ],
+                    "lines": []
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        218,
+                        55,
+                        387,
+                        65
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                54,
+                                387,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        54,
+                                        387,
+                                        64
+                                    ],
+                                    "score": 0.953,
+                                    "content": "Расчет стоимости чистых активов",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        578,
+                        631,
+                        584,
+                        637
+                    ],
+                    "lines": []
+                }
+            ],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        251,
+                        87,
+                        352,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                251,
+                                86,
+                                352,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        251,
+                                        86,
+                                        352,
+                                        96
+                                    ],
+                                    "score": 0.986,
+                                    "content": "(наименование организации)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "bbox_fs": [
+                        251,
+                        86,
+                        352,
+                        96
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        90,
+                        553,
+                        600
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                116,
+                                76,
+                                488,
+                                86
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        75,
+                                        489,
+                                        87
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                117,
+                                                75,
+                                                489,
+                                                87
+                                            ],
+                                            "score": 0.967,
+                                            "content": "Общество с ограниченной ответственностью \"ИНк-Текущий и капитальный ремонт скважин\"",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 0
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                50,
+                                90,
+                                553,
+                                600
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        90,
+                                        553,
+                                        600
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                90,
+                                                553,
+                                                600
+                                            ],
+                                            "score": 0.972,
+                                            "html": "<table><tr><td rowspan=1 colspan=5>(найменование организации)</td></tr><tr><td rowspan=1 colspan=1>Наименование показателя</td><td rowspan=1 colspan=1>Код строкибухгалтерскогобаланса</td><td rowspan=1 colspan=1>На 30 сентября 2024 г.</td><td rowspan=1 colspan=1>На 31 декабря 2023 г.</td><td rowspan=1 colspan=1> На 31 декабря 2022 г.</td></tr><tr><td rowspan=1 colspan=5>Активы</td></tr><tr><td rowspan=1 colspan=1>Нематериальные активы</td><td rowspan=1 colspan=1>1110</td><td rowspan=1 colspan=1>7986</td><td rowspan=1 colspan=1>ч</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Результаты исследований иразработок</td><td rowspan=1 colspan=1>1120</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Нематериальные поисковыеактивы</td><td rowspan=1 colspan=1>1130</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Материальные поисковые активы</td><td rowspan=1 colspan=1>1140</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Основные средства</td><td rowspan=1 colspan=1>1150</td><td rowspan=1 colspan=1>2855 042</td><td rowspan=1 colspan=1>2457539</td><td rowspan=1 colspan=1>1346 567</td></tr><tr><td rowspan=1 colspan=1>Доходные вложения вматериальные ценности</td><td rowspan=1 colspan=1>1160</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Финансовые вложениядолгосрочные</td><td rowspan=1 colspan=1>1170</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Отложенные налоговые активы</td><td rowspan=1 colspan=1>1180</td><td rowspan=1 colspan=1>49090</td><td rowspan=1 colspan=1>44 097</td><td rowspan=1 colspan=1>31929</td></tr><tr><td rowspan=1 colspan=1>Прочие внеоборотные активы</td><td rowspan=1 colspan=1>1190</td><td rowspan=1 colspan=1>11115</td><td rowspan=1 colspan=1>440848</td><td rowspan=1 colspan=1>54137</td></tr><tr><td rowspan=1 colspan=1>Запасы</td><td rowspan=1 colspan=1>1210</td><td rowspan=1 colspan=1>1623 161</td><td rowspan=1 colspan=1>1079699</td><td rowspan=1 colspan=1>817909</td></tr><tr><td rowspan=1 colspan=1>Налог на добавленную стоимостьпо приобретенным ценностям</td><td rowspan=1 colspan=1>1220</td><td rowspan=1 colspan=1>60185</td><td rowspan=1 colspan=1>3586</td><td rowspan=1 colspan=1>22 083</td></tr><tr><td rowspan=1 colspan=1>Дебиторская задолженность*</td><td rowspan=1 colspan=1>1230</td><td rowspan=1 colspan=1>770305</td><td rowspan=1 colspan=1>703204</td><td rowspan=1 colspan=1>447317</td></tr><tr><td rowspan=1 colspan=1>Финансовые вложениякраткосрочные</td><td rowspan=1 colspan=1>1240</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Денежные средства и денежныеэквиваленты</td><td rowspan=1 colspan=1>1250</td><td rowspan=1 colspan=1>12332</td><td rowspan=1 colspan=1>2659</td><td rowspan=1 colspan=1>5452</td></tr><tr><td rowspan=1 colspan=1>Прочие оборотные активы</td><td rowspan=1 colspan=1>1260</td><td rowspan=1 colspan=1>1814</td><td rowspan=1 colspan=1>29</td><td rowspan=1 colspan=1>548</td></tr><tr><td rowspan=1 colspan=1>ИТОГО аКТИВЫ</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>5391030</td><td rowspan=1 colspan=1>4731 661</td><td rowspan=1 colspan=1>2725 942</td></tr><tr><td rowspan=1 colspan=5>Пассивы</td></tr><tr><td rowspan=1 colspan=1>Заемные средствадолгосрочные</td><td rowspan=1 colspan=1>1410</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Отложенные налоговыеобязательства</td><td rowspan=1 colspan=1>1420</td><td rowspan=1 colspan=1>208724</td><td rowspan=1 colspan=1>160830</td><td rowspan=1 colspan=1>108224</td></tr><tr><td rowspan=1 colspan=1>Оценочные обязательствадолгосрочные</td><td rowspan=1 colspan=1>1430</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Прочие обязательствадолгосрочные</td><td rowspan=1 colspan=1>1450</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Заемные средствакраткосрочные</td><td rowspan=1 colspan=1>1510</td><td rowspan=1 colspan=1>782000</td><td rowspan=1 colspan=1>693 000</td><td rowspan=1 colspan=1>-</td></tr><tr><td rowspan=1 colspan=1>Кредиторская задолженность</td><td rowspan=1 colspan=1>1520</td><td rowspan=1 colspan=1>854818</td><td rowspan=1 colspan=1>855420</td><td rowspan=1 colspan=1>602276</td></tr><tr><td rowspan=1 colspan=1>Доходы будущих периодов **</td><td rowspan=1 colspan=1>1530</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>Оценочные обязательствакраткосрочные</td><td rowspan=1 colspan=1>1540</td><td rowspan=1 colspan=1>372113</td><td rowspan=1 colspan=1>421463</td><td rowspan=1 colspan=1>308919</td></tr><tr><td rowspan=1 colspan=1>Прочие обязательствакраткосрочные</td><td rowspan=1 colspan=1>1550</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1></td></tr><tr><td rowspan=1 colspan=1>ИТОГО пассивы</td><td rowspan=1 colspan=1>-</td><td rowspan=1 colspan=1>2217 655</td><td rowspan=1 colspan=1>2130714</td><td rowspan=1 colspan=1>1019420</td></tr><tr><td rowspan=1 colspan=1>Стоимость чистых активов</td><td rowspan=1 colspan=1>.</td><td rowspan=1 colspan=1>3173375</td><td rowspan=1 colspan=1>2600 947</td><td rowspan=1 colspan=1>1706 523</td></tr></table>",
+                                            "type": "table",
+                                            "image_path": "352f2c6ce7a053a74a9260d562bb9a89d193f5bb3e37ad8441735939c8678cde.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        90,
+                                        553,
+                                        260.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        260.0,
+                                        553,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        430.0,
+                                        553,
+                                        600.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                55,
+                                598,
+                                536,
+                                624
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        596,
+                                        370,
+                                        606
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                596,
+                                                370,
+                                                606
+                                            ],
+                                            "score": 0.976,
+                                            "content": "За исключением задолженности участников (учредителей) по взносам в уставный капитал.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        51,
+                                        603,
+                                        535,
+                                        617
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                51,
+                                                603,
+                                                535,
+                                                617
+                                            ],
+                                            "score": 0.855,
+                                            "content": "За исклчением целевого финансирования и доходов будущих периодов,признанных организацией в свзи с получением государственной",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        52,
+                                        614,
+                                        279,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                52,
+                                                614,
+                                                279,
+                                                625
+                                            ],
+                                            "score": 0.975,
+                                            "content": "помощи, а таюже в связи с безвозмездным получением имущества.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 7
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.7.6"
+}
