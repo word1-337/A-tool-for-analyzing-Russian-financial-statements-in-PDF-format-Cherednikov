@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# MinerU working directory (large generated files)
+new_out/
+
+# Uploaded PDFs (user data)
+source/
+
+# OS
+.DS_Store
+Thumbs.db
