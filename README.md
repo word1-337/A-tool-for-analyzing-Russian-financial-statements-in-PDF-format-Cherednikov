@@ -7,97 +7,167 @@
 - оценивает динамику (темпы прироста по строкам отчётности);
 - рассчитывает интегральный индекс финансовой устойчивости (0..1);
 - предоставляет веб-интерфейс на Streamlit;
-- опционально даёт текстовый вывод ИИ через Ollama (модель qwen2.5:32b).
+- опционально даёт текстовый вывод через Ollama (модель qwen2.5:32b).
 
 ## Структура проекта
 
 ```
-agent.py          — единый файл: backend + веб-интерфейс
+agent.py          — единый файл: backend (MinerU, расчёты) + веб-интерфейс
 requirements.txt  — зависимости
 results/          — готовые .txt-отчёты (создаётся автоматически)
 ```
 
-## Требования
+---
 
-- Windows 10/11
-- Python **3.10 или 3.11** с сайта [python.org](https://www.python.org/downloads/) (не из Microsoft Store — см. ниже)
-- pip
+## Установка
 
-## Шаг 0 — короткий путь к проекту (обязательно)
+### Шаг 1 — Python
 
-MinerU содержит файлы с длинными путями. Если проект лежит глубоко
-(`C:\Users\...\Downloads\...`), `pip install` упадёт с ошибкой `OSError: No such file or directory`.
+Скачай **Python 3.11** строго с [python.org](https://www.python.org/downloads/release/python-3119/) → `Windows installer (64-bit)`.
 
-**Положи папку проекта в корень диска**, например:
+> **Не используй Python из Microsoft Store** — он устанавливает пакеты в путь длиной ~120 символов,
+> что вызывает `OSError` при установке MinerU (у него длинные внутренние пути).
+
+При установке **обязательно** поставь галочку **"Add Python to PATH"**.
+
+Проверь в новом терминале:
+```
+python --version
+```
+Должно быть `Python 3.11.x`.
+
+### Шаг 2 — положи проект в короткий путь
+
+Распакуй или склонируй репозиторий в **корень диска**, например:
 
 ```
 C:\proj\
 ```
 
-Итоговый путь должен быть коротким: `C:\proj\agent.py`, а не `C:\Users\gagag\Downloads\...`
+Итоговый путь к файлу должен быть коротким: `C:\proj\agent.py`.
 
-> Альтернатива (если есть права администратора) — включить поддержку длинных путей в Windows:
-> ```powershell
-> Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
-> ```
+> Если проект лежит в `C:\Users\...\Downloads\...`, установка может упасть с ошибкой
+> `OSError: No such file or directory` из-за ограничения Windows в 260 символов.
 
-## Шаг 1 — установка Python
+### Шаг 3 — установи зависимости
 
-Скачай **Python 3.11** с [python.org](https://www.python.org/downloads/release/python-3119/) → `Windows installer (64-bit)`.
+Открой терминал в папке `C:\proj\` и выполни:
 
-> **Не используй Python из Microsoft Store** — он устанавливает скрипты в папку вне PATH,
-> из-за чего команда `streamlit` не будет найдена в терминале.
-
-При установке **обязательно** поставь галочку **"Add Python to PATH"**.
-
-Проверь:
-```powershell
-python --version   # должно быть Python 3.11.x
 ```
-
-## Шаг 2 — установка зависимостей
-
-Из папки `C:\proj\` выполни:
-
-```bash
 python -m pip install -r requirements.txt
 ```
 
-> При первом анализе PDF MinerU автоматически скачивает модели (~5 ГБ).
-> Нужен интернет и свободное место на диске.
+Установка занимает 5–15 минут (скачивается ~2 ГБ пакетов).
 
-## Шаг 3 — запуск
+### Шаг 4 — запуск
 
-```bash
+```
 python -m streamlit run agent.py
 ```
 
 Браузер откроется на `http://localhost:8501`.
 
-> Используй `python -m streamlit` вместо просто `streamlit` — это работает всегда,
-> даже если папка Scripts не добавлена в PATH.
+> При **первом анализе PDF** MinerU автоматически скачивает ML-модели (~5 ГБ).
+> Это происходит один раз. Нужен интернет и место на диске.
+
+---
 
 ## Настройка Ollama (опционально)
 
-Для работы ИИ-комментариев:
+Для работы кнопок «Краткий вывод ИИ» и «Спросить ИИ»:
 
 1. Установи Ollama: https://ollama.com/download
 2. Скачай модель:
-
-   ```bash
+   ```
    ollama pull qwen2.5:32b
    ```
 
-> Модель `qwen2.5:32b` весит ~20 ГБ и требует 32+ ГБ ОЗУ.
-> Если ресурсов мало — используй `qwen2.5:7b` (заменить в `agent.py` строку `model="qwen2.5:32b"`).
+> `qwen2.5:32b` весит ~20 ГБ и требует 32+ ГБ ОЗУ.
+> На слабых машинах замени на `qwen2.5:7b` — в `agent.py` найди все строки
+> `model="qwen2.5:32b"` и замени на `model="qwen2.5:7b"`.
 
-## Частые проблемы
+---
 
-| Проблема | Решение |
-|---|---|
-| `OSError: No such file or directory` при `pip install` | Перемести проект в `C:\proj\` (короткий путь) и повтори установку |
-| `streamlit` не найден после установки | Используй `python -m streamlit run agent.py` |
-| Установка упала на середине | Повтори `python -m pip install -r requirements.txt` |
-| MinerU скачивает модели очень долго | Нормально при первом запуске (~5 ГБ), дождись |
-| Ollama не отвечает | Убедись что Ollama установлена и запущена (`ollama serve`) |
-| Python 3.12 / 3.13 — ошибки при установке MinerU | Используй строго Python 3.10 или 3.11 |
+## Частые проблемы при установке
+
+### `OSError: No such file or directory` при `pip install`
+
+**Причина:** Python из Microsoft Store устанавливает пакеты в слишком длинный путь,
+либо проект лежит глубоко в папках.
+
+**Решение 1 (рекомендуется):** переустанови Python с [python.org](https://www.python.org/downloads/release/python-3119/) и положи проект в `C:\proj\`.
+
+**Решение 2 (если есть права администратора):** включить поддержку длинных путей:
+```powershell
+Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem' -Name 'LongPathsEnabled' -Value 1
+```
+
+---
+
+### `pip` не распознан / `streamlit` не найден
+
+**Причина:** папка Scripts не добавлена в PATH (частая проблема с Microsoft Store Python).
+
+**Решение:** всегда используй `python -m` вместо прямых команд:
+```
+python -m pip install -r requirements.txt
+python -m streamlit run agent.py
+```
+
+---
+
+### `WARNING: ... is not on PATH`
+
+Это предупреждение, **не ошибка**. Установка продолжается. Просто используй `python -m streamlit` для запуска.
+
+---
+
+### `ModuleNotFoundError: No module named 'torch'`
+
+MinerU требует PyTorch, но не всегда устанавливает его автоматически.
+
+```
+python -m pip install torch torchvision
+```
+
+---
+
+### `ModuleNotFoundError: No module named 'doclayout_yolo'` (или другой модуль MinerU)
+
+MinerU в pipeline-режиме требует дополнительные пакеты. Установи extras:
+
+```
+python -m pip install "mineru[pipeline]"
+```
+
+---
+
+### Установка упала в середине
+
+pip сохраняет прогресс. Просто повтори команду — продолжит с того места:
+
+```
+python -m pip install -r requirements.txt
+```
+
+---
+
+### Python 3.12 / 3.13 — ошибки при установке MinerU
+
+MinerU несовместим с Python 3.12+. Используй строго **Python 3.11**.
+
+---
+
+### MinerU скачивает модели очень долго
+
+Нормально при первом запуске (~5 ГБ). Не закрывай браузер и дождись завершения.
+
+---
+
+### Ollama не отвечает
+
+Убедись что сервис запущен:
+```
+ollama serve
+```
+Если Ollama установлена, она запускается автоматически. Попробуй перезапустить.
